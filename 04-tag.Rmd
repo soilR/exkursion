@@ -1,6 +1,9 @@
 # Tag 4 - Bremen und Bremerhaven
 
+<div style="text-align: justify">
+
 Nachdem die erste Nacht in der Unterkunft in Bremen trotz diverser Widrigkeiten von allen Teilnehmern überstanden wurde, kam die Exkursionsgruppe das erste mal in den Genuss der Vorzüge einer Norddeutschen Großstadt. 
+
 
 
 Versuche einen Computerkurs zu starten scheiterten, da die ewige Suche nach einer Wlanverbindung welche wie ein roter Faden durch die gesamte Reise zog, auch an diesem Morgen in Bremen keine Früchte trug.
@@ -8,6 +11,8 @@ Deshalb brachen wir kurz nach einem herzhaften Tankstellenfrühstück umgehend n
 Das Ziel war hier nicht etwa die Innenstadt, sonder die Bremerhavener Hafenanlage, da sich hier zwei Hauptattraktionen des Bundeslandes befinden:
 Das Klimahaus und das Deutsche Auswandererhaus Bremerhaven.
 Da der stramme Zeitrahmen nur den Besuch einer dieser beiden Institutionen erlaubte, und es Diskrepanzen bei der Prioritätensetzung innerhalb der Gruppe gab, wurde kurzerhand beschlossen die Gruppe aufzuteilen.
+
+</div>
 
 ## Das Klimahaus
 
@@ -30,11 +35,13 @@ Bremerhaven war im 19. und bis in die mitte des 20. Jahrhunderts einer der bedeu
 Meist von sozialer Not getrieben bestiegen hier ab 1830 7,2 Milionen Menschen Passagierschiffe die sie über den Atlantik tragen sollten.
 Die Ausstellung ist so aufgebaut, dass sie den Besucher durch Nachbauten der  einzelnen Stadien führt die auch ein Auswanderer der damaligen Zeit durchgehen musste, angefangen in den Massenunterkunftshallen, über den Hafen, durch die Unterkünfte am zwischendeck bis nach Ellis Island in New York.
 
-![Nachbau des Eingangs eines Passagierschiffes im Bremer Auswandererhaus](images/Christian vorsortiert/Zoo + BRemerhaven/DAH_Kaje_c_DeutschesAuswandererhaus_lb-1040x688-c-default@3x.jpg)
+![Nachbau des Eingangs eines Passagierschiffes im Bremer Auswandererhaus](images/Christian vorsortiert/Zoo + BRemerhaven/DAH_Kaje_c_DeutschesAuswandererhaus_lb-1040x688-c-default@3x.jpg){width=100}
+
 
 Dabei werden dem Besucher auch die persönlichen Schicksäle der Familien oder Einzelpersonen durch Logbucheinträge oder Tagebücher nahegebracht. Insbesondere dadurch, dass jeder Besucher den "Fahrtschein" einer realen Person erhält, dessen jeweiliges Schicksal er in der Ausstellung erfährt, wird die Ausstellung besonders immersiv.
 
-![Archiv von Logbucheintragen und Tagebuchseiten ehemaliger Passagiere](images/Christian vorsortiert/Zoo + BRemerhaven/external-content.duckduckgo.com.jpg)
+![Archiv von Logbucheintragen und Tagebuchseiten ehemaliger Passagiere](images/Christian vorsortiert/Zoo + BRemerhaven/external-content.duckduckgo.com.jpg) 
+
 
 Am Schluss der Ausstellung befindet sich zusätzlich auch ein Austellungs- und Diskussionsforum in welchem ethische Fragen rund um Staatsbürgerschaft und Migration in der heutigen Zeit diskutiert wird.
 Auch eine Datenbank in welcher jeder Besucher Verwandte oder Vorfahren recherchieren kann welche in Bremerhaven ausschifften ist ganz am Ende der Ausstellung zu finden
