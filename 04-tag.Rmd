@@ -1,10 +1,7 @@
-# Tag 4 - XY
+# Tag 4 - Bremen und Bremerhaven
 
-Nachdem die erste Nacht in der Unterkunft in Bremen trotz aller widrigkeiten von allen teilnehmern überstanden wurde, kam die *Exkursionsgruppe* das erste mal in den Genuss der Vorzüge einer Norddeutschen Großstadt. 
+Nachdem die erste Nacht in der Unterkunft in Bremen trotz diverser Widrigkeiten von allen Teilnehmern überstanden wurde, kam die Exkursionsgruppe das erste mal in den Genuss der Vorzüge einer Norddeutschen Großstadt. 
 
-* test
-* ist das ein bullet
-* point
 
 ![test eines bildes *duck*](images/duck.jpg)
 
