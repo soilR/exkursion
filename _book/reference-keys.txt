@@ -24,6 +24,7 @@ tag-12---xy
 tag-13---xy
 synthese
 <<<<<<< HEAD
+<<<<<<< HEAD
 standort-1
 das-klimahaus
 das-bremer-auswandererhaus
@@ -34,5 +35,7 @@ tag-2---moorgenese---trinkwassergewinnung---massentierhaltung-nitrat
 tag-2---moorgenese---trinkwassergewinnung
 tag-6---18.09.2021
 fährenüberfahrt-wischhafen---glückstadt
+=======
+>>>>>>> c07838e9e49df309292dfcd1e41bb60a57493f6e
 =======
 >>>>>>> c07838e9e49df309292dfcd1e41bb60a57493f6e
