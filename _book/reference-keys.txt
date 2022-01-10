@@ -1,18 +1,29 @@
 einleitung---große-exkursion
 tag-1---xy
-tag-2---xy
+standort-1
+tag-2---moorgenese---trinkwassergewinnung
+bastauwiesenmoor
 tag-3---xy
-tag-4---xy
+tag-4---bremen-und-bremerhaven
+das-klimahaus
+das-deutsche-auswandererhaus-bremerhaven
+bremer-altstadt
 tag-5---xy
+besuch-der-aluminiumoxid-werke-stade
 tag-6---xy
 tag-7---xy
 tag-8---xy
 tag-9---xy
 tag-10---xy
+aufbruch
+die-glaziale-serie-in-norddeutschland
+der-bungsberg
+toteisloch
 tag-11---xy
 tag-12---xy
 tag-13---xy
 synthese
+<<<<<<< HEAD
 standort-1
 das-klimahaus
 das-bremer-auswandererhaus
@@ -23,3 +34,5 @@ tag-2---moorgenese---trinkwassergewinnung---massentierhaltung-nitrat
 tag-2---moorgenese---trinkwassergewinnung
 tag-6---18.09.2021
 fährenüberfahrt-wischhafen---glückstadt
+=======
+>>>>>>> c07838e9e49df309292dfcd1e41bb60a57493f6e
