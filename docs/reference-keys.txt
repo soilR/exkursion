@@ -27,4 +27,7 @@ tag-3---augustendorf-torfwerk-bad-zwischenahner-meer
 forstliche-dauerbeobachtungsfläche-augustendorf
 torfwerk
 bad-zwischenahner-meer
+<<<<<<< HEAD
 besuch-des-apfelhofes-alten-land
+=======
+>>>>>>> cb151018af9fa9134862463b05103228de7c86e8
