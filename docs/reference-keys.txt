@@ -23,3 +23,7 @@ tag-11---xy
 tag-12---xy
 tag-13---xy
 synthese
+tag-3---augustendorf-torfwerk-bad-zwischenahner-meer
+forstliche-dauerbeobachtungsfläche-augustendorf
+torfwerk
+bad-zwischenahner-meer
