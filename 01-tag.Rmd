@@ -10,4 +10,9 @@ Das ist **FETT** und das ist *KURSIV*.
 
 Dies ist ein Test  
 und noch einer
+<<<<<<< HEAD
 Test Jana
+=======
+und noch einer höhö
+
+>>>>>>> d540f517932286805752668c1a01b3ab5ba2c158
