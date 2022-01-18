@@ -39,9 +39,20 @@ Reif, A., Schluze, E. D., Ewald, J., Rothe, A., 2014. Kalk im Wald - Muss das se
 ## Torfwerk
 <div style="text-align: justify">
 
-Im Anschluss ging es für die Truppe weiter in Richtung des Torfwerks [Moorkultur Ramsloh](https://www.moorkultur-ramsloh.de/), wo wir eine Führung in das Torfabbaugebiet erhalten haben. Für eine kurze Einführung trafen wir uns mit den beiden Referentinnen am Besuchergebäude des Unternehmens. Von dort ging es mit den Autos raus ins Moor und damit in das Torfabbaugebiet. 
+Im Anschluss ging es für die Truppe weiter in Richtung des Torfwerkes [Moorkultur Ramsloh](https://www.moorkultur-ramsloh.de/), wo wir eine Führung in das Torfabbaugebiet erhalten haben. Für eine kurze Einführung trafen wir uns mit den beiden Referentinnen am Besuchergebäude des Unternehmens. Von dort ging es mit den Autos raus ins Moor und damit in das Torfabbaugebiet. 
 
 ![Die Exkursionsgruppe bei der Ankunft im Moor](/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9172.jpg)
+Bereits die Anfahrt in das Moor lies uns all staunen. Das Abbaugebiet liegt im Naturschutzgebiet [Esterweger Dose](https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html), das rund 4700 ha umfasst. Die ca. 10 Minuten Anfahrt bot einen Ausblick auf einen schwarze Ebene, die sich bis zum Horizont ausstreckte. Mitten drin in weiterer Entfernung waren Bagger zusehen, mit welchem Torf abgebaut wurde. Auf 
+
+```{r, echo=FALSE, out.width="50%", fig.cap="Torfabbaugebiet Esterweger Dose"}
+myimages<-list.files("images/", pattern = ".jpg", full.names = TRUE)
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Eserweger_Dose_Abbau")
+```
+
+
+**Literatur**
+
+NLWKN, 2012. Naturschutzgebiet "Esterweger Dose". Niedersächsicher Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz. https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html. Zugang: 18.01.2022/11:41h.
 
 ## Bad Zwischenahner Meer
 <div style="text-align: justify">
