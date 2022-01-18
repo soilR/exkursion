@@ -4,7 +4,9 @@
 
 <div style="text-align: justify">
 
-![Naturschutzgebiet Bastauwiesenmoor](/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/640px-Bastauwiesen1.png){width=40%} [Naturschutzgebiet Bastauwiesen](https://www.wikiwand.com/de/Bastauwiesen)
+```{r, echo=FALSE, out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/640px-Bastauwiesen1.png")
+```
 
 Nach einem entspannten Abend in der [Wiehnen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das nächste Ziel des  ersten Tages war das Große Torfmoor in den Bastauwiesen. Die Bastauwiesen durften wir am vorherigen Tag bereits kennenlernen  und bei einem Bier die Aussicht auf diese genießen. Die Anfahrt am nächsten Morgen auf der Moorbadstraße entlang des  Mittellandkanals war durch leichte Nebelschleier geprägt und ließ Vorfreude auf die uns bevorstehende Moorwanderung aufkeimen. Wir starteten am Wanderparkplatz "Großes Torfmoor P3" und konnten nach etwa 5 Minuten den ersten Blick auf das im Morgentau und -frost liegenden Hochmoor erlangten. Besonders hervorgestochen sind  vielen Spinnennetzen die von den Spinnentieren flächendeckend verteilt in der Moorvegetation gesponnen wurden. Der morgendliche Tau verfing sich in der Seide der kunstvollen Netze, wodurch eine besonders mystische Atmosphäre geschaffen wurde. 
 
@@ -20,7 +22,7 @@ Nach Succow & Jeschke (1990) lassen sich bei den Folgen 3 Hauptprozesse untersch
 Mit dem Wasserentzug im Moor mindert sich die der Gewichtskraft des Moorsubstrates entgegenwirkende Auftriebskraft. Der Moorboden drückt sich in Folge dessen mit zunehmender Entwässerungstiefe auch stärker zusammen. Dadurch entsteht Bodenverdichtung. Mit erneutem Wasserspiegelanstieg erhöht sich zwar die Auftriebskraft wieder und wird somit die Mooroberfläche wieder angehoben, das Ausgangsniveau der Moorhöhe wird jedoch nicht mehr erreicht. 
 
 2. **Schrumpfung** 
-Leeren sich die wassergefüllten Poren im Moorboden, so ziehen sich die Festbestandteile stärker an. Die Porengröße verringert sich. Das Bodenvolumen wird somit vermindert. Der entgegenwirkende Prozess ist die Quellung bei Wiederauffüllung der Moorbodenporen mit Wasser. Die Rückquellung ist jedoch nicht vollständig, so dass auch nach Wiedervernässung eine Volumenminderung verbleibt. 
+Leeren sich die wassergefüllten Poren im Moorboden, so ziehen sich die Festbestandteile stärker an. Die Porengröße verringert sich. Das Bodenvolumen wird somit vermindert. Der entgegenwirkende Prozess ist die Quellung bei Wiederauffüllung der Moorbodenporen mit Wasser. Die Rückquellung ist jedoch nicht vollständig, so dass auch nach Wiedervernässung eine Volumenminderung zurückbleibt. 
 
 3. **Torfschwund (Mineralisierung)**
 Torfschwund entsteht durch den vollständigen Abbau organischer Substanz durch Mikroorganismen in mineralische Bestandteile und Gase (Mineralisierung). Der Teilprozess dessen, die Umwandlung hochmolekularer organischer Stoffe in niedermolekulare, heißt Humifizierung. Durch Mineralisierung findet ein echter Verlust an Festsubstanz statt, da hierbei die klimaschädlichen Gase Kohlendioxid und Lachgas gebildet werden und in die Atmosphäre entweichen. Große mineralisierende Moorflächen haben daher Einfluss auf den Treibhauseffekt.

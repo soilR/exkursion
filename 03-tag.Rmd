@@ -18,11 +18,15 @@ Die Fläche wird durch die [Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA)
 
 Die methodischen Instrumente der Ökosystemüberwachungen sind europaweit gemäß dem Grundsätzen des IPC Forests (2016) harmonisiert. Die Daueruntersuchungsfläche Augustendorf gehört damit zu einer von rund 800 Parzellen, die in Europa unter dem Beobachtungsstatus Level II stehen.
 
-![Das Exkursionsmobil und Pürckhauer im Regen](/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9157.jpg)
+```{r, echo=FALSE, fig.cap="Das Exkursionsmobil und Pürckhauer im Regen"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9157.jpg")
+```
 
 Wir trafen uns vor Ort mit dem zuständigen Förster, der uns trotz des verregneten Wetters zusammen mit seiner Hündin, einer Alpenländischen Dachsbracke, eine Führung über die Dauerbeobachtungsfläche gab. Der Standort kennzeichnet sich durch lehmige Sande im Untergrund und ist schlussfolgernd nährstoffarm. Die Nährstoffziffer liegt bei 1-3. Aufgrund der sandigen Böden sind die Bedingungen der Wasserversorgung der Biomasse schwach bis mäßig. Sande speichern aufgrund ihres grobporigen Porenvolumens nur sehr geringe Mengen Wasser. Für Pflanzen ist das Wasser, dass der Boden gegen die Schwerkraft halten kann (Feldkapazität) subtrahiert mit dem Wassergehalt beim permanenten Welkepunkt relevant. Man spricht von der sogenannten nutzbaren Feldkapazität (nFK). 
 
-![Die junge Dachsbrackendame](/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/Dachsbracke_Herr_Mansfeldt.jpg) 
+```{r, echo=FALSE, fig.align='center', fig.cap="Die junde Dachsbrackendame"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/Dachsbracke_Herr_Mansfeldt.jpg")
+```
 
 Aufgrund des nähstoffarmen Standortes dominierten hier immer schon Nadelholzer, welche zu großen Teilen in Form von Reinbeständen bewirtschaftet wurden. Im Zuge des Klimawandels sprach der Förster vor allem von der hohen Abhängigkeit der Nadelbäume gegenüber der immer kritischer werdenden Wasserversorgung durch die hiesigen Böden. Ziel der forstwirtschaftlichen Bemühungen ist es aktuell das Nadelholz geprägt Revier in Bestände zu überführen, die unter anderem Beimischungen von Laubholzbäumen haben. Damit soll dem Problem der Reinbestände/Monokulturen entgegengewirkt werden. Diese sind aus verschiedenen Gründen von Vorteil. Reinbestände sind anfällig gegenüber flächendeckender Zerstörung bei Ereignissen wie Dürreperioden oder Stürmen, die einer Baumart besonders zusetzen. Ein Beispiel für den Standort Augustendort sind schwere Stürme im Jahr 1972. Aufgrund des dort herrschenden Reinbestandes kam es fast flächendeckend zur Zerstörung der dortigen Bäume. Für die Zukunft ist eine hohe Artenvielfalt erwünscht. Wenn eine Baumart ausfällt kommt es relativ schnell zur Schließung der Lücken durch die umliegenden Baumarten.
  
@@ -41,15 +45,21 @@ Reif, A., Schluze, E. D., Ewald, J., Rothe, A., 2014. Kalk im Wald - Muss das se
 
 Im Anschluss ging es für die Truppe weiter in Richtung des Torfwerkes [Moorkultur Ramsloh](https://www.moorkultur-ramsloh.de/), wo wir eine Führung in das Torfabbaugebiet erhalten haben. Für eine kurze Einführung trafen wir uns mit den beiden Referentinnen am Besuchergebäude des Unternehmens. Von dort ging es mit den Autos raus ins Moor und damit in das Torfabbaugebiet. 
 
-![Die Exkursionsgruppe bei der Ankunft im Moor](/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9172.jpg)
-Bereits die Anfahrt in das Moor lies uns all staunen. Das Abbaugebiet liegt im Naturschutzgebiet [Esterweger Dose](https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html), das rund 4700 ha umfasst. Die ca. 10 Minuten Anfahrt bot einen Ausblick auf einen schwarze Ebene, die sich bis zum Horizont ausstreckte. Mitten drin in weiterer Entfernung waren Bagger zusehen, mit welchem Torf abgebaut wurde. Auf 
-
-```{r, echo=FALSE, out.width="50%", fig.cap="Torfabbaugebiet Esterweger Dose"}
-myimages<-list.files("images/", pattern = ".jpg", full.names = TRUE)
-knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Eserweger_Dose_Abbau")
+```{r, echo=FALSE, fig.cap="Die Exkursionstruppe bei der Ankunft im Moor"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9172.jpg")
 ```
 
+Bereits die Anfahrt in das Moor lies uns all staunen. Das Abbaugebiet liegt im Naturschutzgebiet [Esterweger Dose](https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html), das rund 4700 ha umfasst. Die ca. 10 Minuten Anfahrt bot einen Ausblick auf einen schwarze Ebene, die sich bis zum Horizont ausstreckte. Mitten drin in weiterer Entfernung waren Bagger zusehen, mit welchem Torf abgebaut wurde. Zudem kamen wir an der, im Moor liegenden, Marinefunksendestelle Rhauderfehn vorbei. Dabei handelt es sich um 8 jeweils 352,8 m hohe Sendemasten, die aufgrund ihrer Höhe auf Platz 2 der höchsten Bauwerke Deutschland liegen und zu den höchsten militärisch genutzten Bauwerken des kontinentalen Westeuropas gehören. 
 
+Das Naturschutzgebiet Esterweger Dose gehört zu den [Natura-2000](https://www.bmuv.de/themen/naturschutz-artenvielfalt/naturschutz-biologische-vielfalt/gebietsschutz-und-vernetzung/natura-2000) Schutzgebieten und 
+
+```{r, echo=FALSE, fig.cap="Bagger im Torfabbaugebiet Esterweger Dose"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Eserweger_Dose_Abbau/IMG_9163.jpg")
+```
+
+```{r, echo=FALSE, fig.cap="Entwässerungsgraben im Torfabbaugebiet Esterweger Dose"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Eserweger_Dose_Abbau/IMG_9165.jpg")
+```
 **Literatur**
 
 NLWKN, 2012. Naturschutzgebiet "Esterweger Dose". Niedersächsicher Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz. https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html. Zugang: 18.01.2022/11:41h.
