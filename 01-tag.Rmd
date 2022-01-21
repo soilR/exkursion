@@ -2,6 +2,8 @@
 
 ## Porta Westfalica (Jana)
 
+<div style="text-align: justify">
+
 Unsere Exkursion startet am Montag den 13. September 2021 gegen 08:00 am [Rundbau des geographischen Instituts](https://geographie.uni-koeln.de/institut/gebaeude/rundbau) der Universität zu Köln. Nach Beladen des gemieteten Vans (Busses) geht die Reise in Richtung Minden los. Dort liegt mit der Porta Westfalica der erste Zwischenstopp unserer zweiwöchigen Exkursion. Auf dem Weg von Köln nach Minden durchqueren wir das nördliche Sauerland sowie den Teutoburger Wald und kommen vormittags am Kaiser-Wilhelm-Denkmal [Kaiser-Wilhelm-Denkmal](https://www.kaiser-wilhelm-denkmal.lwl.org/de/) in Porta Westfalica an. Das Denkmal wurde 1896 nach vier jähriger Bauzeit fertig gestellt und zeigt Wilhelm Friedrich Ludwig von Preußen (1797 – 1988), König von Preußen sowie Deutscher Kaiser. Mit einer Gesamthöhe von knapp 90 m und der erhöhten Lage auf dem Wittekindsberg überwacht das Denkmal den Weserdurchbruch zwischen dem westlich gelegenen Wiehengebirge und dem östlichen Wesergebirge an der Mittelgebirgsschwelle in die Norddeutsche Tiefebene. Das 7 m hohe bronzene Standbild steht auf einem aus Porta-Sandstein errichteten Sockel und wird durch einen steinernen Baldachin überdacht **(Quelle: https://www.kaiser-wilhelm-denkmal.lwl.org/de/denkmal/baugeschichte/)**.
 
 **(Bild einfügen)**
@@ -10,13 +12,19 @@ Die geographische Lage des Ehrendenkmals erlaubte kurze Transportwege für den b
 In Tieflagen und den Überflutungsgebieten der Weser überwiegen heute Grundwasser beeinflusste Böden wie beispielsweise Gleye sowie verschiedene Auenböden **(Quelle: Elwas)**. Da die Ausgangsgesteine der Bodenbildung häufig kalkhaltig sind und somit Säureeinträge puffern, herrschen neutrale Boden pH-Werte vor. Im Weserbergland sowie im Wiehengebirge dominieren Buchenwälder in unterschiedlichen Vergesellschaftungen wie beispielsweise dem Waldmeister. Auch Mischwälder mit Erlen oder Eichen können angetroffen werden **(Quelle: https://www.wald-und-holz.nrw.de/wald-in-nrw/wuchsgebiete/weserbergland)**.
 Die Aussichtsplattform zu Füßen der Statue ermöglicht uns einen ersten Blick in Richtung der Norddeutschen Tiefebene, die wir in den nächsten Tagen weiter bereisen werden. 
 
+</div>
+
 ## Wasserstraßenkreuz Minden (Jana)
+
+<div style="text-align: justify">
 
 Nach einer Mittagspause in Minden und kleinen Stärkung beim City-Döner führen wir unsere Fahrt fort. Der nächste Stopp ist das Wasserstraßenkreuz Minden etwa 2,5 km außerhalb des Stadtzentrums. Dabei handelt es sich um eine Kreuzung zwischen der von Süden nach Norden fließenden Weser und dem von West nach Ost verlaufenden Mittellandkanal. Der Mittellandkanal wird hier in zwei 370 m langen Trogbrücken über die Weser geleitet. Dabei liegt der mittlere Kanalspiegel etwa 13 m oberhalb dem der Weser. Der alte Kanaltrog hat eine Breite von 24 m und eine Wassertiefe von 3 m. Neben der 1914 fertig gestellten alten Kanalbrücke wurde 1993 eine zweite Kanalbrücke errichtet, deren Abmessungen mit 42 m Breite und 4 m Wassertiefe die Überfahrt für größere Schiffe erlaubt **(Quelle: https://www.wsa-mittellandkanal-elbe-seitenkanal.wsv.de/Webs/WSA/Mittellandkanal-ESK/DE/Wasserstrassen/BauwerkeAnlagen/Kanalbruecken/kanalbruecken_node.html#doc1716756bodyText2)**. Auf den Mittellandkanal können somit Schiffe die Weser kreuzen ohne mit dem Schiffsverkehr auf der Weser zu kollidieren. Eine Verbindung zwischen den beiden Wasserstraßen ist durch mehrere Schleusen und Pumpwerke gegeben. **Abbildung xy** zeigt die alte Kanalbrücke aus südwestlicher Richtung.
 
 **(Bild einfügen)**
 
 Wir gehen ein kleines Stück die Brücke entlang und genießen den Blick hinunter auf die Aue der Weser sowie das Weserbergland und das Wiehengebirge, die sich in südlicher Richtung am Horizont zeigen. Auch der Weserdurchbruch ist zu erkennen **(evtl. Bild einfügen)**. Mit diesem Blick zurück setzen wir unsere Fahrt in den Norden Deutschlands fort und machen uns auf den Weg zu unserem nächsten Zwischenstopp.
+
+</div>
 
 ## Biobauernhof Kinkelbur
 
@@ -36,6 +44,8 @@ Die jüngsten Veränderungen auf dem Hof Kinkelbur gehen auf die Pandemie zurüc
 
 ## Oberlübber Bergsee (Jana)
 
+<div style="text-align: justify">
+
 Am nördlichen Rande des Wiehengebirges machen wir Halt und gehen zu Fuß zu unserem nächsten Standort. Nach einem etwa 10-minütigen Aufstieg erreichen wir den Oberlübber Bergsee. Dabei handelt es sich um einen ehemaligen Steinbruch in dem das vorrangig kalkhaltige Sandgestein des Wiehengebirges abgebaut wurde. Nach Beendigung des Abbaus **(wann?)** entstand ein See, der über steile Uferflanken verfügt. Aufgrund der Unfallgefahr ist der See heute durch einen Zaun der Öffentlichkeit unzugänglich gemacht.
 Wir gehen den Weg ein Stück weiter bergauf und bekommen an einem erodierten Hang direkt neben dem Weg einen Eindruck über das hier vorliegende Gestein. Besonders auffällig ist die starke Verstellung der zu erkennenden Schichten. Man beschreibt die „Schiefe“ der Gesteinsschichten mit Hilfe des Steichens und Fallens. Dabei gibt die Streichrichtung die Orientierung, die Fallrichtung das zur Streichrichtung senkrecht stehende Einfallen der Gesteinsschicht an. **(Wie waren die Richtungen vor Ort?).** Ein Test mit **xy %-iger** Salzsäure zeigt uns, dass das Gestein nicht kalkhaltig ist, obwohl es sich wie wir zuvor gelernt hatten, um ursprünglich kalkhaltiges Gestein handelt. Gründe für die Entkalkung des Materials und die zugrunde liegenden Prozesse werden wir am nächsten Standort genauer diskutieren.
 Über dem stark verstellten Untergrundgestein, ist ein geringmächtiger humoser Oberboden zu erkennen. Da es sich bei dem Ausgangsgestein um ein **(entkalktes)** Carbonatgestein handelt, wir der Boden nach der deutschen Bodenklassifikation als Rendzina bezeichnet. 
@@ -44,7 +54,11 @@ Wir gehen den Weg ein Stück weiter bergauf und bekommen an einem erodierten Han
 
 Wir verlassen das Wiehengebirge in nördliche Richtung und begeben uns auf den Weg zu unserem letzten Standort für diesen Tag.
 
+</div>
+
 ## Kolluvisol (Jana)
+
+<div style="text-align: justify">
 
 Im nördlichen Vorland des Wiehengebirges machen wir Halt am Rande eines Rapsfeldes. Hier wollen wir uns mit Hilfe eines Pürckhauer Bohrstockes den Ackerboden anschauen. Wir achten dabei insbesondere darauf, eine Schädigung der jungen Rapspflanzen zu vermeiden. An einigen Pflanzen sind jedoch bereits kleine Löcher in den Blättern zu erkennen. Dabei handelt es sich um den typischen Lochfraß des Rapserdflohs (Psylliodes chrysocephala). 
 
@@ -56,4 +70,4 @@ Die mit Hilfe des Pürckhauers entnommene Bodenprobe zeigt einen etwa 40 cm mäc
 
 Wir fahren noch ein Stück weiter in nördliche Richtung und lassen den Tag bei einem gemeinsamen Bier am Rande der Bastauwiesen, die wir uns am nächsten Tag genauer anschauen werden, ausklingen und freuen und auf ein leckeres Abendessen, ein nettes abendliches Beisammensein und eine erholsame Nacht. Gerne wird von einigen ExkursionsteilnehmerInnen das Wellnessangebot der  [Wiehen-Therme](https://www.wiehen-therme.com/) angenommen.
 
-
+</div>
