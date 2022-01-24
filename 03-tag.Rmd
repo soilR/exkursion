@@ -1,6 +1,6 @@
 # Tag 3 - Augustendorf / Torfwerk / Bad Zwischenahner Meer
 
-## Forstliche Dauerbeobachtungsfläche Augustendorf
+## Forstliche Dauerbeobachtungsfläche Augustendorf (Maren)
 <div style="text-align: justify">
 
 Am 3. Tag brachen wir nach der ersten gemeinsamen Runde Knack am Vorabend, einer ruhigen Nacht im [Jugendhof Vechta](https://www.bdkj-jugendhof.de/) und dem gemeinsamen morgendlichen Frühstück auf in Richtung der forstlichen Dauerbeobachtungsfläche Augustendorf. Mit im Gepäck hatten wir die gemeinsame Erkenntnis, dass Lunchpakete in Jugendherbergen in Bezug auf das Preis-Leistungs-Verhältnis einen eher schlechten Deal darstellen sowie gute Laune und Vorfreude auf den vor uns liegenden Tag. 
@@ -40,7 +40,7 @@ Dammann; I., Paar, U., Weymar, J., Spielmann, M., Eichhorn, J., 2020. Waldzustan
 
 Reif, A., Schluze, E. D., Ewald, J., Rothe, A., 2014. Kalk im Wald - Muss das sein? Forstliche Versuchs- und Forschungsanstalt Baden-Wüttenberg. https://www.waldwissen.net/de/wussten-sie-schon/kalk-im-wald-muss-es-sein. Zugang: 16.01.2022/17:14h. 
 
-## Torfwerk
+## Torfwerk (Maren)
 <div style="text-align: justify">
 
 Im Anschluss ging es für die Truppe weiter in Richtung des Torfwerkes [Moorkultur Ramsloh](https://www.moorkultur-ramsloh.de/), wo wir eine Führung in das Torfabbaugebiet erhalten haben. Für eine kurze Einführung trafen wir uns mit den beiden Referentinnen am Besuchergebäude des Unternehmens. Von dort ging es mit den Autos raus ins Moor und damit in das Torfabbaugebiet. 
@@ -49,9 +49,7 @@ Im Anschluss ging es für die Truppe weiter in Richtung des Torfwerkes [Moorkult
 knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9172.jpg")
 ```
 
-Bereits die Anfahrt in das Moor lies uns all staunen. Das Abbaugebiet liegt im Naturschutzgebiet [Esterweger Dose](https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html), das rund 4700 ha umfasst. Die ca. 10 Minuten Anfahrt bot einen Ausblick auf einen schwarze Ebene, die sich bis zum Horizont ausstreckte. Mitten drin in weiterer Entfernung waren Bagger zusehen, mit welchem Torf abgebaut wurde. Zudem kamen wir an der im Moor liegenden Marinefunksendestelle Rhauderfehn vorbei. Dabei handelt es sich um 8 jeweils 352,8 m hohe Sendemasten, die aufgrund ihrer Höhe auf Platz 2 der höchsten Bauwerke Deutschland liegen und zu den höchsten militärisch genutzten Bauwerken des kontinentalen Westeuropas gehören. Die Sendemasten unterstrichen das spektakuläre Landschaftsbild, dass sich uns bot (NLWKN, 2012). 
-
-Das Naturschutzgebiet Esterweger Dose gehört zu den [Natura-2000](https://www.bmuv.de/themen/naturschutz-artenvielfalt/naturschutz-biologische-vielfalt/gebietsschutz-und-vernetzung/natura-2000) Schutzgebieten und ist damit einem besonderen Naturschutz-Status unterlegen. 
+Bereits die Anfahrt in das Moor lies uns all staunen. Das Abbaugebiet liegt im Naturschutzgebiet [Esterweger Dose](https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html), das rund 4700 ha umfasst. Die ca. 10 Minuten Anfahrt bot einen Ausblick auf einen schwarze Ebene, die sich bis zum Horizont ausstreckte. Mitten drin in weiterer Entfernung waren Bagger zusehen, mit welchem Torf abgebaut wurde. Zudem kamen wir an der im Moor liegenden Marinefunksendestelle Rhauderfehn vorbei. Dabei handelt es sich um 8 jeweils 352,8 m hohe Sendemasten, die aufgrund ihrer Höhe auf Platz 2 der höchsten Bauwerke Deutschland liegen und zu den höchsten militärisch genutzten Bauwerken des kontinentalen Westeuropas gehören. Die Sendemasten unterstrichen das spektakuläre Landschaftsbild, dass sich uns bot. Das Naturschutzgebiet Esterweger Dose gehört zu den [Natura-2000](https://www.bmuv.de/themen/naturschutz-artenvielfalt/naturschutz-biologische-vielfalt/gebietsschutz-und-vernetzung/natura-2000) Schutzgebieten und ist damit einem besonderen Naturschutz-Status unterlegen (NLWKN, 2012). 
 
 ```{r, echo=FALSE, fig.cap="Bagger im Torfabbaugebiet Esterweger Dose"}
 knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/Esterweger_Dose_Abbau_png/IMG_9163.png")
@@ -63,13 +61,28 @@ knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkur
 
 In der Esterweger Dose werden pro Jahr 30.000 m^3^ Torf für die Nutzung als Profisubstrat im gartenbaulichem Gewerbe abgebaut. Der Abtorfung der Flächen in dem Naturschutzgebiet begann Ende der 70er Jahre und die Abbaurechte sind noch bis zum Jahr 2036 genehmigt. Historisch gesehen wird die Gegend schon sehr lange einer intensiven Torfnutzung unterzogen. Früher wurde der abgebaute Torf als Brennstoffgrundlage für Ziegeleien verwendet. Vor etwa 300 Jahren kam es zu einer intensivierten Ansiedlung von Menschen, was die Entwässerung des Moores durch das Anlegen von Drainagegräben förderte. Durch die Entwässerungsgräben wurde das Moor in 1 ha große Parzellen unterteilt. Durch die Jahrhunderte lange Nutzung des Moores und vor allem des heutigen intensiven Abbaus sind in der heutigen Esterweger Dose keine natürlichen Moorflächen mehr zu finden.
 
-Abgetorft wird nur auf bereits landwirtschaftlich genutzten Flächen. Diese sind aufgrund ihrer vorangegangenen Nutzung bereits entwässert. Im nächsten Schritt muss die Oberfläche von der dort vorhandenen Vegetation befreit und somit der Torf freigelegt werden. Bei der anschließenden Torfgewinnung werden zuerst die obersten Zentimeter gelöst und aufgelockert, um im Anschluss trockenen zu können. Dabei handelt es sich um den schwach zersetzten Weißtorf, der sich über dem darunter liegenden Schwarztorf befindet. Beim Abbau des Schwarztorfs wird das sogenannte Frästorfverfahren angewendet. Hierbei werden die obersten 2 cm aufgelockert (ausgefräst) und anschließend auf der Fläche zurückgelassen. Das Ziel ist das Durchfrieren des Torfes und die  Vermeidung, dass der Torf zu einem festen Krümelgefüge aushärtet und dabei irreversibel schrumpft. 
+Abgetorft wird nur auf bereits landwirtschaftlich genutzten Flächen. Diese sind aufgrund ihrer vorangegangenen Nutzung bereits entwässert. Im nächsten Schritt muss die Oberfläche von der dort vorhandenen Vegetation befreit und somit der Torf freigelegt werden. Bei der anschließenden Torfgewinnung werden zuerst die obersten Zentimeter gelöst und aufgelockert, um im Anschluss trockenen zu können. Dabei handelt es sich um den schwach zersetzten Weißtorf, der sich über dem darunter liegenden Schwarztorf befindet. Beim Abbau des Schwarztorfs wird das sogenannte Frästorfverfahren angewendet. Hierbei werden die obersten 2 cm aufgelockert (ausgefräst) und anschließend auf der Fläche zurückgelassen. Das Ziel ist das Durchfrieren des Torfes und die  Vermeidung, dass der Torf zu einem festen Krümelgefüge aushärtet und dabei irreversibel schrumpft. Weil es im Winter mittlerweile nicht immer zu Frost kommt, werden Pistenraupen eingesetzt, damit das Torfsubstrat durchfriert. Im Sommer wird der Torf im trockenen Zustand zu Wällen aufgeschoben. 
 
-Das das Moor steht seit 2005 unter Naturschutz, weshalb der Abbau des Torfes nicht uneingeschränkt von statten gehen darf. Die abgebaute Fläche muss in gleicher Flächengröße renaturiert werden. Der Betrieb kümmert sich somit um die möglichst naturnahe Wiederherstellung des Moores. Eine weitere Auflage betrifft die Mächtigkeit der zurückbleibenden Torfschicht. Diese muss mind. 50 cm betragen. Im Zuge der Renaturierung wird die Esterweger Dose wiedervernässt, um somit das erneute Wachsen des Moores zu fördern. Im nichtentwässertem Zustand hat das Moor einen Torfbestand von 13 m. 
+Das Moor steht seit 2005 unter Naturschutz, weshalb der Abbau des Torfes nicht uneingeschränkt von statten gehen darf. Die abgebaute Fläche muss in gleicher Flächengröße renaturiert werden. Der Betrieb kümmert sich somit um die möglichst naturnahe Wiederherstellung des Moores. Eine weitere Auflage betrifft die Mächtigkeit der zurückbleibenden Torfschicht. Diese muss mind. 50 cm betragen. Im Zuge der Renaturierung wird die Esterweger Dose wiedervernässt, um somit das erneute Wachsen des Moores zu fördern. Im nichtentwässertem Zustand hat das Moor einen Torfbestand von 13 m. 
 
 **Literatur**
 
 NLWKN, 2012. Naturschutzgebiet "Esterweger Dose". Niedersächsicher Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz. https://www.nlwkn.niedersachsen.de/naturschutz/schutzgebiete/die_einzelnen_naturschutzgebiete/naturschutzgebiet-esterweger-dose-41450.html. Zugang: 18.01.2022/11:41h.
 
-## Bad Zwischenahner Meer
+## Zwischenahner Meer (Maren)
 <div style="text-align: justify">
+
+Bei dem Zwischenahner Meer handelt es sich täuschender Weise um einen Binnensee in der Gemeinde Bad Zwischenahn. Dabei handelt es sich nach dem Steinhuder Meer und dem Dümmer um den drittgrößten See in Niedersachsen mit einer Wasserfläche von 5,5 km^2^ (550 ha). Das Zwischenahner Meer ist nach Nixdorf et al. (2004) ein polymiktischer, stark humoser sowie mäßig kalkreicher Flachsee und zeichnet sich durch eine geringe Schichttiefe aus. Die Länge des Sees liegt bei 3,2 km, die Breite bei 2,6 km. Mit einer Uferlänge von 9,3 km beträgt die durchschnittliche Wassertiefe 2,5 m und die tiefste Stelle ca. 5,5 m (Stärzenbach, 1981). Das gesamte Volumen des Sees beträgt 13.5 Mio m^3^ (Nixdorf et al., 2004).
+
+```{r, echo=FALSE, fig.cap="Zwischenahner Meer"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Jana/20210915_161912.jpg")
+```
+
+Zuflüsse:
+
+**Literatur**
+
+Nixdorf, B., Hemm, M., Hoffmann, A., Richter, P., 2004. Dokumentation von Zustand und Entwicklung der
+wichtigsten Seen Deutschlands. Teil 4 – Niedersachsen und Bremen. Umweltforschungsplan des Bundes- ministeriums für Umwelt, Naturschutz und Reaktorsicherheit. Forschungsbericht 299 24 274. UBA-FB 000511.
+
+Stärzenbach, K., 1981. Das Zwischenahner Meer (Landkreis Ammerland). Daten zur Hydrologie, Biologie, Nutzung sowie Sanierungsvorschläge. Naturschutzverband Niedersachsen e.V. 3004, 1-8.
