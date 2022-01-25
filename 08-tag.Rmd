@@ -25,6 +25,11 @@ Das 1936 fertig gestellte 85 Meter hohe [Marine-Ehrenmal]( https://deutscher-mar
 
 Der Rückweg folgt auf der Promenade, begleitet von einem traumhaften Sonnenuntergang.
 
+```{r, echo=FALSE, fig.cap="Am Strand bei Sonnenuntergang"}
+knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Jana/20210920_182809.jpg")
+```
+
+
 </div>
 
 
