@@ -1,3 +1,52 @@
+--- 
+title: "Wiki zu unserer Großen Exkursion"
+author: "XY"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Dies ist eine Wiki Seite zur Großen Exkursion im SoSe 2021 des Geographischen Institutes der Universität zu Köln.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+--- 
+title: "Wiki zu unserer Großen Exkursion"
+author: "XY"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Dies ist eine Wiki Seite zur Großen Exkursion im SoSe 2021 des Geographischen Institutes der Universität zu Köln.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Einleitung - Große Exkursion 
+
+TEST.
+
+<!--chapter:end:index.Rmd-->
+
+
+# Tag 1 - Porta Westfalica - Biohof Kinkelbur
+
+Placeholder
+
+
+## Porta Westfalica (Jana)
+## Wasserstraßenkreuz Minden (Jana)
+## Biohof Kinkelbur (Julia)
+## Oberlübber Bergsee (Jana)
+## Kolluvisol (Jana)
+
+<!--chapter:end:01-tag.Rmd-->
+
 # Tag 2 - Moorgenese - Trinkwassergewinnung
 
 ## Bastauwiesenmoor (Maren)
@@ -63,3 +112,153 @@ Im Wasserwerk Getelo reagiert man auf diese Belastungen, indem etwa das mit Nitr
 Im Anschluss an unsere Führung wurden wir mit Suppe und Getränken versorgt und durften währenddessen Fragen stellen und diskutieren. Im Fokus war dabei vor allem der weitere Einsatz des WAZ für den Grundwasserschutz und sein Verhältnis zur Landwirtschaft der Region. Da die Folgen der intensiven Landwirtschaft einen direkten Einfluss auf die Wasserqualität und die Arbeit der Wasserwerke haben, setzt der WAZ auf Kooperation mit den LandwirtInnen. Dementsprechend gibt es zur Vorbeugung weiterer Belastungen ein gemeinsam getragenes Schutzkonzept. Es beinhaltet freiwillige Maßnahmen, die vertraglich festgesetzt sind, z.B. eine reduzierte Düngung der landwirtschaftlich genutzten Flächen, den Anbau von Zwischenfrüchten oder den Verzicht darauf, Kulturen anzubauen, die das Grundwasser überdurchschnittlich belasten können. Die LandwirtInnen werden bei dabei entstehenden Mehrkosten durch Zuschüsse des Landes Niedersachsen entschädigt. Außerdem gibt es Beratungsangebote, z.B. die Wasserschutzberatung, die Betriebe bei der Düngeplanung unterstützt. Sie wird von der Europäischen Union kofinanziert und ebenfalls vom Land Niedersachsen bezuschusst. Die Maßnahmen werden letztendlich auch kontrolliert und auf ihren Erfolg hin geprüft. Neben dieser Kooperation hat der WAZ in den Gewinnungsgebieten der Niedergrafschaft außerdem landwirtschaftliche Flächen erworben und gepachtet, um die Flächen zu entlasten. Sie werden zwar an regionale Landwirte weitergepachtet, aber streng kontrolliert, sodass der Grundwasserschutz hier tatsächlich gewährleistet und gehalten werden kann. 
 
 In den reaktiven wie präventiven Maßnahmen des WAZ zeigt sich, dass die Trinkwasseraufbereitung ein hochkomplexes Unterfangen darbietet, das durch äußere Umwelt-Einflüsse immer wieder vor große Herausforderungen gestellt wird. Da es bei der Wasseraufbereitung für Nitrat und Nickel keine einfachen Ideal-Lösungen gibt, spielt neben der Wasseraufbereitung auch die Prävention eine wichtige Rolle. Da, gerade was Nitrat anbelangt, von der Düngung bis zur Belastung des Grundwassers je nach Bodenbeschaffenheit aber mehrere Jahrzehnte vergehen können, werden sich die Folgen dieses Grundwasserschutzes erst mit großer zeitlicher Versetzung zeigen und können sich vorher als späte Folge der Düngung vergangener Jahre bzw. Jahrzehnte sogar noch einmal verschlimmern (Quelle).
+
+<!--chapter:end:02-tag.Rmd-->
+
+
+# Tag 3 - Augustendorf / Torfwerk / Bad Zwischenahner Meer
+
+Placeholder
+
+
+## Forstliche Dauerbeobachtungsfläche Augustendorf (Maren)
+## Torfwerk (Maren)
+## Zwischenahner Meer (Maren)
+
+<!--chapter:end:03-tag.Rmd-->
+
+
+# Tag 4 - Bremen und Bremerhaven
+
+Placeholder
+
+
+## Das Klimahaus
+## Das Deutsche Auswandererhaus Bremerhaven
+## Bremer Altstadt
+
+<!--chapter:end:04-tag.Rmd-->
+
+
+# Tag 5 - XY
+
+Placeholder
+
+
+## Besuch der Aluminiumoxid-werke Stade
+## Besuch des Apfelhofes "Alten Land"
+
+<!--chapter:end:05-tag.Rmd-->
+
+
+# Tag 6 - Elbüberfahrt/Lägerdorf/Speicherkoog (Jana)
+
+Placeholder
+
+
+## Elbüberfahrt Wischhafen – Glücksstadt (Jana)
+## Kreidegrube Lägerdorf (Jana)
+## Meldorfer Bucht (Jana)
+### Untersuchungsfläche Speicherkoog (Jana)
+### Bodenprofil: Kalkmarsch (Jana)
+
+<!--chapter:end:06-tag.Rmd-->
+
+
+# Tag 7 - Kleve, Eidersperrwerk, Wattwanderung
+
+Placeholder
+
+
+## Besuch von Kleve und dem Eidersperrwerk
+## Wattwanderung
+
+<!--chapter:end:07-tag.Rmd-->
+
+
+# Tag 8 - Todendorf Führung, Laboe
+
+Placeholder
+
+
+## Todendorf (Julia)
+## Laboe
+
+<!--chapter:end:08-tag.Rmd-->
+
+
+# Tag 9 - Gutsanlage Panker, Steilküste, Windpark
+
+Placeholder
+
+
+## Gutsanlage Panker
+## Windpark (Maren)
+## Wangels Steilküste (Jana)
+## Fehmarn (Wer schreibt diesen Teil?)
+## Leuchtturm Neuland (Maren)
+## Todendorf (Julia)
+
+<!--chapter:end:09-tag.Rmd-->
+
+
+# Tag 10 - XY
+
+Placeholder
+
+
+## Aufbruch
+## Die Glaziale Serie in Norddeutschland
+## Der Bungsberg
+## Toteisloch
+## Biohof und Aussichtspunkt Hoher Schönberg (Julia)
+
+<!--chapter:end:10-tag.Rmd-->
+
+# Tag 11 - Fischland-Darß-Zingst
+
+## Fischland-Darß-Zingst (Jana)
+
+<div style="text-align: justify">
+
+Für den heutige Tag ist eine Wanderung über die küstenmorphologisch interessante Halbinsel Fischland-Darß-Zingst innerhalb des Nationalparks Vorpommersche Boddenlandschaft geplant.
+**Fischland und Morphologie beschreiben...**
+**Im Holozän umgelagert, Ausgleichsküste, Nährung, Bodden und Boddenküste, Verbohrung...**
+**Ackerbau nicht möglich, Mastvieh oft extensiv, Künstlerkolonien...**
+Da recht stürmisches Wetter angesagt ist, packen wir unsere Regenkleidung ein und machen uns darauf gefasst unsere Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fahren wir in Richtung Nordosten und starten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwandern den Darßwald oder auch Darßer Wald, der zu großen Teilen nicht bewirtschaftet wird und dementsprechend sehr naturbelassen ist. 
+
+</div>
+
+## Stralsund (Julia)
+
+<div style="text-align: justify">
+Im Anschluss an die windige und gegen Ende auch regnerische Wanderung freuten wir uns über die Rückkehr in unseren warmen Bus und fuhren weiter in die Hansestadt Stralsund. Nachdem einzelne mittlerweile leider erkältete Mitglieder der Gruppe sich im Drive-in einem - zum Glück negativ ausfallenden - Corona-Schnelltest unterzogen und die Gruppe von der Wanderung ein leichtes Nachmittagstief einholte, entschieden wir nach einem kurzen stürmischen Spaziergang durch die Stadt, das schlechte Wetter zu nutzen, um Stralsunds Gastronomie-Kultur zu erkunden. Bei Kaffee, Kakao und Kuchen wurde über die Wanderung revidiert und ein wenig durchgeatmet. Im Anschluss daran traf die gesamte Gruppe in einem Kartoffel-Restaurant zusammen, um hier gemeinsam zu Abend zu essen. Nach dem umfangreichen Abendessen in dem Kellergewölbe kam noch eine turbulente Rückfahrt auf uns zu, die durch die starken Windböen auf der Landstraße einen echten Abenteuercharakter annahm. Die laute Musik und Späße der Gruppenmitglieder hielten aber auch den Fahrer bei Laune, der die Gruppe letztendlich wohlbehalten zurück in die Jugendherberge brachte. 
+
+**Nachmittag in Stralsund...**
+
+</div>
+
+<!--chapter:end:11-tag.Rmd-->
+
+
+# Tag 12 - Ivenacker Eichen, Arendsee
+
+Placeholder
+
+
+## Ivenacker Eichen (Julia)
+## Arendsee
+
+<!--chapter:end:12-tag.Rmd-->
+
+# Tag 13 - XY
+
+
+<!--chapter:end:13-tag.Rmd-->
+
+# Synthese
+
+Test
+
+<!--chapter:end:14-synthese.Rmd-->
+
