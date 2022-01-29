@@ -54,11 +54,11 @@ Auf Rückweg Stopp bei Hafen Imbiss Lipper „Allerlei“
 Am Ende des Tages erhielten wir durch Horst die einmalige Gelegenheit den Leuchtturm Neuland im Ort Behrensdorf zu besuchen. Der Ziegelturm ist 40 m hoch und liegt Südöstlich des Truppenübungsplatzes Todendorf. Er wurde in den Jahren 1915-1916 aus militärisch-strategischen Zwecken errichtet und füllt eine bis dahin bestehende Seezeichenlücke zwischen Fehmarnsund und der Kieler Förde. Für 80 Jahre diente der Turm als Seezeichen und wird heute ausschließlich von der Bundeswehr genutzt. Das Feuer des Turms zeigt die Sperrzeiten an, in denen die Schießplätze Todendorf und Putlos aktiv sind. Während wir oben auf dem Leuchtturm standen konnten wir eine Schießübung des Platzes Putlos beobachten bzw. erahnen. Wir hörten, wie ein Schuss viel und sahen in weiter Entfernung auf dem Meer eine Wasserfontäne empor ging. Dies geschah zeitlich versetzt.
 
 ```{r, echo=FALSE, fig.cap="Der Leuchtturm Neuland"}
-knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9487.jpg")
+knitr::include_graphics("images/kristof/IMG_9487.jpg")
 ```
 
 ```{r, echo=FALSE, fig.cap="Aussicht vom Leutturm in Richtung Südosten auf Salzwiesen und Binnensee"}
-knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/kristof/IMG_9451.jpg")
+knitr::include_graphics("images/kristof/IMG_9451.jpg")
 ```
 
 Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinner wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung konnten wird auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) schauen.

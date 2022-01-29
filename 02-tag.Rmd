@@ -5,7 +5,7 @@
 <div style="text-align: justify">
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor"}
-knitr::include_graphics("/Users/marenhovels/Desktop/Uni/Master/4. Semester/Exkursion/report_neu/exkursion/images/Maren/640px-Bastauwiesen1.png")
+knitr::include_graphics("images/Maren/640px-Bastauwiesen1.png")
 ```
 
 Nach einem entspannten Abend in der [Wiehnen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das nächste Ziel des  ersten Tages war das Große Torfmoor in den Bastauwiesen. Die Bastauwiesen durften wir am vorherigen Tag bereits kennenlernen  und bei einem Bier die Aussicht auf diese genießen. Die Anfahrt am nächsten Morgen auf der Moorbadstraße entlang des  Mittellandkanals war durch leichte Nebelschleier geprägt und ließ Vorfreude auf die uns bevorstehende Moorwanderung aufkeimen. Wir starteten am Wanderparkplatz "Großes Torfmoor P3" und konnten nach etwa 5 Minuten den ersten Blick auf das im Morgentau und -frost liegenden Hochmoor erlangten. Besonders hervorgestochen sind  vielen Spinnennetzen die von den Spinnentieren flächendeckend verteilt in der Moorvegetation gesponnen wurden. Der morgendliche Tau verfing sich in der Seide der kunstvollen Netze, wodurch eine besonders mystische Atmosphäre geschaffen wurde. 
