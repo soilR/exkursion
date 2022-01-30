@@ -48,6 +48,8 @@ knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_113943.jpg")
 
 ## Meldorfer Bucht (Jana)
 
+<div style="text-align: justify">
+
 Nach einer kleinen mittäglichen Stärkung an der St. Johannis-Kirche in Meldorf – je nach Vorliebe in Form von Pommes, Burger oder Backwaren – ging unsere Reise weiter. 
 ```{r, echo=FALSE, out.width="100%", fig.cap="St. Johannis-Kirche in Meldorf und Meldorfer Marktplatz."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_122458.jpg")
@@ -59,11 +61,19 @@ Die neu entstandene Landschaft wird auch als Marsch, deren Böden als Marschen b
 
 Unser letztes Ziel des Tages war einer der jüngsten Köge der Region: der Speicherkoog. Der nördliche Teil dieses Koogs wurde erst in den Jahren 1974 bis 1978 eingedeicht. Dort sahen wir uns neben der 2010 in Betrieb genommenen Wetterstation den Boden genauer an.
 
+</div>
+
 ### Untersuchungsfläche Speicherkoog (Jana)
+
+<div style="text-align: justify">
 
 Von Wildschweinen verfolgt, schaffen wir unsere Ausrüstung auf die naturnahe, etwa 14 ha große Untersuchungsfläche, die seit **xy von Herrn Heinemann betreut und von xy bis xy durch Herrn Prof. Dr. Mansfeldt für Untersuchungen (welche?)** genutzt wurde. Die vor Ort installierte Wetterstation nimmt neben der Windgeschwindigkeit und -richtung, die Niederschlagsmenge, Lufttemperatur, relative Luftfeuchte und die Globalstrahlung in stündlicher Auflösung auf. Durch mehrere im Boden installierte Sonden sind außerdem Aussagen über unterschiedlicher Bodenparameter, wie beispielsweise den Grundwasserstand, die Wasserspannung, die Bodentemperatur, das Redoxpotential sowie den Sauerstoffgehalt möglich. Auch hier werden die Daten stündlich genommen. Die Daten beider Stationen werden mittels Datalogger aufgezeichnet und zwei Mal täglich an **xy** gesendet. Die Stromversorgung ist durch ein Solarpanel sichergestellt.
 
+</div>
+
 ### Bodenprofil: Kalkmarsch (Jana)
+
+<div style="text-align: justify">
 
 Während ein Teil der Gruppe sich die Wetter- und Bodenstation genauer ansah, begannen die übrigen Studierenden mit dem Ausheben eines Bodenprofils. Es wurde darauf geachtet, möglichst wenig Schäden an der Vegetation zu verursachen. Das ausgehobene Bodenmaterial ist räumlich nach Horizonten getrennt auf einer Plane gelagert worden, um es nach Abschluss unserer Arbeiten möglichst wenig gestört einbauen zu können. Nach einiger Zeit wurden die Aufgaben getauscht und es konnte mit neuer Power weitergegraben werden. Während die Profilgrube Zentimeter um Zentimeter tiefer und der Berg mit ausgehobenem Bodenmaterial immer größer wurde, trotzten wir sowohl kleinen Regenschauern als auch Kristofs Musikgeschmack. 
 
@@ -84,6 +94,8 @@ Die oberen 15 cm des Profils umfassen den humosen Oberboden und werden als Ah-Ho
 Das hier vorgestellte Profil zeigt eindrücklich die Relevanz der Böden als Archiv der Naturgeschichte. Ab einer Tiefe von etwa 1,40 m haben wir mehrere teils sehr gut erhaltene Muscheln finden können. Leider können wir sowohl die Art, als auch den genauen Ablagerungszeitraum nicht mehr rekonstruieren. **Alter der Muscheln**
 
 Gemeinsam und umgeben von Schafen ließen wir diesen ereignisreichen Tag bei Bier und Fassbrause auf dem Deich der Meldorfer Bucht ausklingen. 
+
+</div>
 
 ## Quellen
 
@@ -109,4 +121,4 @@ Mansfeldt, T., 2004. Redox potential of bulk soil and soil solution concentratio
 
 Mansfeldt, T., 2003. In situ long-term redox potential measurements in a dyked marsh soil. Journal of Plant Nutrition and Soil Science 166, S. 210 – 219.
 
-Projektbüro Fahrrinnenanpassung, 2007. Fahrrinnenanpassung Unter- und Außenelbe Das Projekt im Überblick. DruckVerlag Kettler, Bönen. 
+Projektbüro Fahrrinnenanpassung, 2007. Fahrrinnenanpassung Unter- und Außenelbe Das Projekt im Überblick. DruckVerlag Kettler, Bönen.
