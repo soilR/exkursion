@@ -19,7 +19,7 @@ github-repo: rstudio/bookdown-demo
 
 Im Rahmen des Moduls *Geländeerfahrung* des Masterstudiengangs "Geographie“ der Universität zu Köln fand vom 13. bis 25. September 2021 eine universitäre Exkursion nach Norddeutschland statt. Die fünf teilnehmenden Studierenden wurden von Herrn Prof. Dr. Mansfeldt und Herrn Dr. Kristof Dorau betreut.  
 So unterschiedlich wie die Studienausrichtung der Teilnehmenden - unter uns zwei angehende Bodenkundlerinnen, ein Stadtgeograph, ein Christian??? und eine Lehrämtlerin - war auch das Programm der Exkursion gestaltet. Angelehnt an die Reise durch 12.000 Jahre Natur- und Kulturgeschichte des Holozän besuchten wir verschiedenste städtische und ländliche Standorte, untersuchten deren Genese oder die dortigen Mensch-Umwelt-Interaktionen und bearbeiteten dabei Themen wie die Moorgenese,  Tierhaltung und Grundwasser, Quartäre Formen, Eiszeiten, Küstenmorphologie, das Ökosystem Watt und den Klimawandel. 
-In unserem Mietbus legten wir dabei mehr als 2.000 km zurück, schliefen in ? Unterkünften und aßen ?? verschiedene Fischbrötchen (Ist das doof? :D). 
+In unserem Mietbus legten wir dabei mehr als 2.000 km zurück, schliefen in ? Unterkünften und aßen ?? verschiedene Fischbrötchen (Ist das doof? :D Nein! Ich (Jana) finde das sehr gut so!!). 
 Nach zwei schnelllebigen Exkursionswochen bedanken wir uns ganz herzlich bei Herrn Prof. Dr. Mansfeldt und Herrn Dr. Dorau für die vielen abwechslungsreichen Eindrücke, aufschlussreichen Diskussionen und die stets gute Laune. Wir wünschen allen LeserInnen dieses Blogs gute Unterhaltung und hoffen, dass dabei auch die ein oder andere wissenschaftliche Information hängen bleibt.
 
 </div>
