@@ -22,9 +22,9 @@ Die methodischen Instrumente der Ökosystemüberwachungen sind europaweit gemä�
 knitr::include_graphics("images/kristof/IMG_9157.jpg")
 ```
 
-Wir trafen uns vor Ort mit dem zuständigen Förster, der uns trotz des verregneten Wetters zusammen mit seiner Hündin, einer Alpenländischen Dachsbracke, eine Führung über die Dauerbeobachtungsfläche gab. Der Standort kennzeichnet sich durch lehmige Sande im Untergrund und ist schlussfolgernd nährstoffarm. Die Nährstoffziffer liegt bei 1-3. Aufgrund der sandigen Böden sind die Bedingungen der Wasserversorgung der Biomasse schwach bis mäßig. Sande speichern aufgrund ihres grobporigen Porenvolumens nur sehr geringe Mengen Wasser. Für Pflanzen ist das Wasser, dass der Boden gegen die Schwerkraft halten kann (Feldkapazität) subtrahiert mit dem Wassergehalt beim permanenten Welkepunkt relevant. Man spricht von der sogenannten nutzbaren Feldkapazität (nFK). 
+Wir trafen uns vor Ort mit dem zuständigen Förster, der uns trotz des verregneten Wetters zusammen mit seiner Hündin Urmel, einer Alpenländischen Dachsbracke, eine Führung über die Dauerbeobachtungsfläche gab. Der Standort kennzeichnet sich durch lehmige Sande im Untergrund und ist schlussfolgernd nährstoffarm. Die Nährstoffziffer liegt bei 1-3. Aufgrund der sandigen Böden sind die Bedingungen der Wasserversorgung der Biomasse schwach bis mäßig. Sande speichern aufgrund ihres grobporigen Porenvolumens nur sehr geringe Mengen Wasser. Für Pflanzen ist das Wasser, dass der Boden gegen die Schwerkraft halten kann (Feldkapazität) subtrahiert mit dem Wassergehalt beim permanenten Welkepunkt relevant. Man spricht von der sogenannten nutzbaren Feldkapazität (nFK). 
 
-```{r, echo=FALSE, fig.align='center', fig.cap="Die junde Dachsbrackendame"}
+```{r, echo=FALSE, fig.align='center', fig.cap="Die junge Dachsbrackendame Urmel"}
 knitr::include_graphics("images/Maren/Dachsbracke_Herr_Mansfeldt.jpg")
 ```
 
