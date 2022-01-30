@@ -1,16 +1,22 @@
-# Tag 11 - Fischland-Darß-Zingst
+# Donnerstag, 23.09.2021 - Fischland-Darß-Zingst - Stralsund
 
 ## Fischland-Darß-Zingst (Jana)
 
 <div style="text-align: justify">
 
-Für den heutige Tag ist eine Wanderung über die küstenmorphologisch interessante Halbinsel Fischland-Darß-Zingst innerhalb des Nationalparks Vorpommersche Boddenlandschaft geplant.
-**Fischland und Morphologie beschreiben...**
-**Im Holozän umgelagert, Ausgleichsküste, Nährung, Bodden und Boddenküste, Verbohrung...**
-**Ackerbau nicht möglich, Mastvieh oft extensiv, Künstlerkolonien...**
-Da recht stürmisches Wetter angesagt ist, packen wir unsere Regenkleidung ein und machen uns darauf gefasst unsere Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fahren wir in Richtung Nordosten und starten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwandern den Darßwald oder auch Darßer Wald, der zu großen Teilen nicht bewirtschaftet wird und dementsprechend sehr naturbelassen ist. 
+Für diesen Tag war eine Wanderung über die küstenmorphologisch interessante Halbinsel Fischland-Darß-Zingst innerhalb des Nationalparks Vorpommersche Boddenlandschaft geplant. Sie befindet sich an der Mecklenburg Vorpommerschen Ostseeküste nordöstlich von Rostock. Die Inselkerne entstanden aus den Ablagerungen der von Norden kommenden Gletschervorstöße während der letzten Eiszeit (Weichsel: 115.000 bis 10.000 Jahre vor heute). Durch die enorme Kraft des bewegten Eises sind Geröllmassen in einer hügeligen Landschaft abgelagert worden. Mit der Erwärmung des Klimas und dem Schmelzen der Gletscher stieg der Meeresspiegel an und es bildeten sich dem Festland vorgelagerte Inseln. Die so entstandene Landschaft wird als Boddenküste bezeichnet, die gebildeten **„Lagunen“ (besseres Wort finden)** als Bodden **(Quelle für Bodden)**. Meeresströmungen, die an der Ostseeküste von Westen nach Osten fließen, tragen Sediment von den sich westlich befindenden (Steil-)küsten des Fischlandes sowie der Westküste des Darßes ab. Bei nachlassender Strömungsgeschwindigkeit – häufig im „Schatten“ – von Inseln, wird das Sediment in Form von Sandbänken, Strandwällen und Sandhaken abgelagert. Es kommt zu einer ständigen küstenparallelen Umverteilung der Sedimentmassen. Die entstandene Küstenform wird auch als Nehrung bzw. Nehrungsküste bezeichnet **(Quelle Nehrung und Nehrungsküste, Ausgleichsküste)**. Die Nehrungen zwischen den Inselkernen Fischland, Darß und Zingst trennen den Saaler Bodden und den Barther Bodden von der Ostsee.
+Da recht stürmisches Wetter angesagt war, packten wir unsere Regenkleidung ein und machten uns darauf gefasst, unsere geplante Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fuhren wir in Richtung Nordosten und starteten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwanderten Teile des Darßer Waldes, durch seine Naturbelassenheit auch häufig als „Darßer Urwald“ bezeichnet. An einigen der Kiefern sind auffällige Muster in der Rinde zu erkennen. Dabei handelt es sich um sogenannte Harzlachten, aus denen bis in die späten 1980er Jahre Harz gewonnen wurde. **Bild xy** zeigt eine dieser Harzlachten in einer Kiefer. Im Hintergrund ist sehr eindrücklich der „Darßer Urwald“ zu sehen. Harz wurde unter anderem für die Terpentinherstellung verwendet **(Quelle: Harzgewinnung und Nutzung)**. Heute zählt die Halbinsel zum Nationalpark Vorpommersche Boddenlandschaft und wird hauptsächlich als Freizeit- und Erholungsort für Anwohner und Touristen genutzt. Wir begegneten auf unserer Wanderung einigen Wandersleuten, Radfahrern sowie der [Darßbahn]( https://www.fischland-darss-zingst.de/service/provider/details/stamm/show/darssbahn/). Angekommen am Leuchtturm Darßer Ort bot sich die Möglichkeit das [Natureum Darßer Ort]( https://www.natureum-darss.de/) zu besichtigen. Das Natureum bietet allen Interessierten spannende Ausstellungen und ausführliche Informationen rund um den Natur- und Lebensraum der Ostseeküste, der morphologischen Küstendynamik sowie ein kleines Ostseeaquarium. Wir haben uns jedoch gegen die Besichtigung entschieden. Teile der Gruppe wanderten ein kleines Stück weiter bis an die stürmische Ostseeküste, an der die Erosionsdynamik und die küstenmorphologischen Prozesse in Echt begutachtet werden konnten.
+
+
+Auf dem Rückweg nach Prerow erfahren wir von den Exkursionsleitern (mündliche Weitergabe), dass die Halbinsel Fischland-Darß-Zingst seit jeher Anziehungspunkt für unterschiedliche Künstler war. So entstanden bereit Anfang des 20. Jahrhunderts Künstlerkolonien. Spuren davon sind noch heute in der hohen Dichte an Galerien und den reich verzierten Gebäuden zu erkennen. 
+
+```{r, echo=FALSE, out.width="50%", fig.cap="Herr Mansfeldt im Sturm."}
+knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9601.jpg")
+```
+**Andere Bildunterschrift?**
 
 </div>
+
 
 ## Stralsund (Julia)
 
