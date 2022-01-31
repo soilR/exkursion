@@ -38,7 +38,9 @@ Landesforst Mecklenburg-Vorpommern, 2021. Nationales Naturmonument Ivenacker Eic
 <div style="text-align: justify">
 Nach dem Besuch der Ivenacker Eichen geht es zum Arendsee in der Region Altmark in Sachsen-Anhalt. Dort machten wir direkt am Ufer halt, mit gutem Blick auf den See. Hier erzählte uns Kristof etwas über die Entstehung des Sees.
 
-![Blick auf den Arendsee](Images/Flow/IMG_7062.jpg)
+```{r, echo=FALSE, out.width="40%", fig.cap="Arendsee"}
+knitr::include_graphics("images/Flow/IMG_7062.jpg")
+``` 
 
 Entstanden ist der See durch das Schmelzen der Gletscher, sodass das Zechsteinmeer vordringen konnte. Durch Flutung wird dieses „Becken“ abgeschnitten oder es kommt durch eine Regression wieder. Beim Rückzug des Wassers bleibt schließlich eine Pfütze in diesem Becken übrig. 
 „Wenn man Salz in einen Kochtopf gibt, verkocht es, und am Ende bleibt eine Salzkruste die dann wieder verdampft und die Salze bleiben übrig“.
