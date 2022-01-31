@@ -1,6 +1,7 @@
-# Sonntag, 19.09.2021 - Kleve, Eidersperrwerk, Wattwanderung
+# Sonntag, 19.09.2021 - Kleve, Eidersperrwerk, Friedrichstadt, Wattwanderung
 
-Am siebten Tag konnten wir etwas länger schlafen, da uns der Sonntagvormittag zur freien Gestaltung überlassen wurde. Für den Großteil ging es zum Waschsalon, um die überstrapazierten Kleidungsstücke einmal gründlich zu reinigen. Am Nachmittag folgte schließlich die Fahrt zur langersehnten Wattwanderung. 
+Am siebten Tag konnten wir etwas länger schlafen, da uns der Sonntagvormittag zur freien Gestaltung überlassen wurde. Für den Großteil ging es zum Waschsalon, um die überstrapazierten Kleidungsstücke einmal gründlich zu reinigen. Am Nachmittag folgte zuerst der Besuch von Kleve, bevor es zum Eidersperrwerk und nach Friedrichstadt ging. Am späten Nachmittag folgte schließlich die Wattwanderung bei Sonnenuntergang.
+
 
 ## Waschsalon und Südfriedhof Heide (Jana)
 
@@ -15,9 +16,31 @@ Dieser Sonntagvormittag stand den ExkursionsteilnehmerInnen zur freien Verfügun
 
 <div style="text-align: justify">
 Am siebten Tag unserer Exkursion ging es zuerst nach Kleve wo wir an einem Reiterhof haltmachten. Der Ort hat seinen Namen vom Wort „Kliff“ und ist eine ehemalige Steilküste, die aus der Endmoräne der Saale-Eiszeit hervorgeht. Sie setzt sich aus Warthestadiummaterial zusammen. Der Meeresspiegel war deutlich niedriger, es gab mehrere Transgressionen, Niederungen erstrecken sich entlang der Flüsse der Eider. Die Nährungen werden auch als „Donn“ bezeichnet. Donn liegen an einem Näherungsharken.
-Von Kleve geht es weiter zum [Eidersperrwerk](https://www.spo-eiderstedt.de/poi/eidersperrwerk). Dort machten wir eine kleine Pause um die schöne Aussicht zu genießen. Auch für ein Fischbrötchen ist Zeit genug. Das Sperrwerk verbindet den Kreis Dithmarschen mit Eiderstedt in Nordfriesland und wurde aufgrund der großen Sturmflut 1962 errichtet. Der Bau dauerte sechs Jahre und wurde 1973 fertiggestellt. 
+Von Kleve geht es weiter zum [Eidersperrwerk](https://www.spo-eiderstedt.de/poi/eidersperrwerk). Dort machten wir eine kleine Pause um die schöne Aussicht zu genießen. Auch für ein Fischbrötchen ist Zeit genug. Das Sperrwerk verbindet den Kreis Dithmarschen mit Eiderstedt in Nordfriesland und wurde aufgrund der großen Sturmflut 1962 errichtet. Der Bau dauerte sechs Jahre und wurde 1973 fertiggestellt. Danach ging es weiter nach Friedrichstadt. 
 
 </div>
+
+
+## Friedrichstadt
+
+<div style="text-align: justify">
+
+In Friedrichstadt machten wir halt um uns den kleinen Ort anzuschauen. Im 17. Jahrhundert sollte hier eine neue [Handelsmetropole](https://www.nordseetourismus.de/friedrichstadt)
+entstehen. Stadtgründer Herzog Friedrich III von Schleswig-Gottorf holte dafür viele niederländische Bürger in die Stadt, was man auch unweigerlich am Stadtbild erkennen kann, sieht die die Stadt doch aus wie „Klein-Amsterdam“.
+
+```{r, echo=FALSE, out.width="40%", fig.cap="Friedrichstadt – oder auch Klein-Amsterdam"}
+knitr::include_graphics("images/Flow/Friedrichstadt1.jpeg")
+```
+
+Statt Tulpen gibt es hier jedoch viele Rosen zu begutachten. Zudem verlaufen holländische Grachten durch die Stadt. Bei unserer kleinen Tour sehen wir viele Kanufahrer und kleine Boote. Bei schönem Wetter und einer Fülle an Menschen genossen wir beispielsweise unsere Poffertjes, echt holländisch halt.
+
+```{r, echo=FALSE, out.width="40%", fig.cap="Grachten in Friedrichstadt"}
+knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
+```
+
+</div>
+
+
 
 ## Wattwanderung
 
@@ -39,7 +62,7 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
-![J-Röhre des Wattwurms](images/Flow/Bildschirmfoto 2021-07-02 um 14.22.46.png)
+![J-Röhre des Wattwurm](images/Flow/Bildschirmfoto 2021-07-02 um 14.22.46.png)
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land. Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese"}
