@@ -1,10 +1,12 @@
-# Dienstag, 21.09.2021 - Gutsanlage Panker, Steilküste, Windpark
+# Dienstag, 21.09.2021
+
+Standorte: Gutsanlage Panker, Steilküste, Windpark
+
 
 ## Gutsanlage Panker
 
 <div style="text-align: justify">
-Am neunten Tag unserer Reise besuchen wir zuerst die [Gutsanlage Panker](https://www.gutpanker.de). Diese liegt liegt im Kreis Plöhn bei Lütjenburg in Ostholstein. Die Anlage wird derzeit von Heinrich Donatus Prinz von Hessen verwaltet. Landarbeiter lebten hier unter ärmlichen Bedingungen auf den Gütern. Im Gegensatz zur Geest und zur Marsch sind hier viele adelige Güter gewesen. Diese haben sich hier im 14. Jahrhundert dieses Gutswesen errichtet. Die Güter waren 300 bis 400 Hektar groß, manchmal auch zwischen 500 und 800 Hektar, und hatten oft neben den Gütern sogenannte Meierhöfe, so dass, wenn man dieses Gut hatte, plus 4 oder 5 Meierhöfe, sich die Anlage auf teilweise zweieinhalbtausend Hektar fruchtbares Land erstreckte. Teilweise war das Land auch an Landwirte verpachtet. Auf dem Gut waren keine eigenständigen Bauern und Ende 1700 fing Graf Rantzau damit an, das Gut in feste Bauernhand zu vergeben, weil er merkte, dass die Pächter auf den Höfen nicht so gut wirtschafteten. Auch wurden dort die Parzellen dort eingezäunt. Dies nennt man Verkoppelung. 
-
+Am neunten Tag unserer Reise besuchten wir zuerst die [Gutsanlage Panker](https://www.gutpanker.de). Diese liegt liegt im Kreis Plöhn bei Lütjenburg in Ostholstein. Die Anlage wird derzeit von Heinrich Donatus Prinz von Hessen verwaltet. Landarbeiter lebten hier unter ärmlichen Bedingungen auf den Gütern. Im Gegensatz zur Geest und zur Marsch sind hier viele adelige Güter gewesen. Diese haben sich hier im 14. Jahrhundert dieses Gutswesen errichtet. Die Güter waren 300 bis 400 Hektar groß, manchmal auch zwischen 500 und 800 Hektar, und hatten oft neben den Gütern sogenannte Meierhöfe, so dass, wenn man dieses Gut hatte, plus 4 oder 5 Meierhöfe, sich die Anlage auf teilweise zweieinhalbtausend Hektar fruchtbares Land erstreckte. Teilweise war das Land auch an Landwirte verpachtet. Auf dem Gut waren keine eigenständigen Bauern und Ende 1700 fing Graf Rantzau damit an, das Gut in feste Bauernhand zu vergeben, weil er merkte, dass die Pächter auf den Höfen nicht so gut wirtschafteten. Auch wurden dort die Parzellen dort eingezäunt. Dies nennt man Verkoppelung. 
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Gutsanlage Panker"}
 knitr::include_graphics("images/Flow/IMG_7004.jpg")
