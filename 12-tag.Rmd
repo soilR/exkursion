@@ -1,10 +1,10 @@
 # Freitag, 24.09.2021 
 
-Abfahrt: Jugendherberge
+Abfahrt: Jugendherberge Warnemünde
 
 Standorte: Ivenacker Eichen, Arendsee
 
-Ankunft: Köln
+Ankunft: Jugendherberge in Sachsen-Anhalt
 
 
 ## Ivenacker Eichen (Julia)
@@ -52,7 +52,7 @@ Landesforst Mecklenburg-Vorpommern, 2021. Nationales Naturmonument Ivenacker Eic
 ## Arendsee
 
 <div style="text-align: justify">
-Nach dem Besuch der Ivenacker Eichen geht es zum Arendsee in der Region Altmark in Sachsen-Anhalt. Dort machten wir direkt am Ufer halt, mit gutem Blick auf den See. Hier erzählte uns Kristof etwas über die Entstehung des Sees.
+Nach dem Besuch der Ivenacker Eichen ging es zum Arendsee in der Region Altmark in Sachsen-Anhalt. Dort machten wir direkt am Ufer halt, mit gutem Blick auf den See. Hier erzählte uns Kristof etwas über die Entstehung des Sees.
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Arendsee"}
 knitr::include_graphics("images/Flow/IMG_7062.jpg")
@@ -76,7 +76,7 @@ Salz hat in besonders hohen Tiefen (wenn viel Druck darauf liegt) die Eigenschaf
 
 In Süddeutschland gibt es Karstgrundwasserleiter. Grundwassersysteme die sehr schnellzügig sind. Hier dauert das ein bisschen, bis das Grundwasser in Kontakt mit den Salzschichten kommt (Subrosion genannt). So entstehen große Hohlräume im Untergrund, was dann hier dazu geführt hat, dass das Deckgebilde einstürzt und so eine riesen Hohlform gebildet hat, mit sehr steilen Flanken.
 
-Nach diesen interessanten Inforamtionen, die uns Kristof mit auf den Weg gibt, geht es zurück zum Auto, und damit auch zurück nach Hause.
+Nach diesen interessanten Inforamtionen, die uns Kristof mit auf den Weg gibt, geht es zurück zum Auto, und damit weiter zu unserer letzten Jugendherberge. Nach einem leckeren Abendessen ließen wir den Abend in unserem Aufenthaltsraum bei einer letzten Partie Knack ausklingen - mit einem knappen aber hoch verdienten Sieg für Flo. Als Preis gab es den wundervollen Roman "Kurze Geschichte des Traktors auf Ukrainisch" von Marina Lewycka.
 
 
 **Quellen** 
