@@ -114,3 +114,7 @@ lübeck
 lübeck-julia
 mittwoch-22.09.2021---die-glaziale-serie
 mittwoch-22.09.2021---die-glaziale-serie-der-bungsberg-toteisloch-lübeck-biohof-aussichtspunkt-hoher-schönberg
+fig:unnamed-chunk-8
+fig:unnamed-chunk-9
+fig:unnamed-chunk-10
+fig:unnamed-chunk-11

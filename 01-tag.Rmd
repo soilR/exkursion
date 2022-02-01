@@ -51,13 +51,14 @@ Auf dem Bauernhof Kinkelbur wird seit 1981 organisch-biologischer Landbau nach d
 Durch wiederholte Aufstockung des Viehbestands und die Zupacht eines weiteren Betriebs im Nachbarort 2014 konnte die Milchviehherde des Hofs Kinkelbur von 50 Milchkühen 1996 auf heute 110 Milchkühe anwachsen. Als bemerkenswert hervorzuheben ist dabei die sehr hohe Milchleistung der einzelnen Kühe, die mit jährlich ca. 10.300 kg Milch deutlich über dem aktuellen deutschen Durchschnitt von 8.457 kg liegt (Bundesinformationszentrum Landwirtschaft 2021). Was für einen Biohof zunächst einmal sehr überraschend erscheint, ist in der Züchtung der Kühe begründet. Die für ihre hohe Milchleistung bekannte Rasse Holstein-Friesian wird zwar *bio* gehalten, ist aber auf Leistungsstärke gezüchtet und daher auch in der konventionellen Landwirtschaft sehr populär (Brade & Brade 2010). Gemäß den Richtlinien der biologischen Landwirtschaft werden die Kühe auf dem Hof Kinkelbur mit überwiegend eigens angebautem Bio-Futter ernährt. So erhalten sie Grundmischungen über einen Futtermischwagen und zusätzlich Heu, Mineralfutter und Viehsalz. Hinzu kommen von einem technischen Mitarbeiter individuell zusammengestellte Kraftfuttereigenmischungen, bestehend aus Getreideweizen und Eiweiß-Ergänzer. Wenn der Boden es zulässt, wird die Fütterung durch Kurztagsweide ergänzt (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
 
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Blick auf die alte Kanalbrücke aus südwestlicher Richtung."}
+```{r, echo=FALSE, out.width="100%", fig.cap="Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall."}
 knitr::include_graphics("images/Jana/20210913_134559.jpg")
 ```
 
-![Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall](images/Jana/20210913_134559.jpg)
+```{r, echo=FALSE, out.width="100%", fig.cap="Führung über den Bauernhof durch Herrn Kinkelbur."}
+knitr::include_graphics("images/kristof/IMG_9129.jpg")
+```
 
-![Führung über den Bauernhof durch Herrn Kinkelbur](images/kristof/IMG_9129.jpg)
 
 Der Biohof verfügt über eine landwirtschaftliche Nutzfläche von insgesamt 165 ha, von der 3,5 ha bewaldet sind, 60 ha als Grünland und 105 ha als Ackerland genutzt werden. An der Bodenbeschaffenheit der landwirtschaftlichen Flächen zeigt sich bereits die moorige Lage des Standorts, die wir durch den Besuch der nahe gelegenen Bastauwiesen am folgenden Tag noch besser kennenlernten. Während das Ackerland teilweise anmoorige Böden aufweist, umfasst das Grünland teildrainiertes Niederungsmoor. Die Unterteilung in Ackerland oder Grünland unterliegt dabei der EU-Direktzahlungen-Durchführungsverordnung (Art. 4 VO (EU) 2013/1307 Abs. 1 h) und ist an strenge Regelungen gebunden. So muss als Grünland genutztes Land mindestens alle fünf Jahre durchgepflügt werden, um nicht als Dauergrünland festgeschrieben zu werden. Da Dauergrünland einem generellen Umwandlungs- und Pflugverbot unterliegt, bietet es für die weitere Nutzung weniger Möglichkeiten der Bearbeitung, sodass eine solche Umstellung an einen Wertverlust der Fläche gekoppelt ist. Herr Kinkelbur erzählte uns dahingehend die Anekdote, dass das Zeitfenster auf einer seiner angepachteten Flächen durch eine Fehlrechnung überschritten wurde und eine als Grünland genutzte Fläche nun unbeabsichtigt als Dauergrünland an den Verpächter zurückgegeben wird, sodass mit einer Schadensersatzforderung gerechnet werden kann. Während sich die wirtschaftlich negativen Folgen dieser Regelung in dieser Anekdote bereits offenbaren, wird auf ihre ökologischen Folgen im Beitrag zu den Mooren und Baustauwiesen noch einmal eingegangen (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
 
@@ -67,9 +68,13 @@ Insgesamt wird auf dem Hof Kinkelbur versucht, einen möglichst lebendigen Organ
 
 Die jüngsten Veränderungen auf dem Hof Kinkelbur gehen auf die Pandemie 2020 zurück. Während die landwirtschaftliche Tätigkeit selbst davon weitestgehend unbeeinflusst blieb, erschienen im Zuge des Lockdowns immer mehr BesucherInnen, insbesondere junge Familien, auf dem Hof, die ihn als Tagesausflugsziel nutzten. Wohl in der Intention, einen Streichelzoo-Ersatz zu finden, kamen manche dabei auch den Tieren zu nahe. Durch das Aufstellen von Schildern, die die BesucherInnen zur Vorsicht und Rücksichtnahme sensibilisieren sollten, reagierte Familie Kinkelbur auf diese Entwicklungen. Die Veränderungen boten aber auch die Chance für neue Projekte, wie etwa für den Aufbau zweier neuer Hühnermobile mit je 345 Hennen, die eine Reaktion auf die steigende Nachfrage nach Bio-Eiern darstellten. Auch der von uns vorgefundene Selbstbedienungs-Hofladen wurde zur Direktvermarktung einiger Waren auf dem Hof in dieser Zeit errichtet (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021).
 
-![Beschilderung für die BesucherInnen des Hofes](images/Julia/IMG_20210913_150255.jpg)
+```{r, echo=FALSE, out.width="50%", fig.cap="Beschilderung für die BesucherInnen des Hofes."}
+knitr::include_graphics("images/Julia/IMG_20210913_150255.jpg")
+```
+```{r, echo=FALSE, out.width="100%", fig.cap="Der neue Hofladen."}
+knitr::include_graphics("images/Julia/IMG_20210913_150120.jpg")
+```
 
-![Der neue Hofladen](images/Julia/IMG_20210913_150120.jpg)
 </div>
 
 **Quellen**
