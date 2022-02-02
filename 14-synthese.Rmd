@@ -12,3 +12,7 @@ Abschließend lässt sich mit mit guter Laune sagen, dass wir tolle und lehrreic
 - ungewöhnlich wenige Gruppenmitglieder, tolle Gruppendynamik & Reiseatmosphäre 
 - neben ... haben wir sogar ein neues Zeitsystem entwickelt: before Matjes
 - Ziele der Großen Exkursion, das Modul & warum man das macht, ob wir was gelernt haben
+
+```{r, echo=FALSE, fig.cap="Am Strand in Laboe bei Sonnenuntergang"}
+knitr::include_graphics("images/Jana/20210920_182809.jpg")
+```
