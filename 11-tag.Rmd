@@ -1,14 +1,20 @@
 # Donnerstag, 23.09.2021 - Fischland-Darß-Zingst - Stralsund
 
+Abfahrt:
+
+Standorte: Fischland-Darß-Zingst - Stralsund
+
+Ankunft:
+
 ## Fischland-Darß-Zingst (Jana & Maren)
 
 <div style="text-align: justify">
 
 Für diesen Tag war eine Wanderung über die küstenmorphologisch bedeutsame Halbinsel Fischland-Darß-Zingst innerhalb des Nationalparks Vorpommersche Boddenlandschaft geplant. Sie befindet sich an der Mecklenburg Vorpommerschen Ostseeküste nordöstlich von Rostock und repräsentiert zusammen mit der Darß-Zingster Boddenkette das westliche Glied der vorpommerschen Boddenausgleichsküste (Janke & Lampe, 2011). Die Inselkerne entstanden aus den Ablagerungen der von Norden kommenden Gletschervorstöße während der letzten Eiszeit (Weichsel: 115.000 bis 10.000 Jahre vor heute). Durch die enorme Kraft des bewegten Eises sind Geröllmassen in der hügeligen Landschaft abgelagert worden. Mit der Erwärmung des Klimas und dem Schmelzen der Gletscher stieg der Meeresspiegel an und es bildeten sich dem Festland vorgelagerte Inseln. Die glazial und glazifluvial entstandene Landschaft wird als Boddenküste und die gebildeten Meeresbuchten als Bodden bezeichnet. Die Länge der mecklenburgischen Ostseeküste beträgt 277 km. Bezieht man die landseitigen Buchten- und Boddenküsten mit ein, so ergibt sich eine Gesamtlänge von 1945 km. Diese Zahl verdeutlicht das Ausmaß der Zerlappung der Küstenlinie durch die vielen Buchten und Bodden. (Dikau et al., 2019). Definiert werden Bodden als ehemalige Meeresbuchten der Ostsee, die in der Weichseleiszeit durch die Überflutung von tiefer gelegenem Relief der Grundmoränen entstanden sind. Heute sind sie weitgehend vom Meer angeschnitten und zeichnen sich durch die einmalige Besonderheit aus, dass sie weder dem Meer noch den Binnenseen zugeordnet werden. Dies liegt an der Eigenheit des Boddenwassers. Der Salzgehalt innerhalb der Bodden liegt zwischen 0,6 % und 0,9 %. Zum Vergleich, der Salzgehalt der angrenzenden Ostsee liegt zwischen 1,5 % und 2,0 %. (mündl. Kommunikation Exkursionsleitung, 2021). 
 
-Die geomorphologische Küstenform der Ausgleichs- bzw. Boddenküsten entsteht durch Meeresströmungen, die an der Ostseeküste von Westen nach Osten fließen. Dabei werden Sediment von den sich westlich befindenden (Steil-)küsten des Fischlandes sowie der Westküste des Darßes abgetragen. Bei nachlassender Strömungsgeschwindigkeit – häufig im „Schatten“ – von Inseln, wird das Sediment in Form von Sandbänken, Strandwällen und Sandhaken wieder abgelagert. Es kommt zu einer ständigen küstenparallelen Umverteilung der Sedimentmassen. Die entstandene Küstenform wird auch als Nehrung bzw. Nehrungsküste bezeichnet (Böse et al., 2018). Die Nehrungen zwischen den Inselkernen Fischland, Darß und Zingst trennen den Saaler Bodden und den Barther Bodden von der Ostsee **(Quelle)**. 
+Die geomorphologische Küstenform der Ausgleichs- bzw. Boddenküsten entsteht durch Meeresströmungen, die an der Ostseeküste von Westen nach Osten fließen. Dabei werden Sediment von den sich westlich befindenden (Steil-)küsten des Fischlandes sowie der Westküste des Darßes abgetragen. Bei nachlassender Strömungsgeschwindigkeit – häufig im „Schatten“ – von Inseln, wird das Sediment in Form von Sandbänken, Strandwällen und Sandhaken wieder abgelagert. Es kommt zu einer ständigen küstenparallelen Umverteilung der Sedimentmassen. Die entstandene Küstenform wird auch als Nehrung bzw. Nehrungsküste bezeichnet (Böse et al., 2018). Die Nehrungen zwischen den Inselkernen Fischland, Darß und Zingst trennen den Saaler Bodden und den Barther Bodden von der Ostsee. 
 
-Da recht stürmisches Wetter angesagt war, packten wir unsere Regenkleidung ein und machten uns darauf gefasst, unsere geplante Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fuhren wir in Richtung Nordosten und starteten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwanderten Teile des Darßer Waldes, durch seine Naturbelassenheit auch häufig als „Darßer Urwald“ bezeichnet. An einigen der Kiefern sind auffällige Muster in der Rinde zu erkennen. Dabei handelt es sich um sogenannte Harzlachten, aus denen bis in die späten 1980er Jahre Harz gewonnen wurde. Abbildung 12.1 zeigt eine dieser Harzlachten. Im Hintergrund ist sehr eindrücklich der „Darßer Urwald“ zu sehen. Harz wurde unter anderem für die Terpentinherstellung verwendet **(Quelle: Harzgewinnung und Nutzung)**. 
+Da recht stürmisches Wetter angesagt war, packten wir unsere Regenkleidung ein und machten uns darauf gefasst, unsere geplante Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fuhren wir in Richtung Nordosten und starteten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwanderten Teile des Darßer Waldes, durch seine Naturbelassenheit auch häufig als „Darßer Urwald“ bezeichnet. An einigen der Kiefern sind auffällige Muster in der Rinde zu erkennen. Dabei handelt es sich um sogenannte Harzlachten, aus denen bis in die späten 1980er Jahre Harz gewonnen wurde. Abbildung 12.1 zeigt eine dieser Harzlachten. Im Hintergrund ist sehr eindrücklich der „Darßer Urwald“ zu sehen. Harz wurde unter anderem für die Terpentinherstellung verwendet (mündl. Kommunikation Exkursionsleitung, 2021; Anders, 2015).
 
 ```{r, echo=FALSE, fig.cap="Herzlachte in einer Kiefer"}
 knitr::include_graphics("images/kristof/IMG_9587.jpg")
@@ -20,18 +26,21 @@ Ziel unserer kleinen Wanderung war der Leuchtturm Darßer Ort. Dieser verliert a
 knitr::include_graphics("images/kristof/IMG_20210923_115311.jpg")
 ```
 
-Heute zählt die Halbinsel zum Nationalpark Vorpommersche Boddenlandschaft und wird hauptsächlich als Freizeit- und Erholungsort für Anwohner und Touristen genutzt. Wir begegneten auf unserer Wanderung einigen Wandersleuten, RadfahrInnen sowie der [Darßbahn](https://www.fischland-darss-zingst.de/service/provider/details/stamm/show/darssbahn/). Angekommen am Leuchtturm Darßer Ort bot sich die Möglichkeit das [Natureum Darßer Ort]( https://www.natureum-darss.de/) zu besichtigen. Das Natureum bietet allen Interessierten spannende Ausstellungen und ausführliche Informationen rund um den Natur- und Lebensraum der Ostseeküste, der morphologischen Küstendynamik sowie ein kleines Ostseeaquarium. Wir haben uns jedoch gegen die Besichtigung entschieden. Teile der Gruppe wanderten ein kleines Stück weiter bis an die stürmische Ostseeküste, an der die Erosionsdynamik und die küstenmorphologischen Prozesse in Echt begutachtet werden konnten.
+Heute zählt die Halbinsel zum Nationalpark Vorpommersche Boddenlandschaft und wird hauptsächlich als Freizeit- und Erholungsort für Anwohner und Touristen genutzt. Wir begegneten auf unserer Wanderung einigen Wandersleuten, RadfahrInnen sowie der [Darßbahn](https://www.fischland-darss-zingst.de/service/provider/details/stamm/show/darssbahn/). Angekommen am Leuchtturm Darßer Ort bot sich die Möglichkeit das [Natureum Darßer Ort](https://www.natureum-darss.de/) zu besichtigen. Das Natureum bietet allen Interessierten spannende Ausstellungen und ausführliche Informationen rund um den Natur- und Lebensraum der Ostseeküste, der morphologischen Küstendynamik sowie ein kleines Ostseeaquarium. Wir haben uns jedoch gegen die Besichtigung entschieden. Teile der Gruppe wanderten ein kleines Stück weiter bis an die stürmische Ostseeküste, an der die Erosionsdynamik und die küstenmorphologischen Prozesse in Echt begutachtet werden konnten.
 
 Das Gebiet Darß-Zingst steht unter besonderem Schutz und gehört, wie bereits erwähnt, zum Nationalpark Vorpommersche-Boddenlandschaft. Dieser ist der dritt-größte Nationalpark Deutschlands und umfasst 786 km^2^ (78.600 ha) (Nationalpark Vorpommersche Boddenlandschaft, 2020). Dazu erhielten Neu-Darß und der Darßer Ort 2006 das Prädikat "Nationaler Geotop". Dabei handelt es sich um eine Auszeichnung, die deutschlandweit an 77 bedeutsame Geotope verliehen wurde.
 
 Auf dem Rückweg nach Prerow erfuhren wir von der Exkursionsleitung, dass die Halbinsel Fischland-Darß-Zingst seit jeher eine Besonderheit für unterschiedliche KünstlerInnen war. So entstanden bereit Anfang des 20. Jahrhunderts Künstkolonien. Spuren davon sind noch heute in der hohen Dichte an Galerien und den reich verzierten Gebäuden zu erkennen (mündl. Kommunikation Exkursionsleitung, 2021). 
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Die Exkursionsleitung auf stürmischer Erkundung"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Die Exkursionsleitung auf stürmischer Erkundung."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9601.jpg")
 ```
-**Andere Bildunterschrift? - Ist diese Unterschrift besser? bin mir auch unsicher**
 
-**Literatur**
+</div>
+
+**Quellen**
+
+Anders, G., 2015. Die Halbinsel Darß und Zingst. Hinstorff Verlag, Rostock.
 
 Böse, M., Ehlers, J., Lehmkuhl, F., 2018. Deutschlands Norden. Vom Erdaltertum zur Gegenwart. Springer-Verlag, Berlin-Heidelberg.
 
@@ -44,8 +53,6 @@ Informationstafel Darßer Ort, 2021. Die Tage des Leuchtturms sind gezählt. Öf
 Janke, W., Lampe, R., 2011. Fischland - Darß - Zingst. In: Die deutsche Ostseeküste (2. Aufl.). Gebr. Borntraeger, Stuttgart, S. 219-231.
 
 Nationalpark Vorpommersche-Boddenlandschaft, 2020. Steckbrief des Nationalparks Vorpommersche Boddenlandschaft. https://www.nationalpark-vorpommersche-boddenlandschaft.de/wissen-verstehen/steckbrief. Zugriff: 01.02.22/10:02h.
-
-</div>
 
 
 ## Stralsund (Julia)
