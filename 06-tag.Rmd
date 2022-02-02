@@ -97,15 +97,16 @@ Informationstafel Holcim, 2021c. Rohmaterialgewinnung – Gestern und Heute. Öf
 <div style="text-align: justify">
 
 Nach einer kleinen mittäglichen Stärkung an der St. Johannis-Kirche in Meldorf – je nach Vorliebe in Form von Pommes, Burger oder Backwaren – ging unsere Reise weiter. 
+
 ```{r, echo=FALSE, out.width="100%", fig.cap="St. Johannis-Kirche in Meldorf und Meldorfer Marktplatz."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_122458.jpg")
 ```
 
-Wir durchfuhren die sehr markante norddeutsche Marschlandschaft in Richtung Meldorfer Bucht und Nordseeküste während wir durch die Exkursionsleiter erklärt bekommen, wie die Region entstand. Der Landstrich ist von ehemaligen Haupt-, Alt- und Sommerdeichen durchzogen, die die einzigen Erhöhungen in dem sonst sehr flachen Gebiet darstellen. Durch die Eindeichung der flachen, küstennahen, gezeitenbeeinflussten Salzwiesen wurde bereits im 11. Jahrhundert Siedlungs- und Ackerfläche gewonnen. Die natürliche Auflandung meerwärts sowie die Entwässerung der gewonnenen Landflächen verschob die Küstenlinie in mehreren Eindeichungsphasen nach Westen. Diese neuen Flächen werden als Köge (Einzahl Koog) bezeichnet und finden sich in den Namen der umgebenden Orte wieder. Neben dem Zweck der Landgewinnung dienen die Deiche vor allem dem Schutz gegenüber Sturmfluten. Eine der letzten großen Sturmfluten an der deutschen Nordseeküste ereignete sich im Januar 1976. Die kurz zuvor verstärkten Deiche konnten den Fluten jedoch größtenteils trotzen, sodass es zu keinen größeren Schäden kam. Heute bewirken die Deiche auch einen Schutz gegen den, durch den Klimawandel bedingten, Meeresspiegelanstieg. Viele der heutigen Deiche werden jedoch langfristig verstärkt werden müssen.
+Wir durchfuhren die sehr markante norddeutsche Marschlandschaft in Richtung Meldorfer Bucht und Nordseeküste während wir durch die Exkursionsleiter erklärt bekommen, wie die Region entstand. Der Landstrich ist von ehemaligen Haupt-, Alt- und Sommerdeichen durchzogen, die die einzigen Erhöhungen in dem sonst sehr flachen Gebiet darstellen. Durch die Eindeichung der flachen, küstennahen, gezeitenbeeinflussten Salzwiesen wurde bereits im 11. Jahrhundert Siedlungs- und Ackerfläche gewonnen. Die natürliche Auflandung meerwärts sowie die Entwässerung der gewonnenen Landflächen verschob die Küstenlinie in mehreren Eindeichungsphasen nach Westen. Diese neuen Flächen werden als Köge (Einzahl Koog) bezeichnet und finden sich in den Namen der umgebenden Orte wieder. Neben dem Zweck der Landgewinnung dienen die Deiche vor allem dem Schutz gegenüber Sturmfluten. Eine der letzten großen Sturmfluten an der deutschen Nordseeküste ereignete sich im Januar 1976. Die kurz zuvor verstärkten Deiche konnten den Fluten jedoch größtenteils trotzen, sodass es zu keinen größeren Schäden kam. Heute bewirken die Deiche auch einen Schutz gegen den, durch den Klimawandel bedingten, Meeresspiegelanstieg. Viele der heutigen Deiche werden jedoch langfristig verstärkt werden müssen (mündl. Kommunikation Exkursionsleitung, 2021a).
 
-Die neu entstandene Landschaft wird auch als Marsch, deren Böden als Marschen bezeichnet. Zumeist bildet feinkörniger, sulfidhaltiger Schlick, der je nach Ursprung und Strömung carbonat- oder quarzhaltig und häufig reich an primärer organischer Substanz ist, das Ausgangssubstrat dieser Böden. Während Sturmflutereignissen werden geringmächtige Feinsandstreifen abgelagert. Außerdem können fossile A-Horizonte oder Torfschichten lokal gefunden werden (Amelung et al., 2018). Die Entwässerung der ehemaligen Salzwiesen bewirkt das Einsetzen erster bodenbildender Prozesse und die Entstehung einer Rohmarsch. Das Aufwachsen von Vegetation verhindert Erosionsprozesse und führt zur Entstehung eines humosen Oberbodens. Gleichzeitig wird der Boden besser belüftet, sodass es neben einer Aussüßung und Entkalkung auch zu der Oxidation der Sulfide kommt. Je nach überwiegendem Prozess und Alter der Marsch können neben Kalkmarschen (entsalzt und kalkhaltig), Kleimarschen (entsalzt und entkalkt) und Knickmarschen (verwittert) weitere Formen der Marschböden entstehen, auf die im Folgenden nicht weiter eingegangen werden soll. Es handelt sich zumeist um sehr fruchtbare Böden, die nach Entwässerung und mit entsprechend angepasstem Ackerbau zu den ertragsreichsten Böden Deutschlands zählen (Mündl. Kommunikation Exkursionsleiter 2021; Amelung et al., 2018).
+Die neu entstandene Landschaft wird auch als Marsch, deren Böden als Marschen bezeichnet. Zumeist bildet feinkörniger, sulfidhaltiger Schlick, der je nach Ursprung und Strömung carbonat- oder quarzhaltig und häufig reich an primärer organischer Substanz ist, das Ausgangssubstrat dieser Böden. Während Sturmflutereignissen werden geringmächtige Feinsandstreifen abgelagert. Außerdem können fossile A-Horizonte oder Torfschichten lokal gefunden werden (Amelung et al., 2018). Die Entwässerung der ehemaligen Salzwiesen bewirkt das Einsetzen erster bodenbildender Prozesse und die Entstehung einer Rohmarsch. Das Aufwachsen von Vegetation verhindert Erosionsprozesse und führt zur Entstehung eines humosen Oberbodens. Gleichzeitig wird der Boden besser belüftet, sodass es neben einer Aussüßung und Entkalkung auch zu der Oxidation der Sulfide kommt. Je nach überwiegendem Prozess und Alter der Marsch können neben Kalkmarschen (entsalzt und kalkhaltig), Kleimarschen (entsalzt und entkalkt) und Knickmarschen (verwittert) weitere Formen der Marschböden entstehen, auf die im Folgenden nicht weiter eingegangen werden soll. Es handelt sich zumeist um sehr fruchtbare Böden, die nach Entwässerung und mit entsprechend angepasstem Ackerbau zu den ertragsreichsten Böden Deutschlands zählen (mündl. Kommunikation Exkursionsleiter 2021a; Amelung et al., 2018).
 
-Unser letztes Ziel des Tages war einer der jüngsten Köge der Region: der Speicherkoog. Der nördliche Teil dieses Koogs wurde erst in den Jahren 1974 bis 1978 eingedeicht. Dort sahen wir uns neben der 2010 in Betrieb genommenen Wetterstation den Boden genauer an.
+Unser letztes Ziel des Tages war einer der jüngsten Köge der Region: der Speicherkoog. Der nördliche Teil dieses Koogs wurde erst in den Jahren 1974 bis 1978 eingedeicht. Der Name „Speicherkoog“ rührt daher, dass er in Zeiten von hohen Grundwasserständen Wasser speichert. Viele der Köge liegen unterhalb oder nur knapp über dem Meeresspiegel und müssen dauerhaft entwässert werden. Dies ist in den sich regelmäßig wiederholenden Gräben deutlich zu erkennen. Dort sahen wir uns neben der 2010 in Betrieb genommenen Wetterstation den Boden genauer an.
 
 </div>
 
@@ -129,42 +130,32 @@ knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_20210918_145533.jpg")
 
 Nach knapp eineinhalb Stunden fleißigen Buddelns und Präparierens hatte unser Bodenprofil eine Tiefe von 1,40 m erreicht. Das fertige Bodenprofil ist in **Abbildung xy** zu sehen. Es handelt sich um eine Norm-Kalkmarsch (nach der deutschen Bodenklassifizierung) bzw. einen Calcaric Fluvisol (nach WRB), die bereits in unterschiedlichen Publikationen von Herrn Mansfeldt (u.a.: Mansfeldt, 2003; Mansfeldt, 2004) beschrieben und  als Beispielprofil für den [Boden des Jahres 2009](https://boden-des-jahres.de/archiv/2009-stadtboden/) verwendet wurde. Deutlich zu erkennen, sind die charakteristischen Bodenhorizonte.
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Aufgegrabenes Bodenprofil: Norm-Kalkmarsch."}
+```{r, echo=FALSE, out.width="40%", fig.cap="Aufgegrabenes Bodenprofil: Norm-Kalkmarsch."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_153527.jpg")
 ```
 
-Die oberen 15 cm des Profils umfassen den humosen Oberboden und werden als Ah-Horizont bezeichnet. Dieser entstand durch Humusanreicherung und Erosionsschutz der aufwachsenden Vegetation. Liegend ist ein etwa 10 cm mächtiger Übergangshorizont zu erkennen. Besonders in den oberen Horizonten sind Spuren von biogener Durchmischung der Bodenstruktur zu erkennen. Diesen Prozess fasst man unter dem Begriff der Bioturbation zusammen. Außerdem bewirkt die biologische Aktivität die Entstehung eines Bodengefüges. Im Falle des Oberbodens entsteht hier unter dem Einfluss von Regenwürmern ein Krümelgefüge. Von 25 cm bis 1,1 m Profiltiefe erstreckt sich ein oxidierter, teilweise carbonathaltiger und semiterrestrischer Grundwasserhorizont, der nach **(Klassifikation xy)** als eGo gekennzeichnet wird. Dieser kann weiter in Unterhorizonte unterteilt werden. Im oberen Bereich sind deutliche Rostflecken zu erkennen. Dies spricht für die Ausfällung und Anreicherung von Eisenoxiden im überwiegend belüfteten Schwankungsbereich des Grundwassers. Die Schichtung, die insbesondere in einer Tiefe von 25 bis 55 cm zu sehen ist, resultiert aus reliktischen Sturmfluten und Überflutungsereignissen. Auch unterhalb von 55 cm können die typischen Bänder durch Sturmfluten erkennt werden, hier jedoch mit etwas größerem Abstand zueinander. Ab einer Profiltiefe von 1,1 m beginnt der reduzierte und zumeist wassergesättigte eGr-Horizont. Dieser ist geprägt durch die dunkelgraue bis fast schwarze Färbung, die durch Eisensulfide entsteht. Mit **xy % -iger Salzsäure haben wir getestet, bis wohin der Boden entkalkt ist. (bis wohin ist er entkalkt?).** Im Verlauf der weiteren Bodenentwicklung wird die vorliegende Kalkmarsch durch Säureeinträge nach und nach entkalkt. Den so entstandenen Boden bezeichnet man als Kleimarsch. 
+Die oberen 15 cm des Profils umfassen den humosen Oberboden und werden als Ah-Horizont bezeichnet. Dieser entstand durch Humusanreicherung und Erosionsschutz der aufwachsenden Vegetation. Liegend ist ein etwa 10 cm mächtiger Übergangshorizont zu erkennen. Besonders in den oberen Horizonten sind Spuren von biogener Durchmischung der Bodenstruktur zu erkennen. Diesen Prozess fasst man unter dem Begriff der Bioturbation zusammen. Außerdem bewirkt die biologische Aktivität die Entstehung eines Bodengefüges. Im Falle des Oberbodens entsteht hier unter dem Einfluss von Regenwürmern ein Krümelgefüge. Von 25 cm bis 1,1 m Profiltiefe erstreckt sich ein oxidierter, teilweise carbonathaltiger und semiterrestrischer Grundwasserhorizont, der nach der deutschen bodenkundlichen Kartieranleitung (2005) als eGo gekennzeichnet wird. Dieser kann weiter in Unterhorizonte unterteilt werden. Im oberen Bereich sind deutliche Rostflecken zu erkennen. Dies spricht für die Ausfällung und Anreicherung von Eisenoxiden im überwiegend belüfteten Schwankungsbereich des Grundwassers. Die Schichtung, die insbesondere in einer Tiefe von 25 bis 55 cm zu sehen ist, resultiert aus reliktischen Sturmfluten und Überflutungsereignissen. Auch unterhalb von 55 cm können die typischen Bänder durch Sturmfluten erkennt werden, hier jedoch mit etwas größerem Abstand zueinander. Ab einer Profiltiefe von 1,1 m beginnt der reduzierte und zumeist wassergesättigte eGr-Horizont. Dieser ist geprägt durch die dunkelgraue bis fast schwarze Färbung, die durch Eisensulfide entsteht. Mit **10 % -iger Salzsäure haben wir getestet, bis wohin der Boden entkalkt ist. (bis wohin ist er entkalkt?).** Im Verlauf der weiteren Bodenentwicklung wird die vorliegende Kalkmarsch durch Säureeinträge nach und nach entkalkt. Den so entstandenen Boden bezeichnet man als Kleimarsch (mündl. Kommunikation Exkursionsleitung, 2021b). 
 
-**Sulfidtoxidation**
+Das hier vorgestellte Profil zeigt eindrücklich die Relevanz der Böden als Archiv der Naturgeschichte. Ab einer Tiefe von etwa 1,40 m haben wir mehrere teils sehr gut erhaltene Muscheln finden können. Leider können wir sowohl die Art, als auch den genauen Ablagerungszeitraum nicht mehr rekonstruieren. 
 
-Das hier vorgestellte Profil zeigt eindrücklich die Relevanz der Böden als Archiv der Naturgeschichte. Ab einer Tiefe von etwa 1,40 m haben wir mehrere teils sehr gut erhaltene Muscheln finden können. Leider können wir sowohl die Art, als auch den genauen Ablagerungszeitraum nicht mehr rekonstruieren. **Alter der Muscheln**
+**Beschreibung und Alter der gefundenen Muscheln**
 
 Gemeinsam und umgeben von Schafen ließen wir diesen ereignisreichen Tag bei Bier und Fassbrause auf dem Deich der Meldorfer Bucht ausklingen. 
 
 </div>
 
-## Quellen
+**Quellen**
 
-PreußenElektra GmbH, 2022. Kernkraftwerk Brockdorf. https://www.preussenelektra.de/de/unsere-kraftwerke/kraftwerkbrokdorf.html, 2022-01-30.
-
-WSV – Wasserstraßen- und Schifffahrtsverwaltung des Bundes, 2022. Baumaßnahmen – So vertiefen und verbreitern wir die Elbe. https://www.fahrrinnenanpassung.de/bauma%C3%9Fnahmen.html, 2022-01-30.
-
-WWF – World Wide Fund For Nature, 2022. Die Folgen der Vertiefung für Fluss und Umwelt. https://www.wwf.de/themen-projekte/projektregionen/tideelbe/folgen-fuer-fluss-und-umwelt, 2022-01-20.
-
-BUND – Bund für Umwelt und Naturschutz Deutschland e. V., 2021. Sauerstoffmangel durch die Elbvertiefung. https://www.bund-hamburg.de/themen/umweltpolitik/elbvertiefung/sauerstoffloch/, 2022-01-30.
-
-Schöl, A., Hein, B., Wyrwa, J., Kirchesch, V., 2018. Langzeitmodellierung der Gewässergüte in der Elbe mit Fokus auf die Sauerstoffbilanz im Ästuar. Die Küste 86, S. 219 – 250, Karlsruhe.
-
-NABU – Naturschutzbund Deutschland, 2016. Rote Liste der Brutvögel. https://www.nabu.de/tiere-und-pflanzen/voegel/artenschutz/rote-listen/10221.html, 2022-01-30.
-
-NABU – Naturschutzbund Deutschland, 2022. Pfuhlschnepfe. https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/pfuhlschnepfe/, 2022-01-30.
-
-Holcim, 2022. Geologie und Kreidegewinnung. https://www.holcim.de/de/geologie-und-kreidegewinnung, 2022-01-30.
+Ad-hoc-Arbeitsgruppe Boden: Bundesanstalt für Geowissenschaften und Rohstoffe in Zusammenarbeit mit den Staatlichen Geologischen Diensten, 2005. Bodenkundliche Kartieranleitung, Hannover. 
 
 Amelung, W., Blume, H.-P., Fleige, H., Horn, R., Kandeler, E., Kögel-Knaber, I., Kretzschmar, R., Stahr, K., Wilke, B.-M., 2018. Scheffer/Schachtschabel Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin.
+
+Exkursionsleitung, 2021a. Gespräch über die Entstehungsgeschichte der Melddorfer Bucht sowie der Eindeichungsgeschichte der Köge.
+
+Exkursionsleitung, 2021b. Gespräch über die vorgefundene Kalkmarsch.
 
 Mansfeldt, T., 2004. Redox potential of bulk soil and soil solution concentration of nitrate, manganese, iron, and sulfate in two Gleysols. Journal of Plant Nutrition and Soil Science 167, S. 7 – 16.
 
 Mansfeldt, T., 2003. In situ long-term redox potential measurements in a dyked marsh soil. Journal of Plant Nutrition and Soil Science 166, S. 210 – 219.
 
-Projektbüro Fahrrinnenanpassung, 2007. Fahrrinnenanpassung Unter- und Außenelbe Das Projekt im Überblick. DruckVerlag Kettler, Bönen.
+
