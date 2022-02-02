@@ -35,15 +35,15 @@ Nachdem wir die Gutsanlage Panker verlassen haben und uns auf dem Weg zur Steilk
 
 Um gegen diese Problematik vorzugehen, werden seit vielen Jahren Forschungen betrieben, die eine Vielzahl verschiedener Methoden zur rechtzeitigen Erkennung der Vögel hervorgebracht haben. Dabei handelt es sich vor allem um Erkennungsmöglichkeiten durch Sichtbeobachtungen oder akustischer Erfassung (Hüppop et al., 2005). 
 
-**Literatur**
+**Quellen**
 
 Hüppop,O., Dierschke, J., Wendeln, H., 2005. Zugvögel und Offshore-Windkraftanlagen: Konflikte und Lösungen. Ber. Vogelschutz 41, 127-218.
 
 Lindeiner, A. V., 2014. Windkraft und Vogelschutz. ANL Natur 36 (1), 39-46.
 
-Umweltverträglichkeitsprüfung der Länder, 2020. Errichtung und Betrieb von 7 Windkraftanlagen in 23758 Wangels (Kreis Ostholstein) - Az. G20/2013/121-127. https://www.uvp-verbund.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=5363F6A3-0BCE-4498-A727-2FADBD2AA12F&plugid=/ingrid-group:ige-iplug-sh. Zugriff: 29.01.2022/12:10h.
+Umweltverträglichkeitsprüfung der Länder, 2020. Errichtung und Betrieb von 7 Windkraftanlagen in 23758 Wangels (Kreis Ostholstein) - Az. G20/2013/121-127. https://www.uvp-verbund.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=5363F6A3-0BCE-4498-A727-2FADBD2AA12F&plugid=/ingrid-group:ige-iplug-sh, 2022-01-29. 
 
-WWF, 2021. Der Seeadler - Größter Greifvogel Europas. https://www.wwf.de/themen-projekte/bedrohte-tier-und-pflanzenarten/adler/seeadler. Zugang: 25.01.22/14:05h.
+WWF, 2021. Der Seeadler - Größter Greifvogel Europas. https://www.wwf.de/themen-projekte/bedrohte-tier-und-pflanzenarten/adler/seeadler, 2022-01-25.
 
 </div>
 
@@ -72,9 +72,9 @@ Exkursionsleitung, 2021. Diskussion über die Entstehung der Wangels Steilküste
 ## Leuchtturm Neuland (Maren)
 <div style="text-align: justify">
 
-Am Ende des Tages erhielten wir durch Horst die einmalige Gelegenheit den Leuchtturm Neuland im Ort Behrensdorf zu besuchen. Der Ziegelturm ist 40 m hoch und liegt Südöstlich des Truppenübungsplatzes Todendorf. Er wurde in den Jahren 1915-1916 aus militärisch-strategischen Zwecken errichtet und füllt eine bis dahin bestehende Seezeichenlücke zwischen Fehmarnsund und der Kieler Förde. Für 80 Jahre diente der Turm als Seezeichen und wird heute ausschließlich von der Bundeswehr genutzt. Das Feuer des Turms zeigt die Sperrzeiten an, in denen die Schießplätze Todendorf und Putlos aktiv sind. Während wir oben auf dem Leuchtturm standen konnten wir eine Schießübung des Platzes Putlos beobachten bzw. erahnen. Wir hörten, wie ein Schuss viel und sahen in weiter Entfernung auf dem Meer, wie eine Wasserfontäne empor ging. Dies geschah zeitlich versetzt zu dem dumpfen Geräusch des Schusses.
+Am Ende des Tages erhielten wir durch Horst die einmalige Gelegenheit den Leuchtturm Neuland im Ort Behrensdorf zu besuchen. Der Ziegelturm ist 40 m hoch und liegt Südöstlich des Truppenübungsplatzes Todendorf. Er wurde in den Jahren 1915-1916 aus militärisch-strategischen Zwecken errichtet und füllt eine bis dahin bestehende Seezeichenlücke zwischen Fehmarnsund und der Kieler Förde. Für 80 Jahre diente der Turm als Seezeichen und wird heute ausschließlich von der Bundeswehr genutzt. Das Feuer des Turms zeigt die Sperrzeiten an, in denen die Schießplätze Todendorf und Putlos aktiv sind (mündl. Kommunikation Peters, 2021). Während wir oben auf dem Leuchtturm standen konnten wir eine Schießübung des Platzes Putlos beobachten bzw. erahnen. Wir hörten, wie ein Schuss viel und sahen in weiter Entfernung auf dem Meer, wie eine Wasserfontäne empor ging. Dies geschah zeitlich versetzt zu dem dumpfen Geräusch des Schusses.
 
-Wer den Turm selbst einmal besteigen möchte, kann dies 2 Mal im Jahr am Tag der offenen Tür machen. Zudem haben verlobte Paare die Möglichkeit sich in 40 m Höhe das Ja-Wort zu geben.
+Wer den Turm selbst einmal besteigen möchte, kann dies 2 Mal im Jahr am Tag der offenen Tür machen. Zudem haben verlobte Paare die Möglichkeit sich in 40 m Höhe das Ja-Wort zu geben (mündl. Kommunikation Peters, 2021).
 
 ```{r, echo=FALSE, fig.cap="Der Leuchtturm Neuland"}
 knitr::include_graphics("images/kristof/IMG_9487.jpg")
@@ -86,9 +86,11 @@ knitr::include_graphics("images/kristof/IMG_9451.jpg")
 
 Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinner wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung hatten wir einen Blick auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) (vlg. Abb. 10.2). Dabei handelt es sich um ein in sich geschlossenes Niederungsgebiet, das direkt an der Ostsee gelegen ist. Es ist wie die Esterweger Dose Teil der europäischen Naturschutzgebiete NATURA 2000. Besonders für Vögel ist das Gebiet von hoher Wichtigkeit und bietet durch die Vielfältigkeit der Biotop mehr als 120 Vogelarten einen Lebensraum (Nabu, 2021). 
 
-**Literatur**
+**Quellen**
 
-Nabu, 2021. NABU-Naturschutzgebiet "Kleiner Binnensee und angrenzende Salzwiesen". https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html. Zugang: 29.01.2022/13:17h.
+Nabu, 2021. NABU-Naturschutzgebiet "Kleiner Binnensee und angrenzende Salzwiesen". https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html, 2022-01-29.
+
+Peters, H., 2021. Vortrag auf dem Leuchtturm Neuland.
 
 </div>
 
