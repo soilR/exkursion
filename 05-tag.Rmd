@@ -11,7 +11,7 @@ Die gleichnamige Firma wurde 1973 gegründet und ist mittlerweile der einzig ver
 
 Der Fertigungsprozess beginnt an der Elbeküste im werkseigenen Hafen. Das Bauxit das hier ankommt stammt von Tagebauen in den Tropen, etwa aus Australien oder Afrika, da Bauxit (bzw. die Lateritböden welche es enthalten) nur unter tropischen Verwitterungsbedingungen entsteht. Bei Bauxit handelt es sich um ein Gestein welches einen Besonders hohen Aluminiumanteil aufweist. Zwar ist Aluminium mit einem Gewichttsanteil von 7,5% an der Erdkruste eines der häufigsten Elemente auf Erden, jedoch ist dessen Anteil in Silikatgesteinen relativ gering. Währenddessen liegt er bei Bauxit  bei bis zu 50%, wodurch die Aluminiumgewinnung erst rentabel wird.
 
-![Bauxitabbau in Guinea, Güterschiff im Werkseigenen Hafen und Löschung der Ladung](images/Christian vorsortiert/Stade Aluminiumwerk/w_photo_2500sm_00880_hi_992x558.jpg){width=91%}
+![Bauxitabbau in Guinea, Güterschiff im Werkseigenen Hafen und Löschung der Ladung (Quelle: Aluminium Oxid Stade GmbH 2021](images/Christian vorsortiert/Stade Aluminiumwerk/w_photo_2500sm_00880_hi_992x558.jpg){width=91%}
 
 ![](images/Christian vorsortiert/Stade Aluminiumwerk/hafen_schiff_von_vorne.jpg) ![](images/Christian vorsortiert/Stade Aluminiumwerk/hafen_luke.jpg)
 
@@ -21,21 +21,21 @@ Die Lage an der Elbe ist dabei von zentraler Bedeutung für den Erfolg des Werke
 
 Das Bauxit wird nach dem Transport über Förderbänder dann  gemahlen und mit Natronlaufe versetzt. Mit diesem Schritt beginnt das Bayerverfahren, mit welchem seit seiner Entwicklung im Jahr 1888 Aluminium aus Bauxit gewonnen werden kann. In der Rohraufschlussanlage wird diese Suspension stufenweise auf 270°C erhitzt. Dadurch löst sich das Aluminium im Erz und bindet sich an das Natrium wodurch sich NA[Al(OH)~4~] Verbindungen bilden.
 
-![Rohraufschlussanlage in welcher Bauxit und Natronlauge vermengt und erhitzt werden](images/Christian vorsortiert/Stade Aluminiumwerk/rohraufschluss.jpg)
+![Rohraufschlussanlage in welcher Bauxit und Natronlauge vermengt und erhitzt werden (Quelle: Aluminium Oxid Stade GmbH 2021)](images/Christian vorsortiert/Stade Aluminiumwerk/rohraufschluss.jpg)
 
 Nach einer mehrstufigen Reinigung der Lösung in der mineralische Rückstände entfernt werden, liegt eine stark übersättigte Lösung vor, aus der es nun gilt das Aluminiumhydroxid zu gewinnen.
 
 Dies gelingt wird die Lösung mit bereits fertigem Aluminiumhydroxid "geimpft" wird, wodurch Kristallisationkeime enstehen an den sich das Aluminiumhydroxid bei Abkühlung und intensivem Rühren nach und nach ausfällen kann.
 
-![Anlage in der das Aluminiumhydroxid in Kristallform ausfällt](images/Christian vorsortiert/Stade Aluminiumwerk/ausruehrer_bei_nacht.jpg)
+![Anlage in der das Aluminiumhydroxid in Kristallform ausfällt (Quelle: Aluminium Oxid Stade GmbH 2021)](images/Christian vorsortiert/Stade Aluminiumwerk/ausruehrer_bei_nacht.jpg)
 
 Am Ende dieses Prozesses werden die Aluminiumhydroxidkristalle mithilfe von Vakuumfiltern aus der Lösung herausfiltriert. Hier konnte die Gruppe das fertige Produkt bereits bestaunen und anfassen.
 
-![Filtration der Aluminiumhydroxidkristalle](images/Christian vorsortiert/Stade Aluminiumwerk/scheibenfilter-ef1.jpg)
+![Filtration der Aluminiumhydroxidkristalle (Quelle: Aluminium Oxid Stade GmbH 2021)](images/Christian vorsortiert/Stade Aluminiumwerk/scheibenfilter-ef1.jpg)
 
 Im Anschluss kann das Aluminiumhydroxid in Hochöfen gebrannt bzw. calciniert werden um den Wasserstoff loszuwerden und Aluminiumoxid zu erzeugen. Da es jedoch in der Industrie auch vielseitige Anwendungen für die Hydroxidverbindung gibt, ist dies nicht bei der gesamten Produktionsmenge nötig.
 
-![Das fertige Aluminiumhydroxid im Lager](images/Christian vorsortiert/Stade Aluminiumwerk/versand_hydroxidlagerhalle.jpg)
+![Das fertige Aluminiumhydroxid im Lager (Quelle: Aluminium Oxid Stade GmbH 2021)](images/Christian vorsortiert/Stade Aluminiumwerk/versand_hydroxidlagerhalle.jpg)
 
 Ursprünglich verfügte das Werk auch über Produktionshallen in denen durch Elektrolyse das Aluminiumoxid zu reinem Aluminium verarbeitet wurde. Dabei wird das Aluminium durch die Schmelzflusselektrolyse vom Sauerstoff getrennt und an Elektroden gebunden. Dieser Prozess ist jedoch extrem Energieaufwendig und kann sich nur an Standorten an denen der Strom extrem billig ist rentieren, weshalb dieser produktionschritt in Stade schon vor längerem aufgegeben wurde.
 Eine Orientierung zum immensen Energieaufwand bietet ein Blick auf die Weltmarktpreise: Der Preis für Aluminiumoxid beträgt meist nur 12 bis 14 prozent des Aluminiumpreises was bedeutet, dass Energie im 7-fachen Wert des Ausgangsproduktes verwendet werden muss um Aluminiumoxid zu Aluminium zu verarbeiten. Entsprechend findet die Produktion mittlerweile auf Island oder in Ölförderstaaten statt.
@@ -43,6 +43,11 @@ Eine Orientierung zum immensen Energieaufwand bietet ein Blick auf die Weltmarkt
 Von Anfange bis Ende kann man aus 4 Tonnen Bauxit etwa 2 Tonnen Aluminiumoxid gewinnen, sowie eine Tonne reines Aluminium. Dementsprechend fällt eine Menge Abfallprodukte bei der Produktion an. Dieser Rest wird gemeinhin als "Rotschlamm" bezeichnet und wird oft als Umweltrisiko gesehen, besonders in Ländern des globalen Südens in denen die umweltgerechte Entsorgung problematisch ist. Diese Gefahr geht jedoch hauptsächlich von der Natronlauge aus, nicht von den übrigen Mineralien. In den Werken in Stade wird die Natronlauge vor der Deponierung herausgefiltert, übrig bleibt ein roter Staub der hauptsächlich aus Metallverbindungen besteht. Diese lagern auf der nahegelegenen Deponie und sind komplett Wasserunlöslich und stellen so kein Umweltrisiko dar, müssen jedoch vor Verwehung geschützt werden.
 
 Nach einer überaus üppigen Mahlzeit in der Firmenkantine bei wir uns mit der Werkseigenen Feuerwehr austauschten, verabschiedeten wir uns und gingen wieder unseren Weges. Die Ohren noch klingend vom Lärm der Maschinen der chemischen Industrie machten wir uns auf dem Weg ins Alte Land um dort einen nicht weniger produktiven Standort des Agrarsektors zu besuchen.
+
+**Quellen**
+
+Aluminium Oxid Stade GmbH, 2021. Anlagenbeschreibung. https://www.aos-stade.de/pages/produktion/main-anlagenbeschreibung.html, zuletzt geprüft am 09.12. 2021
+
 
 </div>
 
