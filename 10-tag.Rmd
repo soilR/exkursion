@@ -20,20 +20,20 @@ Das Vorfinden einer solchen Landschaft im eigentlich für seine weiten Horizonte
 
 Ganz Nordeutschland, beziehungsweise die sehr bezeichnende Norddeutsche Tiefebene, ist durch die Gletscher der letzten großen Kaltzeiten geprägt. Von Skandinavien kommend rollten sich dabei kilometerhohe Gletscher über das Land, welche sämtliche Bodenschichten bis auf das Grundgestein hinwegschleiften. Deshalb kann man in Norddeutschlad Erdgeschichlich auch nur bis in die letzten drei Kaltzeiten blicken, die Weichsel, Saale und Elster- Kaltzeiten. 
 
-![Die Kaltzeiten und nachweisbare vergletscherungen in Norddeutschland](images/Christian vorsortiert/Estliches Hegelland/Kaltzeiten.jpg)
+![Die Kaltzeiten und nachweisbare vergletscherungen in Norddeutschland (Quelle: Stephan 2014: 6)](images/Christian vorsortiert/Estliches Hegelland/Kaltzeiten.jpg)
 
 
 Die Böden sind  daher auch durch die glazialen und periglazialen prozesse dieser Zeit geprägt und bestehen aus dem von den Gletschern mitgetragenem Gestein (Geschiebemergel) in verschiedenen Erosionsstadien. Nun stießen die Gletscher der Weichselkaltzeit allerdings lange nicht so weit vor wie die der vorangegangen Saale-Eiszeit wie auf den beiden untenstehenden Karten zu sehen ist. 
 
-![Maximaler Vorstoß der Gletscher in der Saale-Kaltzeit](images/Christian vorsortiert/Estliches Hegelland/Saale-vereisung.jpg)
+![Maximaler Vorstoß der Gletscher in der Saale-Kaltzeit (Quelle: Böse et al. 2018: 77)](images/Christian vorsortiert/Estliches Hegelland/Saale-vereisung.jpg)
 
-![Maximaler Vorstoß der Gletscher in der Weichsel-Kaltzeit](images/Christian vorsortiert/Estliches Hegelland/Weichselvereisung.png){width=100%}
+![Maximaler Vorstoß der Gletscher in der Weichsel-Kaltzeit (Quelle: Ehlers 2020: 50)](images/Christian vorsortiert/Estliches Hegelland/Weichselvereisung.png){width=100%}
 
 Wie man sieht liegt der maximale Vorstoß der Gletscher der Weichselkaltzeit ziemlich mittig durch schleswig-Holstein von Nord nach Süd.
 Bei ihrem Zurückschmelzen am Ende der Weichselkaltzeit vor etwa 12.000 Jahren hinterließen sie daher die aufgeschütteten Endmoränen und die Spuren ihrer Schmelzwasserflüsse an eben dieser "Grenze", wodurch sich das östliche Hügelland in Schleswig Holstein gebildet hat.
 Dadurch sind die Landschaftsformen in SH zweigeteilt, mit dem Weichselzeitlich geprägtem Östlichen Hügelland als Jungmoränengebiet im Osten, und den Saalezeitlichen Sanderflächen der Geest und der Altmoränen im Westen.
 
-![Landschaftsformen in Schleswig Holstein](images/Christian vorsortiert/Estliches Hegelland/Ebersichtkart.jpg)
+![Landschaftsformen in Schleswig Holstein (Quelle: Landesamt für Landwirtschaft, Umwelt und Ländliche Räume 2012](images/Christian vorsortiert/Estliches Hegelland/Ebersichtkart.jpg)
 
 </div>
 ## Der Bungsberg
@@ -55,11 +55,27 @@ Die letzte Station im östlichem Hügelland war ein kleiner See umgeben vom dich
 
 Auch hierbei handelt es sich um eine glaziale Form der späten Weichselzeit, ein Toteisloch. Ein solches entsteht wenn beim Rückzug der Gletscher einzelne Eisflächen, vom Hauptgletscher abgeschnitten werden. Eine solche Eisfläche kann nicht mehr mit neuem Material versorgt werden, wodurch sie zum bezeichneten "Toteis" wird. Oftmals folgt darauf die Überschüttung einer solchen Eisfläche mit Sedimenten, was ein abschmelzen durch Sonneneinstrahlung verlangsamt. Sobald das Toteis dann abschmilzt entsteht ein Hohlraum im Untergrund welcher früher oder später einstürzt. Die entstandene Toteisloch füllt sich oftmals mit Grundwasser und es eintsteht ein See. 
 
-![Enstehung von Toteislöchern](images/Christian vorsortiert/Estliches Hegelland/Toteisschema.jpg)
+![Enstehung von Toteislöchern (Quelle: Chiemgau-Impakt Museum Grabenstätt 2021)](images/Christian vorsortiert/Estliches Hegelland/Toteisschema.jpg)
 
 Da dieser Prozess im Periglazialem Raum keine Seltenheit ist, sind Toteisseen in Jungmoränengebieten wie der Holsteinischen Schweiz häufig vorzufinden.
 
 Nachdem wir die geologischen Eigenschaften des örtlichen Schotters durch einen Wettbewerb im Steinflitschen erprobt hatten, war es nun Zeit Abschied zu nehmen vom ländlichen Schleswig-Holstein und wir machten uns im Kleinbus auf die Weiterfahrt nach Mecklenburg. 
+
+**Quellen**
+
+Böse, M., Ehlers, J., Lehmkuhl, F. (Eds.), 2018. Deutschlands Norden. Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+Böse, M., Ehlers, J., Lehmkuhl, F., 2018. Die Altmoränenlandschaft. In: Böse, M., Ehlers, J., Lehmkuhl, F. (Eds.) Deutschlands Norden. Springer Berlin Heidelberg, Berlin, Heidelberg, 71–90.
+
+Chiemgau-Impakt Museum Grabenstätt, 2021. Umdenken angesagt - Irrtümer der Eiszeitforschung. https://museum.chiemgau-impakt.de/umdenken-angesagt-irrtuemer-der-eiszeitforschung, zuletzt geprüft am 10.12.2021.
+
+Ehlers, J. (Ed.), 2020. Das Eiszeitalter. Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+Ehlers, J., 2020. Tills und Endmoränen – die Spuren der Gletscher. In: Ehlers, J. (Ed.) Das Eiszeitalter. Springer Berlin Heidelberg, Berlin, Heidelberg, 85–119.
+
+Landesamt für Natur und Umwelt Schleswig-Holstein, 2008. Jahresbericht 2007/2008. https://www.umweltdaten.landsh.de/nuis/upool/gesamt/jahrbe07/Geodiversitaet.pdf. Zuletzt geprüft am 18.09.21.
+
+Stephan, H.-J., 2014. Climato-stratigraphic subdivision of the Pleistocene in Schleswig-Holstein, Germany and adjoining areas: status and problems. E&G Quaternary Sci. J. 63 (1), 3–18.
 
 </div>
 
