@@ -1,17 +1,21 @@
-# Synthese
+# Synthese (Julia, Maren, )
 <div style="text-align: justify">
+
+Für die meisten Geographiestudierenden an der Uni Köln ist die zweiwöchige Große Exkursion eines der Highlights des Studiums. Als eine der letzten Veranstaltungen im Master dient sie der Vertiefung und Reflexion von im Studium erlangten Fachkenntnissen und erlaubt es, diese auf einen konkreten Raum bezogen und unmittelbar vor Ort anzuwenden. Nicht von der Hand zu weisen ist dabei ebenfalls ihr sozialer Aspekt, denn durch die enge Zusammenarbeit vor, während und nach der Exkursion sowie durch das gemeinsame Reisen an sich entsteht ein enges Gruppengefüge (Quelle Modulhandbuch? oder kann man das rauslassen?). 
+Das Kernziel dieser Exkursion war, das glazial geprägte Norddeutschland unter Berücksichtigung der Eis- und Warmzeiten der letzten 2,5 Millionen Jahre kennenzulernen und damit seinen Formenschatz sowie die dazugehörigen Prozesse zu verstehen. Während für die Exkursion damit ein grundsätzlich physischer Schwerpunkt gelegt wurde, der vor allem die Bodenkunde in den Fokus nahm, wurden anthropogeographische Aspekte während der Exkursion jedoch ebenfalls berücksichtigt. Neben der Erarbeitung unserer Kernthemen ...(kurze Zusammenfassung bzw. Aufzählung?) lernten wir viele verschiedene Städte kennen und lernten dabei etwas über ihre Entstehungsgeschichte, Kultur und Stadtstrukturen. Durch die Besuche verschiedener landwirtschaftlicher und industrieller Betriebe thematisierten wir außerdem die Eingriffe des Menschen in natürliche Ökosysteme und verbanden damit die physischen und anthropogenen Aspekte der Geographie. 
+Mit diesem offenen und flexiblen Ansatz wurde hervorragend auf die Heterogenität der Exkursionsgruppe reagiert, die sich aus Studierenden sehr unterschiedlicher Fachrichtungen der Geographie zusammensetzte. 
+
+- einzelne Studierende haben die Exkursion mit geprägt und eigene Themen mit hinein gebracht 
+-> Bereicherung 
+- unser gemeinsamer Schwerpunkt Geographie
+
 
 Abschließend lässt sich mit mit guter Laune sagen, dass wir tolle und lehrreiche 2 Wochen hinter uns haben. Die Exkursion hat viel frischen norddeutschen Wind in unser aller Studierendenleben gebracht. Nach 3 Semestern Online-Lehre bedingt durch die gegebene Situation der Corona-Pandemie, war es ein besonderes Highlight diese Exkursion mitnehmen zu dürfen. Vor allem die doch eher ungewöhnlich keine Gruppengröße hat eine ganz besondere und familiäre Dynamik hervorgebracht. Die Reiseatmosphäre war sehr persönlich und wurde vor allem von einer guten Portion Humor begleitet.
 
-
-- inhaltlich, was wir mitgenommen haben
-- unser gemeinsamer Schwerpunkt Geographie
-- gute allgemeingeographische Exkursion mit physischem Schwerpunkt (Städte, Kultur, etc.)
-- einzelne Studierende haben die Exkursion mit geprägt und eigene Themen mit hinein gebracht 
--> Bereicherung 
-- ungewöhnlich wenige Gruppenmitglieder, tolle Gruppendynamik & Reiseatmosphäre 
+ 
 - neben ... haben wir sogar ein neues Zeitsystem entwickelt: before Matjes
-- Ziele der Großen Exkursion, das Modul & warum man das macht, ob wir was gelernt haben
+- es muss nicht immer weit weg gehen um eine interessante Exkursion zu haben
+
 
 ```{r, echo=FALSE, fig.cap="Am Strand in Laboe bei Sonnenuntergang"}
 knitr::include_graphics("images/Jana/20210920_182809.jpg")
