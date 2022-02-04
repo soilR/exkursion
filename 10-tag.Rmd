@@ -1,4 +1,14 @@
-# Mittwoch, 22.09.2021 - Die Glaziale Serie, der Bungsberg, Toteisloch, Lübeck, Biohof & Aussichtspunkt hoher Schönberg
+# Mittwoch, 22.09.2021 
+
+<div style="text-align: justify">
+
+Abfahrt: Truppenübungsplatz Todendorf
+
+Standorte: Holsteinische Schweitz, Bungsberg, Lübeck, Biohof & Aussichtspunkt Hoher Schönberg 
+
+Ankunft: Jugendherberge Warnemünde (hat jemand die genaue Bezeichnung?)
+
+</div>
 
 ## Aufbruch
 
@@ -114,7 +124,7 @@ Stephan, H.-J., 2014. Climato-stratigraphic subdivision of the Pleistocene in Sc
 ## Lübeck (Julia)
 <div style="text-align: justify">
 
-Vor dem endültigen Verlassen Schleswig-Holsteins machten wir aber noch einen Zwischenstopp in der Hansestadt Lübeck. Die Landeshauptstadt von Kiel ist neben ihrer Bekanntheit für das Lübecker Marzipan vor allem für ihr historisches Erbe bekannt. Dies erkannten auch wir bereits direkt bei unserer Ankunft, wo wir in der Nähe des Holstentors parkten, das als Wahrzeichen von Lübeck ihre Geschichte als reichsfreie Stadt und Handelsstadt widerspiegelt und heute ein Museum über die Stadtgeschichte beherbergt (Hansestadt Lübeck 2022a). 
+Vor dem endültigen Verlassen Schleswig-Holsteins machten wir aber noch einen Zwischenstopp in der Hansestadt Lübeck, die als Landeshauptstadt von Kiel neben ihrer Berümtheit für das Lübecker Marzipan vor allem für ihr historisches Erbe bekannt ist. Dies erkannten wir bereits direkt bei unserer Ankunft, als wir in der Nähe des Holstentors parkten. Als Wahrzeichen von Lübeck spiegelt es ihre Geschichte als reichsfreie Stadt und Handelsstadt wider und beherbergt heute ein Museum über die Stadtgeschichte (Hansestadt Lübeck 2022a). 
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="Blick auf das Holstentor in Lübeck."}
 knitr::include_graphics("images/Julia/IMG_20210922_121215.jpg")
@@ -173,7 +183,7 @@ knitr::include_graphics("images/Jana/20210922_142552.jpg")
 ```
 
 
-Nachdem die Gruppe die verschiedenen Ecken des Hofs erkundet hatte, besuchten alle gemeinsam den dort zugänglichen Aussichtspunkt Hoher Schönberg. Auf der mit 89 m ü. NN höchsten Erhebung der Moränenlandschaft des Klützer Winkels wurde hier eine Aussichts-Plattform gebaut. Man hat darauf einen Rundumblick auf die Ostseeküste, in den Klützer Winkel und die Boltenhagener Bucht und kann gut erkennen, wie sich die Reliefenergie des Gebiets in Richtung Endmoräne erstreckt. Auch lassen sich einige verschiedene Landmarken und Orte erkennen, z.B. die Stadt Lübeck, in der wir zuvor einen kurzen Zwischenstopp gemacht hatten oder der von uns besuchte Bungsberg. Laut Beschilderung galt der Hohe Schönberg während der deutschen Teilung als Geheimtipp, um „in den Westen“ zu sehen und um Schiffe in der Lübecker Bucht zu beobachten, weshalb er von Einheimischen auch *Sehnsuchtsberg* genannt wurde (Hof Hoher Schönberg 2021, Beschilderung der Aussichtsplattform Hoher Schönberg 2021).
+Nachdem die Gruppe die verschiedenen Ecken des Hofs erkundet hatte, besuchten alle gemeinsam den dort zugänglichen Aussichtspunkt Hoher Schönberg. Auf der mit 89 m ü. NN höchsten Erhebung der Moränenlandschaft des Klützer Winkels wurde hier eine Aussichts-Plattform gebaut. Man hat darauf einen Rundumblick auf die Ostseeküste, in den Klützer Winkel und die Boltenhagener Bucht und kann gut erkennen, wie sich die Reliefenergie des Gebiets in Richtung Endmoräne erstreckt. Auch lassen sich einige verschiedene Landmarken und Orte erkennen, z.B. die Stadt Lübeck, in der wir zuvor einen kurzen Zwischenstopp gemacht hatten oder der von uns besuchte Bungsberg. Laut Beschilderung galt der Hohe Schönberg während der deutschen Teilung als Geheimtipp, um „in den Westen“ zu sehen und um Schiffe in der Lübecker Bucht zu beobachten, weshalb er von Einheimischen auch *Sehnsuchtsberg* genannt wurde (Beschilderung der Aussichtsplattform Hoher Schönberg 2021, Hof Hoher Schönberg 2021).
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="Ausblick vom Aussichtspunkt Hoher Schönberg."}
 knitr::include_graphics("images/Jana/20210922_145000.jpg")
