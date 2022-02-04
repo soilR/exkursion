@@ -38,7 +38,7 @@ NABU, 2022b. Altlasten und Schmuckstücke. https://www.nabu.de/natur-und-landsch
 Willinger, G., 2019. Arche Truppenübungsplatz. https://www.spektrum.de/news/truppenuebungsplaetze-sind-eine-oase-fuer-die-natur/1638618, 2021-12-21.
 
 
-## Laboe
+## Laboe (Florian)
 
 <div style="text-align: justify">
 Nach der Todendorf Führung ging es für uns abends nach Laboe, wo wir ein Picknick im Sand veranstalteten. Mit fabelhaftem Blick auf das Meer. Trotz des kühlen Windes wagte sich Christian ins Wasser, wenn auch nicht für lange. 
@@ -47,7 +47,7 @@ Nach der Todendorf Führung ging es für uns abends nach Laboe, wo wir ein Pickn
 knitr::include_graphics("images/Flow/IMG_6996.jpg")
 ```
 
-Wir haben Brot, allerlei Snacks und natürlich ein kühles Blondes. Anschließend machten wir einen Strandspaziergang, bei dem wir auch kurz am Marine-Ehrenmal vorbeikamen.  
+Wir hatten Brot, allerlei Snacks und natürlich ein kühles Blondes. Anschließend machten wir einen Strandspaziergang, bei dem wir auch kurz am Marine-Ehrenmal vorbeikamen.  
 
 Das 1936 fertig gestellte 85 Meter hohe [Marine-Ehrenmal]( https://deutscher-marinebund.de/marine-ehrenmal-u-995/marine-ehrenmal/) ist eine internationale Gedenkstätte für die auf See Gebliebenen aller Nationen und ein Mahnmal für eine friedliche Schifffahrt auf freien Meeren. Heute stellt das Ehrenmal eine internationale Mahn- und Gedenkstätte dar, die jedes Jahr während der Kieler Woche mit einer internationalen Kranzniederlegung gewürdigt wird.
 
