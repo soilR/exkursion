@@ -16,16 +16,17 @@ Dieser Sonntagvormittag stand den ExkursionsteilnehmerInnen zur freien Verfügun
 </div>
 
 
-## Besuch von Kleve und dem Eidersperrwerk
+## Besuch von Kleve und dem Eidersperrwerk (Florian)
 
 <div style="text-align: justify">
-Am siebten Tag unserer Exkursion ging es zuerst nach Kleve wo wir an einem Reiterhof haltmachten. Der Ort hat seinen Namen vom Wort „Kliff“ und ist eine ehemalige Steilküste, die aus der Endmoräne der Saale-Eiszeit hervorgeht. Sie setzt sich aus Warthestadiummaterial zusammen. Der Meeresspiegel war deutlich niedriger, es gab mehrere Transgressionen, Niederungen erstrecken sich entlang der Flüsse der Eider. Die Nährungen werden auch als „Donn“ bezeichnet. Donn liegen an einem Näherungsharken.
+Am siebten Tag unserer Exkursion ging es zuerst nach Kleve wo wir an einem Reiterhof haltmachten. Hier nannte uns Herr Mansfeldt ein paar Informationen. 
+Der Ort hat seinen Namen vom Wort „Kliff“ und ist eine ehemalige Steilküste, die aus der Endmoräne der Saale-Eiszeit hervorgeht. Sie setzt sich aus Warthestadiummaterial zusammen. Der Meeresspiegel war deutlich niedriger, es gab mehrere Transgressionen, Niederungen erstrecken sich entlang der Flüsse der Eider. Die Nährungen werden auch als „Donn“ bezeichnet. Donn liegen an einem Näherungsharken.
 Von Kleve geht es weiter zum [Eidersperrwerk](https://www.spo-eiderstedt.de/poi/eidersperrwerk). Dort machten wir eine kleine Pause um die schöne Aussicht zu genießen. Auch für ein Fischbrötchen ist Zeit genug. Das Sperrwerk verbindet den Kreis Dithmarschen mit Eiderstedt in Nordfriesland und wurde aufgrund der großen Sturmflut 1962 errichtet. Der Bau dauerte sechs Jahre und wurde 1973 fertiggestellt. Danach ging es weiter nach Friedrichstadt. 
 
 </div>
 
 
-## Friedrichstadt
+## Friedrichstadt (Florian)
 
 <div style="text-align: justify">
 
@@ -46,7 +47,7 @@ knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 
 
 
-## Wattwanderung
+## Wattwanderung (Florian)
 
 <div style="text-align: justify">
 Der Sonntag wurde am späten Nachmittag durch eine Wattwanderung abgerundet. Die Fahrt dorthin dauerte knapp zwei Stunden. Nach einer kurzen Stärkung durch Fischbrötchen trafen wir uns mit einer alten Bekannten von Herrn Mansfeldt, die uns durch das Wattenmeer begleitete. Das Wattenmeer setzt sich aus dem südlichen, mittleren und nördlichen Meer zusammen und erstreckt sich von den Niederlanden, über Deutschland bis nach Dänemark. 
@@ -66,7 +67,10 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
-![J-Röhre des Wattwurm](images/Flow/Bildschirmfoto 2021-07-02 um 14.22.46.png)
+```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms"}
+knitr::include_graphics("images/Flow/J-Roehre.jpg")
+```
+
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land. Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese"}
@@ -79,9 +83,9 @@ Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto, wo wir geme
 
 **Quellen**
 
-CWSS. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe
+Common Wadden Sea Secreteriat. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
 
-Lebensraum Wattenmeer. Abrufbar unter: https://www.lebensraum-wattenmeer.de
+Lebensraum Wattenmeer. Abrufbar unter: https://www.lebensraum-wattenmeer.de. Letzter Zugriff am 30.11.2021.
 
 </div>
 
