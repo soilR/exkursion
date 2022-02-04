@@ -1,4 +1,15 @@
-# Montag, 14.09.2021 - Bastauwiesenmoor - Trinkwassergewinnung
+# Montag, 14.09.2021 
+
+<div style="text-align: justify">
+
+Abfahrt: [Wiehen-Therme](https://www.wiehen-therme.com/)
+
+Standorte: Bastauwiesenmoor, WAZ Wasser- und Abwasser-Zweckverband-Niedergrafschaft: Wasserwerk Getelo
+
+Ankunft: [Jugendhof Vechta](https://www.bdkj-jugendhof.de/)
+
+</div>
+
 <div style="text-align: justify">
 
 Nach einem entspannten Abend in der [Wiehnen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht. Manche durften leider nur die gegenüberliegende Hauswand bewundern. Das nächste Ziel des  ersten Tages war das Große Torfmoor in den Bastauwiesen. Die Bastauwiesen durften wir am vorherigen Tag bereits kennenlernen und bei einem Bier die Aussicht auf diese genießen. Im Anschluss an das Moor ging es dann weiter in Richtung des Wasserwerks Geleto.  
@@ -114,5 +125,12 @@ WAZ Niedergrafschaft, 2021. Wasseranalysen. https://www.waz-sw-neuenhaus.de/waz-
 
 Wisotzky, F., 2011. Angewandte Grundwasserchemie, Hydrogeologie und hydrochemische Modellierung. Springer, Berlin Heidelberg. 
 
+</div>
+
+## Tagesabschluss (Julia)
+
+<div style="text-align: justify">
+Nach dem Besuch des Wasserwerks fuhren wir mit dem Bus weiter zu unserer nächsten Unterkunft, dem Jugendhof Vechta. Hier wurden wir in einem Gruppenhaus abseits der restlichen Jugendherbergs-Gäste untergebracht und bekamen aus Pandemie-Vorkehrungsgründen jeweils ein eigenes Zimmer zugeteilt. Nach mehreren vergeblichen Versuchen, uns ins Wlan einzuloggen, um gemeinsam an der Aneignung des Programms R-Studio zu arbeiten, ließen wir den Tag gemeinsam bei mildem Wetter und Kaltgetränk im Freien  ausklingen. Dabei setzten wir das Knack-Kartenspiel des vergangenen Abends fort und starteten mit der Punkte-Dokumentation aller Mitglieder ein Kartenspiel-Tournier, das sich über die nächsten zwei Wochen erstrecken würde. 
 
 
+</div>
