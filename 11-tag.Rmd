@@ -14,7 +14,7 @@ Für diesen Tag war eine Wanderung über die küstenmorphologisch bedeutsame Hal
 
 Die geomorphologische Küstenform der Ausgleichs- bzw. Boddenküsten entsteht durch Meeresströmungen, die an der Ostseeküste von Westen nach Osten fließen. Dabei werden Sediment von den sich westlich befindenden (Steil-)küsten des Fischlandes sowie der Westküste des Darßes abgetragen. Bei nachlassender Strömungsgeschwindigkeit – häufig im „Schatten“ – von Inseln, wird das Sediment in Form von Sandbänken, Strandwällen und Sandhaken wieder abgelagert. Es kommt zu einer ständigen küstenparallelen Umverteilung der Sedimentmassen. Die entstandene Küstenform wird auch als Nehrung bzw. Nehrungsküste bezeichnet (Böse et al. 2018). Die Nehrungen zwischen den Inselkernen Fischland, Darß und Zingst trennen den Saaler Bodden und den Barther Bodden von der Ostsee. 
 
-Da recht stürmisches Wetter angesagt war, packten wir unsere Regenkleidung ein und machten uns darauf gefasst, unsere geplante Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fuhren wir in Richtung Nordosten und starteten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwanderten Teile des Darßer Waldes, durch seine Naturbelassenheit auch häufig als „Darßer Urwald“ bezeichnet. An einigen der Kiefern sind auffällige Muster in der Rinde zu erkennen. Dabei handelt es sich um sogenannte Harzlachten, aus denen bis in die späten 1980er Jahre Harz gewonnen wurde. Abbildung 12.1 zeigt eine dieser Harzlachten. Im Hintergrund ist sehr eindrücklich der „Darßer Urwald“ zu sehen. Harz wurde unter anderem für die Terpentinherstellung verwendet (Anders 2015, mündl. Kommunikation Exkursionsleitung, 2021).
+Da recht stürmisches Wetter angesagt war, packten wir unsere Regenkleidung ein und machten uns darauf gefasst, unsere geplante Wanderung frühzeitig abbrechen zu müssen. Von unserer Unterkunft aus fuhren wir in Richtung Nordosten und starteten unseren Fußweg zum Leuchtturm Darßer Ort von Prerow aus. Wir durchwanderten Teile des Darßer Waldes, durch seine Naturbelassenheit auch häufig als „Darßer Urwald“ bezeichnet. An einigen der Kiefern sind auffällige Muster in der Rinde zu erkennen. Dabei handelt es sich um sogenannte Harzlachten, aus denen bis in die späten 1980er Jahre Harz gewonnen wurde. Abbildung 12.1 zeigt eine dieser Harzlachten. Im Hintergrund ist sehr eindrücklich der „Darßer Urwald“ zu sehen. Harz wurde unter anderem für die Terpentinherstellung verwendet (Anders 2015, mündl. Kommunikation Exkursionsleitung 2021).
 
 ```{r, echo=FALSE, fig.cap="Herzlachte in einer Kiefer"}
 knitr::include_graphics("images/kristof/IMG_9587.jpg")
@@ -32,7 +32,7 @@ Das Gebiet Darß-Zingst steht unter besonderem Schutz und gehört, wie bereits e
 
 Auf dem Rückweg nach Prerow erfuhren wir von der Exkursionsleitung, dass die Halbinsel Fischland-Darß-Zingst seit jeher eine Besonderheit für unterschiedliche KünstlerInnen war. So entstanden bereit Anfang des 20. Jahrhunderts Künstkolonien. Spuren davon sind noch heute in der hohen Dichte an Galerien und den reich verzierten Gebäuden zu erkennen (mündl. Kommunikation Exkursionsleitung 2021). 
 
-```{r, echo=FALSE, fig.cap="Die Exkursionsleitung auf stürmischer Erkundung."}
+```{r, echo=FALSE, out.width="50%", fig.cap="Die Exkursionsleitung auf stürmischer Erkundung."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9601.jpg")
 ```
 
@@ -52,7 +52,8 @@ Informationstafel Darßer Ort, 2021. Die Tage des Leuchtturms sind gezählt. Öf
 
 Janke, W., Lampe, R., 2011. Fischland - Darß - Zingst. In: Die deutsche Ostseeküste (2. Aufl.). Gebr. Borntraeger, Stuttgart, S. 219-231.
 
-Nationalpark Vorpommersche-Boddenlandschaft, 2020. Steckbrief des Nationalparks Vorpommersche Boddenlandschaft. https://www.nationalpark-vorpommersche-boddenlandschaft.de/wissen-verstehen/steckbrief, 2022-02-02.
+Nationalpark Vorpommersche-Boddenlandschaft, 2020. Steckbrief des Nationalparks Vorpommersche Boddenlandschaft. https://www.nationalpark-vorpommersche-boddenlandschaft.de/wissen-verstehen/steckbrief. Zugriff: 01.02.22/10:02h.
+
 
 
 ## Stralsund (Julia)
