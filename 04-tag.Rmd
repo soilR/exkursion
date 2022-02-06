@@ -1,10 +1,17 @@
-# Tag 4 - Bremen und Bremerhaven
+# Donnerstag, 16.09.2021
+
+Abfahrt: Hostel in Bremen
+
+Standorte: Bremerhaven und Bremer Innenstadt
+
+Ankunft: Hostel in Bremen
+
 
 <div style="text-align: justify">
 
-Nachdem die erste Nacht in der Unterkunft in Bremen trotz diverser Widrigkeiten von allen Teilnehmern überstanden wurde, kamen wir das erste mal in den Genuss der Vorzüge einer Norddeutschen Großstadt. 
+Nachdem die erste Nacht in der Unterkunft in Bremen trotz diverser Widrigkeiten von allen TeilnehmerInnen überstanden wurde, kamen wir das erste mal in den Genuss der Vorzüge einer Norddeutschen Großstadt. 
 </div>
-## Das Klimahaus
+## Das Klimahaus (Christian)
 <div style="text-align: justify">
 Versuche einen die Exkursion begleitenden Computerkurs zu starten scheiterten, da die ewige Suche nach einer Wlanverbindung welche sich wie ein roter Faden durch die gesamte Reise zog, auch an diesem Morgen in Bremen keine Früchte trug.
 Deshalb brachen wir kurz nach einem herzhaften Tankstellenfrühstück umgehend nach Bremerhaven auf.
@@ -33,7 +40,7 @@ knitr::include_graphics("images/kristof/IMG_9207.jpg")
 
 </div>
 
-## Das Deutsche Auswandererhaus Bremerhaven
+## Das Deutsche Auswandererhaus Bremerhaven (Christian)
 
 <div style="text-align: justify">
 
@@ -64,8 +71,7 @@ knitr::include_graphics("images/Christian vorsortiert/Bremerhaven/external-conte
 Nach dem erfolgreichen Landgang in Ellis Island befindet sich am Schluss des Rundgangs zusätzlich auch ein Austellungs- und Diskussionsforum in welchem ethische Fragen rund um Staatsbürgerschaft und Migration in der heutigen Zeit diskutiert werden.
 Auch eine Datenbank in der jeder Besucher Verwandte oder Vorfahren recherchieren kann welche in Bremerhaven ausschifften ist ganz am Ende der Ausstellung zu finden.
 
-</div>
-## Bremer Altstadt
+## Bremer Altstadt (Christian)
 <div style="text-align: justify">
 
 Nach dem Mittagessen an der Fischrestaurantmeile des alten Hafens ging es dann zurück in die Landeshauptstadt, wo wir eine ausführliche Stadtführung der ortsansässigen Anja bekamen.

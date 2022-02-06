@@ -1,9 +1,12 @@
 # Freitag, 17.09.2021
 
+Abfahrt: Hostel in Bremen
+
 Standorte: Aluminiumoxid-werke Stade, Herzapfelhof im Alten Land
 
+Ankunft: Jugendherberge Stade
 
-## Besuch der Aluminiumoxid-werke Stade
+## Besuch der Aluminiumoxid-werke Stade (Christian)
 
 <div style="text-align: justify">
 Nachdem wir uns schweren Herzens von unserem Hotel in Bremen verabschiedet hatten, ging es nun wieder hinaus aufs Land, richtung Nordosten an die Niedersächsiche Elbküste.
@@ -27,7 +30,7 @@ Die Lage an der Elbe ist dabei von zentraler Bedeutung für den Erfolg des Werke
 
 Das Bauxit wird nach dem Transport über Förderbänder dann  gemahlen und mit Natronlaufe versetzt. Mit diesem Schritt beginnt das Bayerverfahren, mit welchem seit seiner Entwicklung im Jahr 1888 Aluminium aus Bauxit gewonnen werden kann. In der Rohraufschlussanlage wird diese Suspension stufenweise auf 270°C erhitzt. Dadurch löst sich das Aluminium im Erz und bindet sich an das Natrium wodurch sich NA[Al(OH)~4~] Verbindungen bilden.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Rohraufschlussanlage in welcher Bauxit und Natronlauge vermengt und erhitzt werden (Quelle: Aluminium Oxid Stade GmbH 2021)"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Rohraufschlussanlage in welcher Bauxit und Natronlauge vermengt und erhitzt werden (Quelle: Aluminium Oxid Stade GmbH 2021)"}
 knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/rohraufschluss.jpg")
 ```
 
@@ -37,33 +40,35 @@ Nach einer mehrstufigen Reinigung der Lösung in der mineralische Rückstände e
 
 Dies gelingt wird die Lösung mit bereits fertigem Aluminiumhydroxid "geimpft" wird, wodurch Kristallisationkeime enstehen an den sich das Aluminiumhydroxid bei Abkühlung und intensivem Rühren nach und nach ausfällen kann.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Anlage in der das Aluminiumhydroxid in Kristallform ausfällt (Quelle: Aluminium Oxid Stade GmbH 2021)"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Anlage in der das Aluminiumhydroxid in Kristallform ausfällt (Quelle: Aluminium Oxid Stade GmbH 2021)"}
 knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/ausruehrer_bei_nacht.jpg")
 ```
 
 Am Ende dieses Prozesses werden die Aluminiumhydroxidkristalle mithilfe von Vakuumfiltern aus der Lösung herausfiltriert. Hier konnte die Gruppe das fertige Produkt bereits bestaunen und anfassen.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Filtration der Aluminiumhydroxidkristalle (Quelle: Aluminium Oxid Stade GmbH 2021)"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Filtration der Aluminiumhydroxidkristalle (Quelle: Aluminium Oxid Stade GmbH 2021)"}
 knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/scheibenfilter-ef1.jpg")
 ```
 
 Im Anschluss kann das Aluminiumhydroxid in Hochöfen gebrannt bzw. calciniert werden um den Wasserstoff loszuwerden und Aluminiumoxid zu erzeugen. Da es jedoch in der Industrie auch vielseitige Anwendungen für die Hydroxidverbindung gibt, ist dies nicht bei der gesamten Produktionsmenge nötig.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Das fertige Aluminiumhydroxid im Lager (Quelle: Aluminium Oxid Stade GmbH 2021)"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Das fertige Aluminiumhydroxid im Lager (Quelle: Aluminium Oxid Stade GmbH 2021)"}
 knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/versand_hydroxidlagerhalle.jpg")
 ```
 
 
 Ursprünglich verfügte das Werk auch über Produktionshallen in denen durch Elektrolyse das Aluminiumoxid zu reinem Aluminium verarbeitet wurde. Dabei wird das Aluminium durch die Schmelzflusselektrolyse vom Sauerstoff getrennt und an Elektroden gebunden. Dieser Prozess ist jedoch extrem Energieaufwendig und kann sich nur an Standorten an denen der Strom extrem billig ist rentieren, weshalb dieser produktionschritt in Stade schon vor längerem aufgegeben wurde.
-Eine Orientierung zum immensen Energieaufwand bietet ein Blick auf die Weltmarktpreise: Der Preis für Aluminiumoxid beträgt meist nur 12 bis 14 prozent des Aluminiumpreises was bedeutet, dass Energie im 7-fachen Wert des Ausgangsproduktes verwendet werden muss um Aluminiumoxid zu Aluminium zu verarbeiten. Entsprechend findet die Produktion mittlerweile auf Island oder in Ölförderstaaten statt.
+Eine Orientierung zum immensen Energieaufwand bietet ein Blick auf die Weltmarktpreise: Der Preis für Aluminiumoxid beträgt meist nur 12 bis 14 prozent des Aluminiumpreises was bedeutet, dass Energie im 7-fachen Wert des Ausgangsproduktes verwendet werden muss um Aluminiumoxid zu Aluminium zu verarbeiten. Entsprechend findet die Produktion mittlerweile auf Island oder in Ölförderstaaten statt (mündl. Kommunikation Exkursionsleitung 2021).
 
-Von Anfange bis Ende kann man aus 4 Tonnen Bauxit etwa 2 Tonnen Aluminiumoxid gewinnen, sowie eine Tonne reines Aluminium. Dementsprechend fällt eine Menge Abfallprodukte bei der Produktion an. Dieser Rest wird gemeinhin als "Rotschlamm" bezeichnet und wird oft als Umweltrisiko gesehen, besonders in Ländern des globalen Südens in denen die umweltgerechte Entsorgung problematisch ist. Diese Gefahr geht jedoch hauptsächlich von der Natronlauge aus, nicht von den übrigen Mineralien. In den Werken in Stade wird die Natronlauge vor der Deponierung herausgefiltert, übrig bleibt ein roter Staub der hauptsächlich aus Metallverbindungen besteht. Diese lagern auf der nahegelegenen Deponie und sind komplett Wasserunlöslich und stellen so kein Umweltrisiko dar, müssen jedoch vor Verwehung geschützt werden.
+Von Anfange bis Ende kann man aus 4 Tonnen Bauxit etwa 2 Tonnen Aluminiumoxid gewinnen, sowie eine Tonne reines Aluminium (mündl. Kommunikation Exkursionsleitung 2021). Dementsprechend fällt eine Menge Abfallprodukte bei der Produktion an. Dieser Rest wird gemeinhin als "Rotschlamm" bezeichnet und wird oft als Umweltrisiko gesehen, besonders in Ländern des globalen Südens in denen die umweltgerechte Entsorgung problematisch ist. Diese Gefahr geht jedoch hauptsächlich von der Natronlauge aus, nicht von den übrigen Mineralien. In den Werken in Stade wird die Natronlauge vor der Deponierung herausgefiltert, übrig bleibt ein roter Staub der hauptsächlich aus Metallverbindungen besteht. Diese lagern auf der nahegelegenen Deponie und sind komplett Wasserunlöslich und stellen so kein Umweltrisiko dar, müssen jedoch vor Verwehung geschützt werden (mündl. Kommunikation Exkursionsleitung 2021).
 
 Nach einer überaus üppigen Mahlzeit in der Firmenkantine bei wir uns mit der Werkseigenen Feuerwehr austauschten, verabschiedeten wir uns und gingen wieder unseren Weges. Die Ohren noch klingend vom Lärm der Maschinen der chemischen Industrie machten wir uns auf dem Weg ins Alte Land um dort einen nicht weniger produktiven Standort des Agrarsektors zu besuchen.
 
 **Quellen**
 
 Aluminium Oxid Stade GmbH, 2021. Anlagenbeschreibung. https://www.aos-stade.de/pages/produktion/main-anlagenbeschreibung.html, zuletzt geprüft am 09.12. 2021.
+
+Exkursionsleitung, 2021. Führung am Standort AOS Stade
 
 
 </div>
