@@ -52,18 +52,18 @@ knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 <div style="text-align: justify">
 Der Sonntag wurde am späten Nachmittag durch eine Wattwanderung abgerundet. Die Fahrt dorthin dauerte knapp zwei Stunden. Nach einer kurzen Stärkung durch Fischbrötchen trafen wir uns mit einer alten Bekannten von Herrn Mansfeldt, die uns durch das Wattenmeer begleitete. Das Wattenmeer setzt sich aus dem südlichen, mittleren und nördlichen Meer zusammen und erstreckt sich von den Niederlanden, über Deutschland bis nach Dänemark. 
 
-Die Lebensräume des Wattenmeers bilden ein komplexes System, das sich aus verschiedenen Gradienten zusammensetzt, wie Wassertiefe und Salzgehalt, Höhenlage und Trockenheit, Einwirkung durch hydrodynamische Prozesse und Wind sowie durch Organismen veränderte Substrate. Es gibt ein reichhaltiges Nahrungsangebot für Fische, Vögel und Schaltentiere. Die wichtigsten Lebensräume des Wattenmeers sind auf einer Linie ausgehend vom offenen Meer bis hin zur Küste angeordnet. Sie reichen von tiefen tidengeprägten Rinnen und Prielen bis zu den höchsten Dünen.
-Das dem Wattenmeer vorgelagerte Meer ist frei von Wattflächen. Im Gezeitengebiet findet ein ständiger Austausch von Wasser und Sedimenten statt. Häufig kommt es zu massivem Wachstum an Phytoplankton, da die Trübheit gering genug ist, um ausreichend Licht durchzulassen.
+Die Lebensräume des Wattenmeers bilden ein komplexes System, das sich aus verschiedenen Gradienten zusammensetzt, wie Wassertiefe und Salzgehalt, Höhenlage und Trockenheit, Einwirkung durch hydrodynamische Prozesse und Wind sowie durch Organismen veränderte Substrate (Common Wadden Sea Secreteriat, 2021). Es gibt ein reichhaltiges Nahrungsangebot für Fische, Vögel und Schaltentiere. Die wichtigsten Lebensräume des Wattenmeers sind auf einer Linie ausgehend vom offenen Meer bis hin zur Küste angeordnet. Sie reichen von tiefen tidengeprägten Rinnen und Prielen bis zu den höchsten Dünen.
+Das dem Wattenmeer vorgelagerte Meer ist frei von Wattflächen. Im Gezeitengebiet findet ein ständiger Austausch von Wasser und Sedimenten statt. Häufig kommt es zu massivem Wachstum an Phytoplankton, da die Trübheit gering genug ist, um ausreichend Licht durchzulassen (Common Wadden Sea Secreteriat, 2021).
 
 In der Gezeitenzone liegen mit den Wattflächen die markantesten Lebensräume.
 Bei Ebbe trifft das Meer auf den Horizont und lädt den Besucher zu einer Wattwanderung ein, wenn mehr als die Hälfte der Wattflächen frei liegen. Zahlreiche Rinnsale, einige Priele und tiefe Fahrrinnen durchtrennen jedoch das Watt und können einem den Weg abschneiden.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Wattenmeer"}
+```{r, echo=FALSE, out.width="60%", fig.cap="Wattenmeer"}
 knitr::include_graphics("images/Flow/IMG_6983.jpg")
 ```
 
 Die Oberfläche ist fast vollständig von kleinen Algen- und Bakterienkolonien überzogen. In überspülten Seegrasbereichen sammeln sich feine Partikel an. Vor dem Auge verborgen wirken Wattwürmer, die mit über einer Milliarde Individuen die weltweit größte Wurmpopulation stellen. 
-Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, dass das Sandwatt sandig bleibt und nicht zum Schlickwatt wird. Er ist einer von vielen Tierarten, die durch ihr permanentes Filtrieren das Wasser und Sediment von Partikeln befreien.
+Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, dass das Sandwatt sandig bleibt und nicht zum Schlickwatt wird. Er ist einer von vielen Tierarten, die durch ihr permanentes Filtrieren das Wasser und Sediment von Partikeln befreien (Common Wadden Sea Secreteriat, 2021).
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
@@ -71,13 +71,13 @@ Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasser
 knitr::include_graphics("images/Flow/J-Roehre.jpg")
 ```
 
-Die Salzwiesen bilden die Übergangszone zwischen Meer und Land. Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
+Die Salzwiesen bilden die Übergangszone zwischen Meer und Land (lebensraum-wattenmeer, 2021). Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
 ```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese"}
 knitr::include_graphics("images/Flow/Salzwiese.png")
 ```
 
-Die Lebensräume des Wattenmeers bieten eine große Vielfalt an Arten. Von den 10.000 im Wattenmeer vorkommenden Pflanzen- und Tierarten leben etwa 2.700 im Meer und mindestens 5.100 sowohl im Meer als auch an Land oder ausschließlich an Land. Dazu gibt es verschiedene Gruppen an Einzellern und kleinen Metazoen. Phototrophe Pflanzen sind mit etwa 2.300 Arten vertreten, Großpilze mit 1.300 und Tiere mit 4.200 Arten. 
+Die Lebensräume des Wattenmeers bieten eine große Vielfalt an Arten (Common Wadden Sea Secreteriat, 2021). Von den 10.000 im Wattenmeer vorkommenden Pflanzen- und Tierarten leben etwa 2.700 im Meer und mindestens 5.100 sowohl im Meer als auch an Land oder ausschließlich an Land. Dazu gibt es verschiedene Gruppen an Einzellern und kleinen Metazoen. Phototrophe Pflanzen sind mit etwa 2.300 Arten vertreten, Großpilze mit 1.300 und Tiere mit 4.200 Arten. 
 
 Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto, wo wir gemeinsam ein erholsames Bier tranken. Anschließend fuhren wir zurück zu unserer Unterkunft. Dort angekommen, spielten wir zu fünft eine spannende Partie Straßenschach bis in die frühen Morgenstunden. 
 
