@@ -16,19 +16,19 @@ Ankunft: [Jugendhof Vechta](https://www.bdkj-jugendhof.de/)
 
 Nach einem entspannten Abend in der [Wiehnen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht (vgl. Abb. 3.1). Manche durften leider nur die gegenüberliegende Hauswand bewundern. 
 
-```{r, echo=FALSE, fig.cap="Aussicht Wiehnen Therme"}
+```{r, echo=FALSE, fig.cap="Aussicht Wiehnen Therme."}
 knitr::include_graphics("images/kristof/IMG_9142.jpg")
 ```
 
 Die Anfahrt am nächsten Morgen auf der Moorbadstraße entlang des  Mittellandkanals war durch leichte Nebelschleier geprägt und ließ Vorfreude auf die uns bevorstehende Moorwanderung aufkeimen. Wir starteten am Wanderparkplatz "Großes Torfmoor P3" und konnten nach etwa 5 Minuten den ersten Blick auf das im Morgentau und -frost liegenden Hochmoor erlangten. Besonders hervorgestochen sind die vielen Spinnennetze, die von den Spinnentieren flächendeckend verteilt in der Moorvegetation gesponnen wurden. Der morgendliche Tau verfing sich in der Seide der kunstvollen Netze, wodurch eine besonders mystische Atmosphäre geschaffen wurde. 
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor"}
+```{r, echo=FALSE, out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor."}
 knitr::include_graphics("images/Maren/640px-Bastauwiesen1.png")
 ```
 
 Auf einem aus Holz erbauten Aussichtsturm konnten wir einen weiten Blick in das 606 ha große Naturschutzgebiet erhalten. Das Moor gehört zu den Bastauwiesen und bildet zusammen mit zwei weiteren Mooren eine ausgedehnte Moorniederungslandschaft entlang des Mittellandkanals zwischen Minden und Lübbecke. Der hiesige Grundwasserstand liegt bei 40 cm. Betreut wird das Naturschutzgebiet von der [Biologischen Station Minden-Lübbecke e.V.](https://biostation-ml.de). Sie planen und verwirklichen die nötigen Naturschutzmaßnahmen, erfassen die gegebene Flora und Fauna und sorgen somit zu einem langfristigen Erhalt des Moores. Damit die Moorlandschaft nicht durch die dort verbreiteten Erlen und Birken verbuscht, ist es wichtig, dass regelmäßige Rodungsarbeiten durchgeführt werden (mündl. Kommunikation Dorau 2021).
 
-```{r, echo=FALSE, fig.cap="Spaziergang im Moor"}
+```{r, echo=FALSE, fig.cap="Spaziergang im Moor."}
 knitr::include_graphics("images/Jana/20210914_090755.jpg")
 ```
 
