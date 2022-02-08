@@ -4,7 +4,7 @@
 
 Abfahrt: Truppenübungsplatz Todendorf
 
-Standorte: Holsteinische Schweitz, Bungsberg, Lübeck, Biohof & Aussichtspunkt Hoher Schönberg 
+Standorte: Holsteinische Schweiz, Bungsberg, Lübeck, Biohof & Aussichtspunkt Hoher Schönberg 
 
 Ankunft: Jugendherberge Warnemünde (hat jemand die genaue Bezeichnung?)
 
@@ -34,7 +34,7 @@ Das Vorfinden einer solchen Landschaft im eigentlich für seine weiten Horizonte
 ## Die Glaziale Serie in Norddeutschland (Christian)
 <div style="text-align: justify">
 
-Ganz Nordeutschland, beziehungsweise die sehr bezeichnende Norddeutsche Tiefebene, ist durch die Gletscher der letzten großen Kaltzeiten geprägt. Von Skandinavien kommend rollten sich dabei kilometerhohe Gletscher über das Land, welche sämtliche Bodenschichten bis auf das Grundgestein hinwegschleiften. Deshalb kann man in Norddeutschlad Erdgeschichlich auch nur bis in die letzten drei Kaltzeiten blicken, die Weichsel, Saale und Elster- Kaltzeiten (Böse et al. 2018).
+Ganz Nordeutschland, beziehungsweise die sehr bezeichnende Norddeutsche Tiefebene, ist durch die Gletscher der letzten großen Kaltzeiten geprägt. Von Skandinavien kommend rollten sich dabei kilometerhohe Gletscher über das Land, welche sämtliche Bodenschichten bis auf das Grundgestein hinwegschleiften. Deshalb kann man in Norddeutschlad erdgeschichlich auch nur bis in die letzten drei Kaltzeiten blicken, die Weichsel, Saale und Elster- Kaltzeiten (Böse et al. 2018).
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="Die Kaltzeiten und nachweisbare vergletscherungen in Norddeutschland (Quelle: Stephan 2014"}
 knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Kaltzeiten.jpg")
@@ -54,8 +54,8 @@ knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Weichs
 
 
 
-Wie man sieht liegt der maximale Vorstoß der Gletscher der Weichselkaltzeit ziemlich mittig durch schleswig-Holstein von Nord nach Süd.
-Bei ihrem Zurückschmelzen am Ende der Weichselkaltzeit vor etwa 12.000 Jahren hinterließen sie daher die aufgeschütteten Endmoränen und die Spuren ihrer Schmelzwasserflüsse an eben dieser "Grenze", wodurch sich das östliche Hügelland in Schleswig Holstein gebildet hat.
+Wie man sieht liegt der maximale Vorstoß der Gletscher der Weichselkaltzeit ziemlich mittig durch Schleswig-Holstein von Nord nach Süd.
+Bei ihrem Zurückschmelzen am Ende der Weichselkaltzeit vor etwa 12.000 Jahren hinterließen sie daher die aufgeschütteten Endmoränen und die Spuren ihrer Schmelzwasserflüsse an eben dieser "Grenze", wodurch sich das östliche Hügelland in Schleswig-Holstein gebildet hat.
 Dadurch sind die Landschaftsformen in SH zweigeteilt, mit dem Weichselzeitlich geprägtem Östlichen Hügelland als Jungmoränengebiet im Osten, und den Saalezeitlichen Sanderflächen der Geest und der Altmoränen im Westen (Böse et al. 2018).
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="Landschaftsformen in Schleswig Holstein (Quelle: Landesamt für Landwirtschaft, Umwelt und Ländliche Räume 2012"}
@@ -65,7 +65,7 @@ knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Ebersi
 </div>
 ## Der Bungsberg (Christian)
 <div style="text-align: justify">
-Die hinterlassenen Spuren der Gletscher können auf relativ komplexe Landschaftsformen zurücklassen. So auch der Bungsberg, mit 167,4 metern der höchste Hügel schleswig-Holsteins. Obwohl weit im Östlichen Hügelland gelegen, geht dieser vermutlich auf eine Saalezeitliche Endmoräne zurück, da das Material bzw. Sediment aus dem er besteht sich von dem umliegender Hügel unterscheidet. Die späteren weichselzeitlichen Gletscher konnten dann Aufgrund seiner Höhe nur um ihn herumfließen. Der Wissenschaftliche Begriff hierfür ist "Nunatak" was aus dem Grönländischen stammt, wo entsprechende Formationen naturgemäß sehr häufig sind (mündl. Kommunikation Exkursionsleitung, 2021a).
+Die hinterlassenen Spuren der Gletscher können auf relativ komplexe Landschaftsformen zurücklassen. So auch der Bungsberg, mit 167,4 metern der höchste Hügel Schleswig-Holsteins. Obwohl weit im Östlichen Hügelland gelegen, geht dieser vermutlich auf eine Saalezeitliche Endmoräne zurück, da das Material bzw. Sediment aus dem er besteht sich von dem umliegender Hügel unterscheidet. Die späteren weichselzeitlichen Gletscher konnten dann aufgrund seiner Höhe nur um ihn herumfließen. Der Wissenschaftliche Begriff hierfür ist "Nunatak" was aus dem Grönländischen stammt, wo entsprechende Formationen naturgemäß sehr häufig sind (mündl. Kommunikation Exkursionsleitung, 2021a).
 
 Die Gruppe machte hier einen längeren Halt und bestaunte die Aussicht. Dies war auch der Moment an dem uns ein für alle mal bewusst wurde, dass wir das Flachland welches uns die letzten 10 Tage begleitet hatte ab nun hinter uns gelassen hatten.
 
@@ -91,7 +91,7 @@ knitr::include_graphics("images/Jana/20210922_111459.jpg")
 ```
 
 
-Auch hierbei handelt es sich um eine glaziale Form der späten Weichselzeit, ein Toteisloch. Ein solches entsteht wenn beim Rückzug der Gletscher einzelne Eisflächen, vom Hauptgletscher abgeschnitten werden. Eine solche Eisfläche kann nicht mehr mit neuem Material versorgt werden, wodurch sie zum bezeichneten "Toteis" wird. Oftmals folgt darauf die Überschüttung einer solchen Eisfläche mit Sedimenten, was ein abschmelzen durch Sonneneinstrahlung verlangsamt. Sobald das Toteis dann abschmilzt entsteht ein Hohlraum im Untergrund welcher früher oder später einstürzt. Die entstandene Toteisloch füllt sich oftmals mit Grundwasser und es eintsteht ein See (mündl. Kommunikation Exkursionsleitung 2021b). 
+Auch hierbei handelt es sich um eine glaziale Form der späten Weichselzeit, ein Toteisloch. Ein solches entsteht wenn beim Rückzug der Gletscher einzelne Eisflächen, vom Hauptgletscher abgeschnitten werden. Eine solche Eisfläche kann nicht mehr mit neuem Material versorgt werden, wodurch sie zum bezeichneten "Toteis" wird. Oftmals folgt darauf die Überschüttung einer solchen Eisfläche mit Sedimenten, was ein abschmelzen durch Sonneneinstrahlung verlangsamt. Sobald das Toteis dann abschmilzt entsteht ein Hohlraum im Untergrund welcher früher oder später einstürzt. Das entstandene Toteisloch füllt sich oftmals mit Grundwasser und es eintsteht ein See (mündl. Kommunikation Exkursionsleitung 2021b). 
 
 ```{r, echo=FALSE, out.width="100%", fig.cap="Enstehung von Toteislöchern (Quelle: Chiemgau-Impakt Museum Grabenstätt 2021"}
 knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Toteisschema.jpg")

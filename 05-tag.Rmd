@@ -28,7 +28,7 @@ knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/w_phot
 
 Die Lage an der Elbe ist dabei von zentraler Bedeutung für den Erfolg des Werkes, da der Transport von Schwerlasten wie Bauxit auf Hochseeschiffen um ein vielfaches günstiger ist als über Land. Schätzungsweise wäre selbst der Transport des Bauxits von Rotterdam nach Stade per Lastwagen ebenso teuer wie der gesamte vorangegangene Transport per Schiff aus Australien. 
 
-Das Bauxit wird nach dem Transport über Förderbänder dann  gemahlen und mit Natronlaufe versetzt. Mit diesem Schritt beginnt das Bayerverfahren, mit welchem seit seiner Entwicklung im Jahr 1888 Aluminium aus Bauxit gewonnen werden kann. In der Rohraufschlussanlage wird diese Suspension stufenweise auf 270°C erhitzt. Dadurch löst sich das Aluminium im Erz und bindet sich an das Natrium wodurch sich NA[Al(OH)~4~] Verbindungen bilden.
+Das Bauxit wird nach dem Transport über Förderbänder dann  gemahlen und mit Natronlauge versetzt. Mit diesem Schritt beginnt das Bayerverfahren, mit welchem seit seiner Entwicklung im Jahr 1888 Aluminium aus Bauxit gewonnen werden kann. In der Rohraufschlussanlage wird diese Suspension stufenweise auf 270°C erhitzt. Dadurch löst sich das Aluminium im Erz und bindet sich an das Natrium wodurch sich Na(Al(OH)~4~) Verbindungen bilden.
 
 ```{r, echo=FALSE, out.width="50%", fig.cap="Rohraufschlussanlage in welcher Bauxit und Natronlauge vermengt und erhitzt werden (Quelle: Aluminium Oxid Stade GmbH 2021)"}
 knitr::include_graphics("images/Christian vorsortiert/Stade Aluminiumwerk/rohraufschluss.jpg")
