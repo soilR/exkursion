@@ -54,7 +54,7 @@ Landesforst Mecklenburg-Vorpommern, 2021. Nationales Naturmonument Ivenacker Eic
 <div style="text-align: justify">
 Nach dem Besuch der Ivenacker Eichen ging es zum Arendsee in der Region [Altmark](https://www.arv08.de/verein/segelrevier-umgebung/) in Sachsen-Anhalt. Dort machten wir direkt am Ufer halt, mit gutem Blick auf den See. Hier erzählte uns Kristof etwas über die Entstehung des Sees.
 
-```{r, echo=FALSE, out.width="60%", fig.cap="Arendsee"}
+```{r, echo=FALSE, out.width="70%", fig.cap="Arendsee."}
 knitr::include_graphics("images/Flow/IMG_7062.jpg")
 ```
 
