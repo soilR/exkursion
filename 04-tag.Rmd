@@ -25,7 +25,7 @@ Da der stramme Zeitrahmen nur den Besuch einer dieser beiden Institutionen erlau
 
 Beim Klimahaus handelt es sich um eine Art Lehr- und Ausstellungsgebäude, in dem die Vielfalt und die Zusammenhänge der Klimata unseres Planeten auf anschauliche und spielerische Art dem Besucher nahegebracht werden.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Das Klimahaus in Bremerhaven links im Bild (außenansicht)"}
+```{r, echo=FALSE, out.width="100%", fig.cap="Das Klimahaus in Bremerhaven links im Bild (außenansicht)."}
 knitr::include_graphics("images/kristof/IMG_9246.jpg")
 ```
 
