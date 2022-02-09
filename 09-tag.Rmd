@@ -18,7 +18,7 @@ Die Gutsanlage Panker liegt im Kreis Plön bei Lütjenburg in Ostholstein. Sie w
 
 Diese Güter waren sogenannte Gutsbezirke bzw. Verwaltungsbezirke. Es gab keine Gemeinden, sondern der Gutsherr (Baron, von, Graf) stand einem Gutsbezirk vor. Die Gutsbezirke wurden erst 1937 abgeschafft und in Gemeinden überführt, und der Gutsbezirksvorsteher, der Adlige, war mit vielen Rechten ausgestattet. Mit dem Ersten Weltkrieg wurde die Macht der Adeligen jedoch gebrochen.
 
-```{r, echo=FALSE, out.width="60%", fig.cap="Gutsanlage Panker"}
+```{r, echo=FALSE, out.width="60%", fig.cap="Gutsanlage Panker."}
 knitr::include_graphics("images/Flow/IMG_7004.jpg")
 ```
 
