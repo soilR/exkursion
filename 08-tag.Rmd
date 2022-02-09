@@ -56,7 +56,7 @@ Willinger, G., 2019. Arche Truppenübungsplatz. https://www.spektrum.de/news/tru
 <div style="text-align: justify">
 Nach der Todendorf Führung ging es für uns abends nach Laboe, wo wir ein Picknick im Sand veranstalteten. Mit fabelhaftem Blick auf das Meer. Trotz des kühlen Windes wagte sich Christian ins Wasser, wenn auch nicht für lange. 
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Laboe"}
+```{r, echo=FALSE, out.width="70%", fig.cap="Laboe."}
 knitr::include_graphics("images/Flow/IMG_6996.jpg")
 ```
 
@@ -67,7 +67,7 @@ Das 1936 fertig gestellte 85 Meter hohe [Marine-Ehrenmal]( https://deutscher-mar
 Der Rückweg folgte auf der Promenade, begleitet von einem traumhaften Sonnenuntergang.
 
 
-```{r, echo=FALSE, fig.cap="Am Strand in Laboe bei Sonnenuntergang"}
+```{r, echo=FALSE, fig.cap="Am Strand in Laboe bei Sonnenuntergang."}
 knitr::include_graphics("images/Jana/20210920_182809.jpg")
 ```
 
