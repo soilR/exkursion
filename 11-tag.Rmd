@@ -34,7 +34,7 @@ Das Gebiet Darß-Zingst steht unter besonderem Schutz und gehört, wie bereits e
 
 Auf dem Rückweg nach Prerow erfuhren wir von der Exkursionsleitung, dass die Halbinsel Fischland-Darß-Zingst seit jeher eine Besonderheit für unterschiedliche KünstlerInnen war. So entstanden bereit Anfang des 20. Jahrhunderts KünstlerInnenkolonien. Spuren davon sind noch heute an der hohen Dichte an Galerien und den reich verzierten Gebäuden zu erkennen (mündl. Kommunikation Exkursionsleitung 2021). 
 
-```{r, echo=FALSE, fig.align='center', out.width="80%", fig.cap="Die Exkursionsleitung auf stürmischer Erkundung."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Die Exkursionsleitung auf stürmischer Erkundung."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9601.jpg")
 ```
 

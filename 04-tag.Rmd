@@ -27,17 +27,17 @@ Da der stramme Zeitrahmen nur den Besuch einer dieser beiden Institutionen erlau
 
 Beim Klimahaus handelt es sich um eine Art Lehr- und Ausstellungsgebäude, in dem die Vielfalt und die Zusammenhänge der Klimata unseres Planeten auf anschauliche und spielerische Art dem Besucher nahegebracht werden.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Das Klimahaus in Bremerhaven links im Bild (außenansicht)."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Das Klimahaus in Bremerhaven links im Bild (außenansicht)."}
 knitr::include_graphics("images/kristof/IMG_9246.jpg")
 ```
 
 Unglücklicherweise war das Klimahaus nur Besuchern offen welche eine vorherige Reservierung gebucht hatten, weshalb diese Gruppe auf den naheliegenden Zoo ausweichen musste. Da dieser bis auf ein paar niedliche Fischotter relativ unspektakulär war, soll es an dieser Stelle auch mit der Erzählung der Erlebnisse der zweiten Gruppe weitergehen.
 
-```{r, echo=FALSE, fig.align='center',out.width="100%", fig.cap="Fischotter im Zoo von Bremerhaven."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Fischotter im Zoo von Bremerhaven."}
 knitr::include_graphics("images/kristof/IMG_9234.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Eisbär im Zoo von Bremerhaven."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Eisbär im Zoo von Bremerhaven."}
 knitr::include_graphics("images/kristof/IMG_9207.jpg")
 ```
 
@@ -52,7 +52,7 @@ knitr::include_graphics("images/kristof/IMG_9207.jpg")
 Der zweiten Gruppe gelang trotz langer Wartezeit tatsächlich der Eintritt ins Deutsche Auswandererhaus Bremerhaven, ein Museum welches sich als hochinteressant entpuppte.
 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Deutsches Auswandererhause Bremerhaven (Quelle: Bremen.de 2021)."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Deutsches Auswandererhause Bremerhaven (Quelle: Bremen.de 2021)."}
 knitr::include_graphics("images/Christian vorsortiert/Bremerhaven/7616c34034aa318a533840ee8ca2c314.jpg")
 ```
 
@@ -61,13 +61,13 @@ Meist von sozialer Not getrieben, bestiegen hier von 1830 an 7,2 Millionen Mensc
 
 Die Ausstellung ist so aufgebaut, dass sie die Besucher durch Nachbauten der  einzelnen Stadien führt die auch ein Auswanderer der damaligen Zeit durchgehen musste, angefangen in den Massenunterkunftshallen am Kai, über den Hafen, durch die Unterkünfte am Zwischendeck bis nach Ellis Island in New York.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Nachbau des Eingangs eines Passagierschiffes im Bremer Auswandererhaus (Quelle: Bremen.de 2021)."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Nachbau des Eingangs eines Passagierschiffes im Bremer Auswandererhaus (Quelle: Bremen.de 2021)."}
 knitr::include_graphics("images/Christian vorsortiert/Bremerhaven/DAH_Kaje_c_DeutschesAuswandererhaus_lb-1040x688-c-default@3x.jpg")
 ```
 
 Dabei werden den Besuchern auch die persönlichen Schicksäle der Familien oder Einzelpersonen durch Logbucheinträge oder Tagebücher nahegebracht. Insbesondere dadurch, dass jeder Besucher den "Fahrtschein" einer realen Person erhält, dessen jeweiliges Schicksal er in der Ausstellung erfährt, wird die Ausstellung besonders immersiv. Parallel zu den voranschreitenden Stationen der Auswanderung verändert sich auch die Epoche die man durchschreitet, vom Ende des 17. Jhdts bis in die 1950er Jahre. Dadurch tut sich eine Vielfalt interessanter Einzelschicksale auf von politischen Verfolgten der gescheiterten Revolution von 1848, über Armutsflüchtlinge aus dem Russischem Kaiserreich, bis zu den Heimatvertriebenen der Nachkriegszeit.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Archiv von Logbucheinträgen und Tagebuchseiten ehemaliger Passagiere (Quelle: Andreas Heller 2021)."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Archiv von Logbucheinträgen und Tagebuchseiten ehemaliger Passagiere (Quelle: Andreas Heller 2021)."}
 knitr::include_graphics("images/Christian vorsortiert/Bremerhaven/external-content.duckduckgo.com.jpg")
 ```
 
@@ -83,7 +83,7 @@ Nach dem Mittagessen an der Fischrestaurantmeile des alten Hafens ging es dann z
 Dabei ging es zuerst durch die Bremer Altstadt, die ganz klar von einem Grüngürtel begrenzt ist der noch die Form  der alten Stadtmauern erahnen lässt.
 Im Zentrum befinden sich auch die beiden Dome und die Bremer Stadtmusikanten als Attraktionen der Stadt.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Die Gruppe in der Innenstadt."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Die Gruppe in der Innenstadt."}
 knitr::include_graphics("images/Christian vorsortiert/Bremen/signal-2021-12-09-141150.jpeg")
 ```
 
@@ -94,21 +94,21 @@ Durch die gesamte Stadt zieht sich dabei die typische Bremer Bauform der dreiget
 Meist halb erhöht, sind diese oft sehr schmal gebaut, da die Grundsteuer in der Hansestadt früher an der breite der Hausfront berechnet wurde. Auch spiegelt sich hier der historisch gewachsene demokratische und egalitäre Charakter der Stadt wieder. Da es der Bremer Bürgerschaft von jeher wichtig war, dass ein jeder Bürger der Stadt über ein eigenes Haus verfügen solle, sucht man vergebens Mietskasernen und Mehrfamilienhäusern. Stattdessen besteht beinahe die gesamte Stadt aus dreigeteilten, dreistöckigen Häusern die in ihrer Größe erheblich variieren. Immer haben diese auch einen eigenen Garten im Hinterhof, sodass es anders als in Lübeck keine verwinkelten Innenhofgassen gibt.
 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Typische Bremer dreigeteilte Häuser."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Typische Bremer dreigeteilte Häuser."}
 knitr::include_graphics("images/Jana/20210916_175454.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center',out.width="100%", fig.cap="Bremer Häuser in einer wohlhabenderen Straße."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Bremer Häuser in einer wohlhabenderen Straße."}
 knitr::include_graphics("images/Jana/20210915_211820.jpg")
 ```
 
 Von Anja geführt, ging es dann in eines der besten Restaurants der Stadt. Hier kamen wir in den Genuß von Speis und Trank lokaler Couleur, nachhaltig beliefert von lokalen Bauernhöfen. Zu den Spezialitäten gehörten nordische häppchen, Bratkartoffeln mit Knips (eine Grützwurst), sowie Labskaus, welcher insbesondere die süddeutsche Fraktion der Gruppe begeisterte. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Bratkartoffeln mit Knips."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Bratkartoffeln mit Knips."}
 knitr::include_graphics("images/kristof/IMG_20210916_194356.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Bremer Labskaus."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Bremer Labskaus."}
 knitr::include_graphics("images/kristof/IMG_20210916_194402.jpg")
 ```
 

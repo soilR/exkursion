@@ -17,12 +17,12 @@ Ankunft: Jugendherberge Warnemünde (hat jemand die genaue Bezeichnung?)
 Am 10. Tag brachen wir frühmorgens unser Lager in der Bundeswehrkaserne ab und machten uns auf den weiten Weg nach Mecklenburg zum Strandort Warnemünde. Die Landschaft die auf der Fahrt durchquert wurde war dabei die Hauptattraktion des Tages. Auf dem Weg Richtung Osten durchquerte die Gruppe nämlich das östliche Hügelland, auch als Holsteinische Schweiz bekannt.
 Die Straßen die der Kleinbus unserer Gruppe entlang fuhr schlängelten sich durch malerische, hügelige Landschaften mit üppigen Feldern und grünen Weiden, wie man sie sonst vielleicht aus Werbeprospekten des Voralpenlandes kennt.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Landschaft im östlichen Hügleland."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Landschaft im östlichen Hügleland."}
 knitr::include_graphics("images/kristof/IMG_9502.jpg")
 ```
 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="bewaldeter Hügel im östlichen Hügelland."}
+```{r, echo=FALSE, fig.align='center', fig.cap="bewaldeter Hügel im östlichen Hügelland."}
 knitr::include_graphics("images/kristof/IMG_9499.jpg")
 ```
 
@@ -36,24 +36,24 @@ Das Vorfinden einer solchen Landschaft im eigentlich für seine weiten Horizonte
 
 Ganz Nordeutschland, beziehungsweise die sehr bezeichnende Norddeutsche Tiefebene, ist durch die Gletscher der letzten großen Kaltzeiten geprägt. Von Skandinavien kommend rollten sich dabei kilometerhohe Gletscher über das Land, welche sämtliche Bodenschichten bis auf das Grundgestein hinwegschleiften. Deshalb kann man in Norddeutschlad erdgeschichlich auch nur bis in die letzten drei Kaltzeiten blicken, die Weichsel, Saale und Elster- Kaltzeiten (Böse et al. 2018).
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Die Kaltzeiten und nachweisbare vergletscherungen in Norddeutschland (Quelle: Stephan 2014)."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Die Kaltzeiten und nachweisbare vergletscherungen in Norddeutschland (Quelle: Stephan 2014)."}
 knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Kaltzeiten.jpg")
 ```
 
 Die Böden sind  daher auch durch die glazialen und periglazialen Prozesse dieser Zeit geprägt und bestehen aus dem von den Gletschern mitgetragenem Gestein (Geschiebemergel) in verschiedenen Erosionsstadien. Nun stießen die Gletscher der Weichselkaltzeit allerdings lange nicht so weit vor wie die der vorangegangen Saale-Eiszeit wie auf den beiden untenstehenden Karten zu sehen ist. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Maximaler Vorstoß der Gletscher in der Saale-Kaltzeit (Quelle: Böse et al. 2018)."}
-knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Saale-vereisung.jpg")
+```{r, echo=FALSE, fig.align='center', fig.cap="Maximaler Vorstoß der Gletscher in der Saale-Kaltzeit (Quelle: Böse et al. 2018)."}
+knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Saale-vereisung.png")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Maximaler Vorstoß der Gletscher in der Weichsel-Kaltzeit (Quelle: Ehlers 2020)."}
-knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Weichselvereisung.png")
+```{r, echo=FALSE, fig.align='center', fig.cap="Maximaler Vorstoß der Gletscher in der Weichsel-Kaltzeit (Quelle: Ehlers 2020)."}
+knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Weichselvereisung - Kopie.png")
 ```
 
 Wie man sieht liegt der maximale Vorstoß der Gletscher der Weichselkaltzeit ziemlich mittig durch Schleswig-Holstein von Nord nach Süd. Bei ihrem Zurückschmelzen am Ende der Weichselkaltzeit vor etwa 12.000 Jahren hinterließen sie daher die aufgeschütteten Endmoränen und die Spuren ihrer Schmelzwasserflüsse an eben dieser "Grenze", wodurch sich das östliche Hügelland in Schleswig-Holstein gebildet hat. Dadurch sind die Landschaftsformen in SH zweigeteilt, mit dem weichselzeitlich geprägtem Östlichen Hügelland als Jungmoränengebiet im Osten, und den saalezeitlichen Sanderflächen der Geest und der Altmoränen im Westen (Böse et al. 2018).
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Landschaftsformen in Schleswig Holstein (Quelle: Landesamt für Landwirtschaft, Umwelt und Ländliche Räume 2012)."}
-knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Ebersichtkart.jpg")
+```{r, echo=FALSE, fig.align='center', fig.cap="Landschaftsformen in Schleswig Holstein (Quelle: Landesamt für Landwirtschaft, Umwelt und Ländliche Räume 2012)."}
+knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Ebersichtkart.png")
 ```
 
 </div>
@@ -68,11 +68,11 @@ Die Spuren der Gletscher können relativ komplexe Landschaftsformen zurücklasse
 
 Die Gruppe machte hier einen längeren Halt und bestaunte die Aussicht. Dies war auch der Moment an dem uns ein für alle mal bewusst wurde, dass wir das Flachland welches uns die letzten 10 Tage begleitet hatte ab nun hinter uns gelassen hatten.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Der Bungsberg mit Fernsehturm."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Der Bungsberg mit Fernsehturm."}
 knitr::include_graphics("images/kristof/IMG_9509.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Blick vom Bungsberg nach Nordwesten."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Blick vom Bungsberg nach Nordwesten."}
 knitr::include_graphics("images/kristof/IMG_9514.jpg")
 ```
 
@@ -84,14 +84,14 @@ knitr::include_graphics("images/kristof/IMG_9514.jpg")
 
 Die letzte Station im östlichem Hügelland war ein kleiner See umgeben vom dichten Wald der ihn umschließenden Hügel. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Toteisloch im Östlichen Hügelland."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Toteisloch im Östlichen Hügelland."}
 knitr::include_graphics("images/Jana/20210922_111459.jpg")
 ```
 
 Auch hierbei handelt es sich um eine glaziale Form der späten Weichselzeit, ein Toteisloch. Ein solches entsteht wenn beim Rückzug der Gletscher einzelne Eisflächen, vom Hauptgletscher abgeschnitten werden. Eine solche Eisfläche kann nicht mehr mit neuem Material versorgt werden, wodurch sie zum bezeichneten "Toteis" wird. Oftmals folgt darauf die Überschüttung einer solchen Eisfläche mit Sedimenten, was ein Abschmelzen durch Sonneneinstrahlung verlangsamt. Sobald das Toteis dann abschmilzt entsteht ein Hohlraum im Untergrund welcher früher oder später einstürzt. Das entstandene Toteisloch füllt sich oftmals mit Grundwasser und es entsteht ein See (mündl. Kommunikation Exkursionsleitung 2021b). 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Enstehung von Toteislöchern (Quelle: Chiemgau-Impakt Museum Grabenstätt 2021)."}
-knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Toteisschema.jpg")
+```{r, echo=FALSE, fig.align='center', fig.cap="Enstehung von Toteislöchern (Quelle: Chiemgau-Impakt Museum Grabenstätt 2021)."}
+knitr::include_graphics("images/Christian vorsortiert/Estliches Hegelland/Toteisschema.png")
 ```
 
 Da dieser Prozess im periglazialem Raum keine Seltenheit ist, sind Toteisseen in Jungmoränengebieten wie der Holsteinischen Schweiz häufig vorzufinden. Nachdem wir die geologischen Eigenschaften des örtlichen Schotters durch einen Wettbewerb im Steinflitschen erprobt hatten, war es nun Zeit Abschied zu nehmen vom ländlichen Schleswig-Holstein und wir machten uns im Kleinbus auf die Weiterfahrt nach Mecklenburg. 
@@ -125,19 +125,19 @@ Da dieser Prozess im periglazialem Raum keine Seltenheit ist, sind Toteisseen in
 
 Vor dem endültigen Verlassen Schleswig-Holsteins machten wir aber noch einen Zwischenstopp in der Hansestadt Lübeck, die als Landeshauptstadt von Kiel neben ihrer Berümtheit für das Lübecker Marzipan vor allem für ihr historisches Erbe bekannt ist. Dies erkannten wir bereits direkt bei unserer Ankunft, als wir in der Nähe des Holstentors parkten. Als Wahrzeichen von Lübeck spiegelt es ihre Geschichte als reichsfreie Stadt und Handelsstadt wider und beherbergt heute ein Museum über die Stadtgeschichte (Hansestadt Lübeck 2022a). 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Blick auf das Holstentor in Lübeck."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Blick auf das Holstentor in Lübeck."}
 knitr::include_graphics("images/Julia/IMG_20210922_121215.jpg")
 ```
 
 Um einen weiteren Eindruck von der Stadt zu gewinnen und uns für den Mittag zu verpflegen, machten wir uns nach unserer Ankunft in Kleingruppen auf den Weg in die von Wasser umgebene Altstadt. Der Stadtkern Lübecks wurde 1987 durch die UNESCO als Welterbe ernannt. Ausschlaggebend hierfür waren die bis heute unzerstörten Altstadtbereiche, in denen sich die originale historische Bausubstanz wiederfindet, sowie Lübecks markante Stadtsilhouette mit den sieben Türmen der monumentalen Kirchen und ihr planmäßig angelegter Stadtgrundriss mit historischen Raumgefügen der Plätze und Straßen (Hansestadt Lübeck 2022b). Trotz unserer eher kurzen Aufenthaltszeit konnten wir die Stadtarchitektur, die überwiegend durch Bauwerke in mittelalterliche Backsteingotik geprägt ist, ausführlich bewundern und uns nach einer Stärkung mit Marzipan-Crêpes eine Ausstellung im Museum der Katharinenkirche anschauen. In [„Gemeinsam Stadt Bewegen!“]( https://soziale-stadt-moisling.de/termin/wanderausstellung-zu-gast-in-luebeck-gemeinsam-stadt-bewegen-50-jahre-staedtebaufoerderung/) wurden dabei zum 50. Jubiläum der Städtebauförderung 21 Beispiele von Veränderungen und Zusammenarbeit in Städten, Vierteln und Nachbarschaften verschiedener Städte und Gemeinden Norddeutschlands vorgestellt. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Lübecks Mittelalterliche Backsteingotik."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Lübecks Mittelalterliche Backsteingotik."}
 knitr::include_graphics("images/Julia/IMG_20210922_125904.jpg")
 ```
 
 Danach traf sich unsere Gruppe wieder und warf gemeinsam noch einen Blick in die bekannten Gänge und Höfe Lübecks, die entstanden, als die Stadt in ihrer mittelalterlichen Entwicklung zur „Königin der Hanse“ (Hansestadt Lübeck 2022c) sehr schnell anwuchs. Zur Bewältigung des Wachstums wurden damals in die Vorderhäuser der Altstadt Gänge eingebracht, sodass die Hinterhöfe mit sogenannten Buden bebaut werden konnten. Mit dicht stehenden, ein- bis zweistöckigen Bauten versehen, die oft nur aus einem Zimmer bestanden, entstanden dadurch versteckte Gangviertel, die meist von Tagelöhnern oder Beschäftigen des Gewerbes, das in der jeweiligen Straße ausgeführt wurde, bewohnt wurden (Hansestadt Lübeck 2022c). Für die Besichtigung mussten wir uns also selbst durch einen der engen Durchgänge hindurchbücken – für das ein oder andere Mitglied der Gruppe ein schwierigeres Unterfangen – und konnten anschließend begutachten, wie sich diese Gangviertel bis heute entwickelt haben. Als kleine, dicht stehende und bunt bemalte Häuschen stellen sie definitiv eine TouristInnen-Attraktion dar und sind durch teilweise Begrünung und künstlerische Verzierungen zu sehr attraktiven Wohnvierteln geworden, sofern einem viel und großzügiger Wohnraum nicht allzu wichtig ist. 
 
-```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Bunte Häuser in einem Gangviertel."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Bunte Häuser in einem Gangviertel."}
 knitr::include_graphics("images/Julia/IMG_20210922_130409.jpg")
 ```
 
@@ -161,7 +161,7 @@ Nachdem es nun auch schon wieder Zeit war, weiterzuziehen, fanden wir uns wieder
 
 Mit unserem nächsten Ziel verließen wir zwar das Bundesland, nicht aber die eiszeitlich geformte Hügellandschaft. Im Mecklenburgischen Klützer Winkel besuchten wir den [Biohof Hoher Schönberg](https://www.hofhoherschoenberg.de/ueber-uns.html), der mit buntem Schriftzug versehen und umgeben von viel Grün an diesem sonnigen Tag besonders idyllisch und einladend auf uns wirkte. Der Hof Hoher Schönberg ist ein ehemaliger Erbpachthof von 1860. Anders als der zuvor besuchte Biohof Kinkelbur ist er kein Familienunternehmen, sondern wird von einer Kommune aus 15 Erwachsenen im Alter zwischen 35 und 60 Jahren gemeinschaftlich und arbeitsteilig bewirtschaftet und durch zeitweise freiwillige HelferInnen und PraktikantInnen unterstützt. Als Gemeinschaftsprojekt sollen hier Alternativen zur konventionellen Landwirtschaft aufgezeigt und angewendet werden (Hof Hoher Schönberg 2021).
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Der Biohof Hoher Schönberg."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Der Biohof Hoher Schönberg."}
 knitr::include_graphics("images/Julia/IMG_20210922_153514.jpg")
 ```
 
@@ -169,19 +169,19 @@ Der Biohof wirtschaftet unter den Richtlinien des Demeter-Bioverbands und setzt 
 
 Was die Tierhaltung betrifft, entdeckten wir bei unserem Besuch eine breite Vielfalt aus Rindern, Ziegen, Schafen, Schweinen und Hühnern. Es werden auf dem Hof bevorzugt alte Nutztierrassen gehalten und durch eigene Nachzucht vermehrt, wie etwa das Angler Sattelschwein, eine alte Hausschweinerasse, die laut roter Liste der gefährdeten Nutztierrassen der GEH als extrem gefährdet eingestuft ist (GEH 2022). Bei unserem Besuch konnten wir von dieser Art jedoch viele kleine Ferkel bewundern, die mit einer der Zuchtsauen in einem separaten Stall untergebracht waren. Die Tiere werden in kleineren Gruppen gehalten und alle Futtermittel, also Heu, Stroh, Rüben und Getreide werden gemäß der Demeter-Richtlinien selbst erzeugt. Anstelle von Medikamenten werden die Tiere mit Homöopathie, Heilkräutern und Ölen behandelt. Auf gewisse, in der konventionellen und auch in der biologischen Nutztierhaltung verbreitete Praktiken wird außerdem verzichtet, z.B. auf das Enthornen der Kühe oder die frühe Trennung von Mutter und Kind zur Milchgewinnung. Bei den Kühen und Ziegen bedeutet das, dass die Muttertiere ihre Kälbchen bzw. Zicklein selbst säugen und großziehen. Per Hand abgemolken werden dann nur die Milchüberschüsse (Hof Hoher Schönberg 2021). 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Das weiträumige Außengehege der Angler-Sattelschweine."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Das weiträumige Außengehege der Angler-Sattelschweine."}
 knitr::include_graphics("images/Julia/IMG_20210922_143215.jpg")
 ```
 
 Für den Acker- und Gemüsebau werden ca. 16 der 25 verfügbaren Hektar Flächen bearbeitet. Zur Erhaltung der Bodenfruchtbarkeit wird, wie auf dem Biohof Kinkelbur, auch hier die Methode der Fruchtfolge genutzt. Dabei werden jedoch kleine, von Hecken und Baumreihen umrahmte Flächen bevorzugt, um die Artenvielfalt zu fördern. Die Erträge des Ackerbaus – Roggen, Dinkel, Weizen, Gerste und Hafer – werden sowohl als Tierfutter, als auch zum Verkauf im Hofladen verwendet. Neben dem Getreide werden im Gartenbau fast ausschließlich in Handarbeit alte Obst und Gemüsesorten in Mischkultur mit Kräutern, Blumen, Stauden und historischen Rosen angebaut. Dabei werden Ansätze von Market Gardening und Permakulturanbau einbezogen, die auch Wildtiere und Wildpflanzen mit integrieren. Für die vier hofeigenen Ölmühlen werden außerdem Nüsse und Ölsaaten angebaut, z.B. Leinsamen, Leindotter und Senf. In einem Verarbeitungsprozess, der die Temperatur dauerhaft unter 37 °C hält, werden sie auf dem Hof zu Rohkost-Pflanzenölen weiterverarbeitet, die dann ebenfalls im Hofladen verkauft werden (Hof Hoher Schönberg 2021). 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Die Terrasse umgeben von einem der Mischkultur-Bauerngärten."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Die Terrasse umgeben von einem der Mischkultur-Bauerngärten."}
 knitr::include_graphics("images/Jana/20210922_142552.jpg")
 ```
 
 Nachdem die Gruppe die verschiedenen Ecken des Hofs erkundet hatte, besuchten alle gemeinsam den dort zugänglichen Aussichtspunkt Hoher Schönberg. Auf der mit 89 m ü. NN höchsten Erhebung der Moränenlandschaft des Klützer Winkels wurde hier eine Aussichtsplattform gebaut. Man hat darauf einen Rundumblick auf die Ostseeküste, in den Klützer Winkel und die Boltenhagener Bucht und kann gut erkennen, wie sich die Reliefenergie des Gebiets in Richtung Endmoräne erstreckt. Auch lassen sich einige verschiedene Landmarken und Orte erkennen, z.B. die Stadt Lübeck, in der wir zuvor einen kurzen Zwischenstopp gemacht hatten oder der von uns besuchte Bungsberg. Laut Beschilderung galt der Hohe Schönberg während der deutschen Teilung als Geheimtipp, um „in den Westen“ zu sehen und um Schiffe in der Lübecker Bucht zu beobachten, weshalb er von Einheimischen auch *Sehnsuchtsberg* genannt wurde (Beschilderung der Aussichtsplattform Hoher Schönberg 2021, Hof Hoher Schönberg 2021).
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Ausblick vom Aussichtspunkt Hoher Schönberg."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Ausblick vom Aussichtspunkt Hoher Schönberg."}
 knitr::include_graphics("images/Jana/20210922_145000.jpg")
 ```
 

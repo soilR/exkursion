@@ -36,13 +36,13 @@ Von Kleve geht es weiter zum [Eidersperrwerk](https://www.spo-eiderstedt.de/poi/
 In Friedrichstadt machten wir halt um uns den kleinen Ort anzuschauen. Im 17. Jahrhundert sollte hier eine neue [Handelsmetropole](https://www.nordseetourismus.de/friedrichstadt)
 entstehen. Stadtgründer Herzog Friedrich III von Schleswig-Gottorf holte dafür viele niederländische Bürger in die Stadt, was man auch unweigerlich am Stadtbild erkennen kann, sieht die die Stadt doch aus wie „Klein-Amsterdam“.
 
-```{r, echo=FALSE, fig.align='center', out.width="80%", fig.cap="Friedrichstadt – oder auch Klein-Amsterdam."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Friedrichstadt – oder auch Klein-Amsterdam."}
 knitr::include_graphics("images/Flow/Friedrichstadt1.jpeg")
 ```
 
 Statt Tulpen gibt es hier jedoch viele Rosen zu begutachten. Zudem verlaufen holländische Grachten durch die Stadt. Bei unserer kleinen Tour sehen wir viele Kanufahrer und kleine Boote. Bei schönem Wetter und einer Fülle an Menschen genossen wir beispielsweise unsere Poffertjes, echt holländisch halt.
 
-```{r, echo=FALSE, fig.align='center', out.width="70%", fig.cap="Grachten in Friedrichstadt."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Grachten in Friedrichstadt."}
 knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 ```
 
@@ -65,7 +65,7 @@ Das dem Wattenmeer vorgelagerte Meer ist frei von Wattflächen. Im Gezeitengebie
 In der Gezeitenzone liegen mit den Wattflächen die markantesten Lebensräume.
 Bei Ebbe trifft das Meer auf den Horizont und lädt den Besucher zu einer Wattwanderung ein, wenn mehr als die Hälfte der Wattflächen frei liegen. Zahlreiche Rinnsale, einige Priele und tiefe Fahrrinnen durchtrennen jedoch das Watt und können einem den Weg abschneiden.
 
-```{r, echo=FALSE, fig.align='center', out.width="60%", fig.cap="Wattenmeer."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Wattenmeer."}
 knitr::include_graphics("images/Flow/IMG_6983.jpg")
 ```
 
@@ -75,13 +75,13 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
 
-```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms (Quelle: Kock, K., 1998)."}
+```{r, echo=FALSE, fig.cap="J-Röhre des Wattwurms (Quelle: Kock, K., 1998)."}
 knitr::include_graphics("images/Flow/J-Roehre.jpg")
 ```
 
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land (lebensraum-wattenmeer, 2021). Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese (Quelle: Common Wadden Sea Secreteriat)."}
+```{r, echo=FALSE, fig.cap="Salzwiese (Quelle: Common Wadden Sea Secreteriat)."}
 knitr::include_graphics("images/Flow/Salzwiese.png")
 ```
 

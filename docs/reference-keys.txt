@@ -81,7 +81,6 @@ fig:unnamed-chunk-81
 fig:unnamed-chunk-82
 fig:unnamed-chunk-83
 fig:unnamed-chunk-84
-fig:unnamed-chunk-85
 montag-13.09.2021
 porta-westfalica
 wasserstraßenkreuz-minden

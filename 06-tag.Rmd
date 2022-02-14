@@ -18,7 +18,7 @@ Ankunft: Jugendherberge Heide
 
 Nach einem für einige ExkursionsteilnehmerInnen feuchtfröhlichen Abend auf dem Stader „Craft Beer & Gourmet-Festival“ am Burggraben und einer zu Teilen weniger erholsamen Nacht in der [Jugendherberge Stade](https://www.jugendherberge.de/jugendherbergen/stade-551/portraet/) startete unsere Weiterfahrt etwas verspätet gegen 09:00 Uhr über Wischhafen, Glückstadt, Lägerdorf und den Speicherkoog Dithmarschen in Richtung unserer nächsten Unterkunft.
 
-```{r, echo=FALSE, fig.align='center',out.width="100%", fig.cap="Elbfähre Wischhafen - Glückstadt."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Elbfähre Wischhafen - Glückstadt."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9285.jpg")
 ```
 
@@ -33,7 +33,7 @@ Laut dem Projektbüro Fahrrinnenanpassung aus dem Jahre 2006 seien „die negati
 
 Ob die Argumente für oder gegen die Elbvertiefung überwiegen, wird wohl noch lange Thema sein. In jedem Fall sollten die Umweltschäden so gering wie möglich gehalten und neben den wirtschaftlichen Interessen nicht übersehen werden.
 
-```{r, echo=FALSE, fig.align='center',out.width="100%", fig.cap="Blick auf ein Containerschiff. Im Vordergrund sind unterschiedliche an der Elbe heimische sowie Zugvögel zu erkennen."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Blick auf ein Containerschiff. Im Vordergrund sind unterschiedliche an der Elbe heimische sowie Zugvögel zu erkennen."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_9290.jpg")
 ```
 
@@ -69,7 +69,7 @@ Abbildung 7.2 zeigt eindrücklich den Konflikt zwischen dem wirtschaftlichen Int
 
 In Glückstadt angekommen, ging unsere Fahrt zügig weiter nach Lägerdorf, wo wir uns von einem Aussichtspunkt aus die [Lägerdorfer Kreidegruben](https://www.laegerdorf.de/leben-und-erleben/zu-gast-in-laegerdorf/sehenswuerdigkeiten/kreidegruben/) ansahen. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Ausblick vom Aussichtspunkt Lägerdorf auf die Lägerdorfer Kreidegruben. Von links nach rechts: Grube Schinkel, Grube Alsen und Grube Heidestraße."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Ausblick vom Aussichtspunkt Lägerdorf auf die Lägerdorfer Kreidegruben. Von links nach rechts: Grube Schinkel, Grube Alsen und Grube Heidestraße."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_113448.jpg")
 ```
 
@@ -77,7 +77,7 @@ Um Lage und Mächtigkeit dieses Rohstoffes erklären zu können, ist ein Blick i
 
 Direkt am Aussichtspunkt Lägerdorf erinnerte uns ein Wegweiser auf die bereits zurückgelegte Strecke und die Entfernung zu unserer Heimatstadt Köln. 
 
-```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Wegweiser am Aussichtspunkt Lägerdorf."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Wegweiser am Aussichtspunkt Lägerdorf."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_113943.jpg")
 ```
 
@@ -101,7 +101,7 @@ knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_113943.jpg")
 
 Nach einer kleinen mittäglichen Stärkung an der St. Johannis-Kirche in Meldorf (siehe Abbildung 7.5) – je nach Vorliebe in Form von Pommes, Burger oder Backwaren – ging unsere Reise weiter. 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="St. Johannis-Kirche in Meldorf und Meldorfer Marktplatz."}
+```{r, echo=FALSE, fig.align='center', fig.cap="St. Johannis-Kirche in Meldorf und Meldorfer Marktplatz."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_122458.jpg")
 ```
 
@@ -129,13 +129,13 @@ Von Wildschweinen verfolgt, schaffen wir unsere Ausrüstung auf die naturnahe, e
 
 Während ein Teil der Gruppe sich die Wetter- und Bodenstation genauer ansah, begannen die übrigen Studierenden mit dem Ausheben eines Bodenprofils. Es wurde darauf geachtet, möglichst wenig Schäden an der Vegetation der Profilfront zu verursachen. Das ausgehobene Bodenmaterial ist räumlich nach Horizonten getrennt auf einer Plane gelagert worden, um es nach Abschluss unserer Arbeiten möglichst tiefengetreu wieder einzubauen. Nach einiger Zeit wurden die Aufgaben getauscht und es konnte mit neuer Power weitergegraben werden. Während die Profilgrube Zentimeter um Zentimeter tiefer und der Berg mit ausgehobenem Bodenmaterial immer größer wurde, trotzten wir sowohl kleinen Regenschauern als auch dem Musikgeschmack des DJs.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Gute Laune trotz anstrengender Arbeit und kleinen Regenschauern."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Gute Laune trotz anstrengender Arbeit und kleinen Regenschauern."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_20210918_145533.jpg")
 ```
 
 Nach knapp eineinhalb Stunden fleißigen Buddelns und Präparierens hatte unser Bodenprofil eine Tiefe von 1,40 m erreicht. Das fertige Bodenprofil ist in Abbildung 7.7 zu sehen. Es handelt sich um eine Norm-Kalkmarsch (nach der deutschen Bodenklassifikation) bzw. einen Calcaric Fluvisol (nach WRB), die bereits in unterschiedlichen Publikationen von Herrn Mansfeldt (u.a.: Mansfeldt 2003, Mansfeldt 2004) beschrieben und als Beispielprofil für den [Boden des Jahres 2009](https://boden-des-jahres.de/archiv/2009-stadtboden/) verwendet wurde. Deutlich zu erkennen, sind die charakteristischen Bodenhorizonte.
 
-```{r, echo=FALSE, fig.align='center', out.width="60%", fig.cap="Aufgegrabenes Bodenprofil: Norm-Kalkmarsch."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Aufgegrabenes Bodenprofil: Norm-Kalkmarsch."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_153527.jpg")
 ```
 

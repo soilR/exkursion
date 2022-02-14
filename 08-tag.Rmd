@@ -60,7 +60,7 @@ Auch Tiere finden auf dem Gelände sehr günstige und geschützte Lebensbedingun
 <div style="text-align: justify">
 Nach der Todendorf Führung ging es für uns abends nach Laboe, wo wir ein Picknick im Sand veranstalteten. Mit fabelhaftem Blick auf das Meer. Trotz des kühlen Windes wagte sich Christian ins Wasser, wenn auch nicht für lange. 
 
-```{r, echo=FALSE, fig.align='center', out.width="70%", fig.cap="Laboe."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Laboe."}
 knitr::include_graphics("images/Flow/IMG_6996.jpg")
 ```
 
