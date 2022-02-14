@@ -19,7 +19,7 @@ Ankunft: Wiehen-Therme
 Unsere Exkursion startete am Montag den 13. September 2021 gegen 08:00 am [Rundbau des Geographischen Instituts]( https://geographie.uni-koeln.de/institut/gebaeude/rundbau) der Universität zu Köln. Nachdem wir den gemieteten Van mit unseren zahlreichen Taschen, Rucksäcken und allerlei technischem Equipment beladen hatten, ging die Reise in Richtung Norddeutschland los.
 Unser erster Zwischenstopp unserer zweiwöchigen Reise lag bei Minden: die Porta Westfalica. Auf dem Weg durchquerten wir das nördliche Sauerland sowie den Teutoburger Wald und kamen vormittags am [Kaiser-Wilhelm-Denkmal](https://kaiser-wilhelm-porta.de/) an. Das Denkmal wurde 1896 nach vier jähriger Bauzeit fertig gestellt und zeigt Wilhelm Friedrich Ludwig von Preußen (1797 – 1988), König von Preußen sowie Deutscher Kaiser. Mit einer Gesamthöhe von knapp 90 m und der erhöhten Lage auf dem Wittekindsberg überwacht das Denkmal den Weserdurchbruch zwischen dem westlich gelegenen Wiehengebirge und dem östlichen Wesergebirge an der Mittelgebirgsschwelle in die Norddeutsche Tiefebene. Das 7 m hohe bronzene Standbild steht auf einem aus Porta-Sandstein errichteten Sockel und wird durch einen steinernen Baldachin überdacht (LWL 2022). 
 
-```{r, echo=FALSE, out.width="50%", fig.align='center', fig.cap="Kaiser-Wilhelm Denkmal an der Porta Westfalica."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Kaiser-Wilhelm Denkmal an der Porta Westfalica."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_115204.jpg")
 ```
 
@@ -49,13 +49,13 @@ Die Aussichtsplattform zu Füßen der Statue ermöglichte uns einen ersten Blick
 
 Nach einer kleinen Stärkung beim City-Döner stoppten wir am Wasserstraßenkreuz Minden, etwa 2,5 km außerhalb des Stadtzentrums. Dabei handelt es sich um eine Kreuzung zwischen der von Süden nach Norden fließenden Weser und dem von West nach Ost verlaufenden Mittellandkanal. Der Mittellandkanal wird hier in zwei 370 m langen Trogbrücken über die Weser geleitet. Dabei liegt der mittlere Kanalspiegel etwa 13 m oberhalb dem der Weser. Der alte Kanaltrog hat eine Breite von 24 m und eine Wassertiefe von 3 m. Neben der 1914 fertig gestellten alten Kanalbrücke wurde 1993 eine zweite Kanalbrücke errichtet, deren Abmessungen mit 42 m Breite und 4 m Wassertiefe die Überfahrt für größere Schiffe erlaubt (WSV 2022). Das beeindruckende Bauwerk ermöglicht es dem Schiffsverkehr kollisionsfrei zu kreuzen. Eine Verbindung zwischen den beiden Wasserstraßen ist durch mehrere Schleusen und Pumpwerke gegeben.
 
-```{r, echo=FALSE, out.width="50%", fig.align='center', fig.cap="Blick auf die alte Kanalbrücke aus südwestlicher Richtung."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Blick auf die alte Kanalbrücke aus südwestlicher Richtung."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_131349.jpg")
 ```
 
 Wir gingen ein kleines Stück die Brücke entlang und genossen den Blick hinunter auf die Aue der Weser sowie das Weserbergland und das Wiehengebirge, die sich in südlicher Richtung am Horizont zeigten. Auch der Weserdurchbruch war zu erkennen. Mit diesem Blick zurück setzten wir unsere Fahrt in den Norden fort.
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Blick von der alten Kanalbrücke nach Süden. Links: Weserbergland, Mitte: Porta Westfalica und Weserdurchbruch, Rechts: Wiehengebirge."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Blick von der alten Kanalbrücke nach Süden. Links: Weserbergland, Mitte: Porta Westfalica und Weserdurchbruch, Rechts: Wiehengebirge."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_131624.jpg")
 ```
 
@@ -78,11 +78,11 @@ Auf dem Bauernhof Kinkelbur wird seit 1981 organisch-biologischer Landbau nach d
 Durch wiederholte Aufstockung des Viehbestands und die Zupacht eines weiteren Betriebs im Nachbarort 2014 konnte die Milchviehherde des Hofs Kinkelbur von 50 Milchkühen 1996 auf heute 110 Milchkühe anwachsen. Als bemerkenswert hervorzuheben ist dabei die sehr hohe Milchleistung der einzelnen Kühe, die mit jährlich ca. 10.300 kg Milch deutlich über dem aktuellen deutschen Durchschnitt von 8.457 kg liegt (Bundesinformationszentrum Landwirtschaft 2021). Was für einen Biohof zunächst einmal sehr überraschend erscheint, ist in der Züchtung der Kühe begründet. Die für ihre hohe Milchleistung bekannte Rasse Holstein-Friesian wird zwar *bio* gehalten, ist aber auf Leistungsstärke gezüchtet und daher auch in der konventionellen Landwirtschaft sehr populär (Brade & Brade 2010). Gemäß den Richtlinien der biologischen Landwirtschaft werden die Kühe auf dem Hof Kinkelbur mit überwiegend eigens angebautem Bio-Futter ernährt. So erhalten sie Grundmischungen über einen Futtermischwagen und zusätzlich Heu, Mineralfutter und Viehsalz. Hinzu kommen von einem technischen Mitarbeiter individuell zusammengestellte Kraftfuttereigenmischungen, bestehend aus Getreideweizen und Eiweiß-Ergänzer. Wenn der Boden es zulässt, wird die Fütterung durch Kurztagsweide ergänzt (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall."}
 knitr::include_graphics("images/Jana/20210913_134559.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Führung über den Bauernhof durch Herrn Kinkelbur."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Führung über den Bauernhof durch Herrn Kinkelbur."}
 knitr::include_graphics("images/kristof/IMG_9129.jpg")
 ```
 
@@ -95,11 +95,11 @@ Insgesamt wird auf dem Hof Kinkelbur versucht, einen möglichst lebendigen Organ
 
 Die jüngsten Veränderungen auf dem Hof Kinkelbur gehen auf die Pandemie 2020 zurück. Während die landwirtschaftliche Tätigkeit selbst davon weitestgehend unbeeinflusst blieb, erschienen im Zuge des Lockdowns immer mehr BesucherInnen, insbesondere junge Familien, auf dem Hof, die ihn als Tagesausflugsziel nutzten. Wohl in der Intention, einen Streichelzoo-Ersatz zu finden, kamen manche dabei auch den Tieren zu nahe. Durch das Aufstellen von Schildern, die die BesucherInnen zur Vorsicht und Rücksichtnahme sensibilisieren sollten, reagierte Familie Kinkelbur auf diese Entwicklungen. Die Veränderungen boten aber auch die Chance für neue Projekte, wie etwa für den Aufbau zweier neuer Hühnermobile mit je 345 Hennen, die eine Reaktion auf die steigende Nachfrage nach Bio-Eiern darstellten. Auch der von uns vorgefundene Selbstbedienungs-Hofladen wurde zur Direktvermarktung einiger Waren auf dem Hof in dieser Zeit errichtet (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021).
 
-```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Beschilderung für die BesucherInnen des Hofes."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Beschilderung für die BesucherInnen des Hofes."}
 knitr::include_graphics("images/Julia/IMG_20210913_150255.jpg")
 ```
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Der neue Hofladen."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Der neue Hofladen."}
 knitr::include_graphics("images/Julia/IMG_20210913_150120.jpg")
 ```
 
@@ -127,7 +127,7 @@ Wir gingen den Weg ein Stück weiter bergauf und bekamen an einem erodierten Han
 
 Über dem stark verstellten Untergrundgestein war ein geringmächtiger humoser Oberboden zu erkennen. Da es sich bei dem Ausgangsgestein um ein Carbonatgestein handelte, wird der Boden nach der deutschen Bodenklassifikation als Rendzina bezeichnet (Ad-hoc-Arbeitsgruppe Boden 2005, mündl. Kommunikation Exkursionsleitung 2021). 
 
-```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Gesteinsaufschluss am Oberlübber Bergsee."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Gesteinsaufschluss am Oberlübber Bergsee."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_160232.jpg")
 ```
 
@@ -147,13 +147,13 @@ Wir verließen das Wiehengebirge in nördliche Richtung und begaben uns auf den 
 
 Im nördlichen Vorland des Wiehengebirges hielten wir am Rande eines Rapsfeldes. Hier wollten wir uns mit Hilfe eines Pürckhauer Bohrstockes den Ackerboden anschauen. Wir achteten dabei sehr darauf, eine Schädigung der jungen Rapspflanzen zu vermeiden. An einigen Pflanzen waren jedoch bereits kleine Löcher in den Blättern zu erkennen. Dabei handelte es sich um den typischen Lochfraß des Rapserdflohs (Psylliodes chrysocephala) (BLE 2018).
 
-```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Durch den Rapserdfloh beschädigter Rapskeimling."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Durch den Rapserdfloh beschädigter Rapskeimling."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164126.jpg")
 ```
 
 Dieser Schädling verursacht im Herbst an jungen Rapspflanzen die in Abbildung 2.9 ersichtliche Durchlöcherung der Keimblätter. Der Befall kann zu Ertragsminderungen führen. Außerdem kann es zu einer Verbreitung des Schädlings in angrenzende Rapsbestände kommen. Im ökologischen Landbau ist eine direkte Bekämpfung des Rapserdflohs nicht möglich. Die Fruchtfolge sollte entsprechend angepasst werden, da andere Ackerpflanzen für den Schädling nicht anfällig sind. Die Eiablage kann durch eine Mulchsaat gehemmt werden. Außerdem können räuberische Arten den Bestand vor einem übermäßigen Befall schützen (BLE 2018). Neben den beschriebenen Schädigungen der Pflanze erkannten wir kleine grünblaue Körner in regelmäßiger Verteilung auf dem Acker. Wir vermuteten, dass es sich dabei um Schneckenkorn handelt, das im Randbereich des Feldes ausgebracht wurde, um ein Einwandern von Schnecken zu verhindern. 
 
-```{r, echo=FALSE, fig.align='center', out.width="30%", fig.cap="Mittels Pürckhauer entnommene Bodenprobe: Kolluvisol."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Mittels Pürckhauer entnommene Bodenprobe: Kolluvisol."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164114.jpg")
 ```
 
