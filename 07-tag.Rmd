@@ -73,13 +73,13 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms."}
+```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms (Quelle: Kock, K., 1998)."}
 knitr::include_graphics("images/Flow/J-Roehre.jpg")
 ```
 
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land (lebensraum-wattenmeer, 2021). Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese."}
+```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese (Quelle: Common Wadden Sea Secreteriat)."}
 knitr::include_graphics("images/Flow/Salzwiese.png")
 ```
 
@@ -89,13 +89,13 @@ Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto, wo wir geme
 
 **Quellen**
 
-Common Wadden Sea Secreteriat,2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
+Common Wadden Sea Secreteriat, 2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
 
 Kock, K., 1998. Das Watt – Lebensraum auf den zweiten Blick. 7. Auflage. Verlagsdruckerei Boyen & Co. Heide.
 
 Lebensraum Wattenmeer, 2021. Abrufbar unter: https://www.lebensraum-wattenmeer.de. Letzter Zugriff am 30.11.2021.
 
-Salzwiese. Abrufbar unter: https://www.waddensea-worldheritage.org/de/natürlich-einmalig. Letzter Zugriff am 05.01.2022.
+
 
 </div>
 
