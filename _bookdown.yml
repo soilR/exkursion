@@ -1,5 +1,7 @@
 output_dir: "docs"
 delete_merged_file: true
 language:
+  label:
+    fig: "Abbildung "
   ui:
     chapter_name: ""

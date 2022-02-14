@@ -10,31 +10,33 @@ Ankunft: [Jugendhof Vechta](https://www.bdkj-jugendhof.de/)
 
 <div style="text-align: justify">
 
-## Bastauwiesenmoor (Maren)
+## Bastauwiesenmoor
 
 <div style="text-align: justify">
 
-Nach einem entspannten Abend in der [Wiehnen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht (vgl. Abb. 3.1). Manche durften leider nur die gegenüberliegende Hauswand bewundern. 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39021.60402956489!2d8.699339870588199!3d52.31871975158548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba0974c7ce5b4f%3A0x2fe676c07f1cc5cf!2sGro%C3%9Fes%20Torfmoor!5e0!3m2!1sde!2sde!4v1644833048556!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-```{r, echo=FALSE, fig.cap="Aussicht Wiehnen Therme."}
+Nach einem entspannten Abend in der [Wiehen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht (vgl. Abb. 3.1). Manche durften leider nur die gegenüberliegende Hauswand bewundern. 
+
+```{r, echo=FALSE, fig.align='center', fig.cap="Aussicht Wiehnen Therme."}
 knitr::include_graphics("images/kristof/IMG_9142.jpg")
 ```
 
-Die Anfahrt am nächsten Morgen auf der Moorbadstraße entlang des  Mittellandkanals war durch leichte Nebelschleier geprägt und ließ Vorfreude auf die uns bevorstehende Moorwanderung aufkeimen. Wir starteten am Wanderparkplatz "Großes Torfmoor P3" und konnten nach etwa 5 Minuten den ersten Blick auf das im Morgentau und -frost liegenden Hochmoor erlangten. Besonders hervorgestochen sind die vielen Spinnennetze, die von den Spinnentieren flächendeckend verteilt in der Moorvegetation gesponnen wurden. Der morgendliche Tau verfing sich in der Seide der kunstvollen Netze, wodurch eine besonders mystische Atmosphäre geschaffen wurde. 
+Die Anfahrt am nächsten Morgen auf der Moorbadstraße entlang des  Mittellandkanals war durch leichte Nebelschleier geprägt und ließ Vorfreude auf die uns bevorstehende Moorwanderung aufkeimen. Wir starteten am Wanderparkplatz "Großes Torfmoor P3" und konnten nach etwa 5 Minuten den ersten Blick auf das im Morgentau und -frost liegenden Hochmoor erlangen. Besonders hervorgestochen sind die vielen Spinnennetze, die von den Spinnentieren flächendeckend verteilt in der Moorvegetation gesponnen wurden. Der morgendliche Tau verfing sich in der Seide der kunstvollen Netze, wodurch eine besonders mystische Atmosphäre geschaffen wurde. 
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor."}
+```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="Naturschutzgebiet Bastauwiesenmoor."}
 knitr::include_graphics("images/Maren/640px-Bastauwiesen1.png")
 ```
 
-Auf einem aus Holz erbauten Aussichtsturm konnten wir einen weiten Blick in das 606 ha große Naturschutzgebiet erhalten. Das Moor gehört zu den Bastauwiesen und bildet zusammen mit zwei weiteren Mooren eine ausgedehnte Moorniederungslandschaft entlang des Mittellandkanals zwischen Minden und Lübbecke. Der hiesige Grundwasserstand liegt bei 40 cm. Betreut wird das Naturschutzgebiet von der [Biologischen Station Minden-Lübbecke e.V.](https://biostation-ml.de). Sie planen und verwirklichen die nötigen Naturschutzmaßnahmen, erfassen die gegebene Flora und Fauna und sorgen somit zu einem langfristigen Erhalt des Moores. Damit die Moorlandschaft nicht durch die dort verbreiteten Erlen und Birken verbuscht, ist es wichtig, dass regelmäßige Rodungsarbeiten durchgeführt werden (mündl. Kommunikation Dorau 2021).
+Auf einem aus Holz erbauten Aussichtsturm konnten wir einen weiten Blick in das 606 ha große Naturschutzgebiet erhalten. Das Moor gehört zu den Bastauwiesen und bildet zusammen mit zwei weiteren Mooren eine ausgedehnte Moorniederungslandschaft entlang des Mittellandkanals zwischen Minden und Lübbecke. Der hiesige Grundwasserstand liegt bei 40 cm mit saisonalen und jährlichen Schwankungen. Betreut wird das Naturschutzgebiet von der [Biologischen Station Minden-Lübbecke e.V.](https://biostation-ml.de). Sie planen und verwirklichen die nötigen Naturschutzmaßnahmen, erfassen die gegebene Flora und Fauna und sorgen somit zu einem langfristigen Erhalt des Moores. Damit die Moorlandschaft nicht durch die dort verbreiteten Erlen und Birken verbuscht, ist es wichtig, dass regelmäßige Rodungsarbeiten durchgeführt werden (mündl. Kommunikation Dorau 2021).
 
-```{r, echo=FALSE, fig.cap="Spaziergang im Moor."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Spaziergang im Moor."}
 knitr::include_graphics("images/Jana/20210914_090755.jpg")
 ```
 
 Es ist allgemein bekannt, dass Moore einen wichtigen Stellenwert in Bezug auf dem Klimawandel haben. So treiben die schützenswerten Feuchtgebiete klimarelevante Rückkopplungseffekte an. Je mehr die Temperaturen ansteigen, desto mehr Gase entweichen aus den Senken, was im Umkehrschluss wiederum zu einer weiteren Erwärmung des Klimas führt (Brasseur et al. 2017). Neben dem unter Naturschutz stehenden Teil der Bastauwiesen, gibt es auch landwirtschaftlich genutzte Gebiete. Die Flächen werden an die hiesigen LandwirtInnen verpachtet und zu großen Teilen als Grünland bewirtschaftet. Für eine verbesserte Nutzbarkeit werden die Moore drainiert, damit das überschüssige Wasser die Bewirtschaftung der Flächen nicht erschwert. Im Gebiet der Bastauwiesen kommt es in den Moorböden durch die angrenzende und integrierte Bewirtschaftung zu Eutrophierungserscheinungen. Nährstoffeinträge sind keine Seltenheit und führen zu einem Überschuss an Nährstoffen in den Böden. Dies konnte gut durch teilweise flächendeckenden Brennesselbewuchs identifiziert werden (mündl. Kommunikation Exkursionsleitung 2021). 
 
-In Deutschland sind 90 % der Moorböden einer Nutzung zugewiesen. Davon 50 % als Grünland und 25-30 % ackerbaulich und 13 % forstwirtschaftlich. Durch die Entwässerung von Mooren kommt es zu langfristigen und schwerwiegenden Folgeerscheinungen. Darunter fallen vor allem Bodensackungen und der Verlust der natürlichen Senkenfunktion von Wasser und Kohlenstoff. Neben Kohlenstoffdioxid (CO~2~) werden vor allem auch Methan (CH~4~) und Lachgas (N~2~O) freigesetzt, die aufgrund ihres Treibhausgaspotentials massiv zur Erderwärmung beitragen (englisch: Global Warming Potential, GWP) (Hutter et al. 1997, Mitsch, W. J. & Gosselink, J. G. 2015; Succow, M. & Jeschke, L. 1990).
+In Deutschland sind 90% der Moorböden einer Nutzung zugewiesen. Davon 50% als Grünland und 25-30% ackerbaulich und 13% forstwirtschaftlich. Durch die Entwässerung von Mooren kommt es zu langfristigen und schwerwiegenden Folgeerscheinungen. Darunter fallen vor allem Bodensackungen und der Verlust der natürlichen Senkenfunktion von Wasser und Kohlenstoff. Neben Kohlenstoffdioxid (CO~2~) werden vor allem auch Methan (CH~4~) und Lachgas (N~2~O) freigesetzt, die aufgrund ihres Treibhausgaspotentials massiv zur Erderwärmung beitragen (englisch: Global Warming Potential, GWP) (Hutter et al. 1997, Mitsch, W. J. & Gosselink, J. G. 2015; Succow, M. & Jeschke, L. 1990).
 
 Nach Succow & Jeschke (1990) lassen sich bei den Folgen 3 Hauptprozesse unterscheiden, die zur Verschlechterung der Bodennutzungseigenschaften der Moorböden führen: 
 
@@ -47,59 +49,60 @@ Leeren sich die wassergefüllten Poren im Moorboden, so ziehen sich die Festbes
 3. **Torfschwund (Mineralisierung)**
 Torfschwund entsteht durch den vollständigen Abbau organischer Substanz durch Mikroorganismen in mineralische Bestandteile und Gase (Mineralisierung). Der Teilprozess dessen, die Umwandlung hochmolekularer organischer Stoffe in niedermolekulare, heißt Humifizierung. Durch Mineralisierung findet ein echter Verlust an Festsubstanz statt, da hierbei die klimaschädlichen Gase Kohlendioxid und Lachgas gebildet werden und in die Atmosphäre entweichen. Große mineralisierende Moorflächen haben daher Einfluss auf den Treibhauseffekt.
 
-
-Ein Konfliktpunkt zwischen der Nutzung des Moores der Bastauwiesen und klimarelevanter Interessen besteht in der zuvor bereits erwähnten Richtlinie der Dauergrünlandflächen als Greeningverpflichtung. Durch das Gesetz, dass Grünlandflächen nach 5 Jahren bei Nichtbearbeitung in eine Dauergrünlandfläche übergehen, werden die Moorflächen mindestens alle 5 Jahre von den PächterInnen gepflügt und umgegraben. Durch das Pflügen der Flächen kommt es zum Ausstoß der dort gespeicherten Treibhausgase. Das Gesetz zum Schutz der Grünflächen wandelt sich damit vielmehr zu einer Bedrohnung der Flächen. Natürliche Moore dienten über Jahrtausende als Senke für Kohlestoffdioxid (CO~2~), indem der im CO~2~ enthaltende Kohlenstoff als Torf gespeichert wurde. Werden Moore entwässert und umgegraben, also landwirtschaftlich genutzt, setzen sie den Kohlenstoff erneut als Kohlenstoffdioxid frei und emittieren zudem Lachgas aufgrund der Torfmineraliserung (Höper 2015).
+Ein Konfliktpunkt zwischen der Nutzung des Moores der Bastauwiesen und klimarelevanter Interessen besteht in der zuvor bereits erwähnten Richtlinie der Dauergrünlandflächen als Greeningverpflichtung. Durch das Gesetz, dass Grünlandflächen nach 5 Jahren bei Nichtbearbeitung in eine Dauergrünlandfläche übergehen, werden die Moorflächen mindestens alle 5 Jahre von den PächterInnen gepflügt und umgegraben. Durch das Pflügen der Flächen kommt es zum Ausstoß der dort gespeicherten Treibhausgase. Das Gesetz zum Schutz der Grünlandflächen wandelt sich damit vielmehr zu einer Bedrohung der Flächen. Natürliche Moore dienten über Jahrtausende als Senke für Kohlenstoffdioxid (CO~2~), indem der im CO~2~ enthaltende Kohlenstoff als Torf gespeichert wurde. Werden Moore entwässert und umgegraben, also landwirtschaftlich genutzt, setzen sie den Kohlenstoff erneut als Kohlenstoffdioxid frei und emittieren zudem Lachgas aufgrund der Torfmineraliserung (Höper 2015).
 
 **Quellen**
 
-Brasseur, G., Jacob, D. & Schuck-Zöller, S., 2017. Klimawandel in Deutschland: Entwicklung, Folgen, Risiken und Perspektiven. 
+- Brasseur, G., Jacob, D. & Schuck-Zöller, S., 2017. Klimawandel in Deutschland: Entwicklung, Folgen, Risiken und Perspektiven. 
 Springer Nature, Berlin, Heidelberg.
 
-Dorau, 2021. Mündliche Kommunikation. Vortrag während des Spaziergangs im Bastauwiesenmoor am 2. Tag (14.09.21).
+- Dorau, 2021. Mündliche Kommunikation. Vortrag während des Spaziergangs im Bastauwiesenmoor am 2. Tag (14.09.21).
 
-Exkursionsleitung, 2021. Mündliche Kommunikation. Vortrag zum den Bastauwiesen am Ende des 1. Tages (13.09.21).
+- Exkursionsleitung, 2021. Mündliche Kommunikation. Vortrag zum den Bastauwiesen am Ende des 1. Tages (13.09.21).
 
-Mitsch, W. J., Gosselink, J. G., 2015. Wetlands. 5. Auflage. John Wiley & Sons, Hoboken, New Jersey, USA.
+- Mitsch, W. J., Gosselink, J. G., 2015. Wetlands. 5. Auflage. John Wiley & Sons, Hoboken, New Jersey, USA.
 
-Höper, H., 2015. Treibhausgasemissionen aus Mooren und Möglichkeiten der Verringerung. 	Telma 5, S. 133-158.
+- Höper, H., 2015. Treibhausgasemissionen aus Mooren und Möglichkeiten der Verringerung. 	Telma 5, S. 133-158.
 
-Succow, M., Jeschke, L., 1990. Moore in der Landschaft. Verlag Harri Deutsch Thun, Frankfurt 	(Main).
+- Succow, M., Jeschke, L., 1990. Moore in der Landschaft. Verlag Harri Deutsch Thun, Frankfurt 	(Main).
 
-Hutter, C.-P., Kapfer, A., Poschold, P., 1997. Sümpfe und Moore – Biotope erkennen, bestimmen, schützen. Weitbrecht Verlag, Stuttgart/Wien/Bern.
+- Hutter, C.-P., Kapfer, A., Poschold, P., 1997. Sümpfe und Moore – Biotope erkennen, bestimmen, schützen. Weitbrecht Verlag, Stuttgart/Wien/Bern.
 
 
-## WAZ Wasser- und Abwasser-Zweckverband-Niedergrafschaft: Wasserwerk Getelo (Julia)
+## WAZ Wasser- und Abwasser-Zweckverband-Niedergrafschaft: Wasserwerk Getelo
+
 <div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d77731.4407565082!2d6.8896823!3d52.4952932!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b81e0102067805%3A0xf661b587d09c578e!2sWasser-%20und%20Abwasser-Zweckverband%20Niedergrafschaft!5e0!3m2!1sde!2sde!4v1644837225907!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Im Anschluss an die Bastauwiesen fuhren wir ins Emsland, um das Wasserwerk Getelo zu besuchen, das in der Region Neuenhaus, im südwestlichen Teil Niedersachsens nahe der Deutsch-Niederländischen Grenze liegt. Als "Agrarland Nummer Eins" (Heinrich-Böll-Stiftung 2016) ist Niedersachsen für seine intensive Landwirtschaft bekannt. Die Weser-Ems-Region, in der sich auch das Wasserwerk befindet, gilt dabei als Zentrum der niedersächsischen Fleischproduktion. Durch industrielle Methoden und betriebswirtschaftliche Größenvorteile sind hier in den vergangenen Jahrzehnten einige sogenannte *Mega-Mastbetriebe* entstanden, die pro Betrieb häufig mehrere Millionen Tiere fassen und deren Fleisch mittlerweile in rund 125 Länder auf der ganzen Welt exportiert wird. Daneben wird in der Region in großflächigen Monokulturen Mais angebaut, der sich als Tierfutter einsetzen lässt und außerdem zur großzügigen Düngung mit Gülle eignet (ebd.). Bei unserer langen Fahrt durch die Maisfelder, die nur manchmal von großen, nicht einsehbaren Stall-Hallen und einzelnen Häusern und Höfen unterbrochen wurden, konnten wir die Dimensionen dieser Landwirtschaft bereits selbst erahnen. 
 
 In Neuenhaus angekommen, wurden wir von Herrn Schnieders als erste Gruppe nach langer Lockdown-Pause zu einer Führung durch das Wasserwerk begrüßt. Das Wasserwerk Getelo wurde 1980 gebaut und ist eines von drei Wasserwerken des [WAZ-Wasser- und Abwasser-Zweckverbands Niedergrafschaft](https://www.waz-sw-neuenhaus.de/waz-niedergrafschaft/), das die Region mit Trinkwasser versorgt. Das Baujahr spiegelt sich in der hier genutzten Technik wider, die noch weitestgehend analog bedient wird. Als Herzstück dieses Systems wurde uns direkt zu Beginn unserer Führung die große Schalttafel im Eingangsraum vorgestellt. Mit bunten Abbildungen, Knöpfen und Leuchten versehen bildet sie verschiedene Brunnen, Becken und Filter ab und dient damit als analoge Überwachungstafel der gesamten Anlage. Nach der Einführung wurden wir auf der restlichen Anlage herumgeführt und lernten anhand von umfangreichen Erklärungen und anschaulichen Bemalungen der verschiedenen Tanks und Filter die genaueren Abläufe und Schritte der Wasseraufbereitung kennen. 
 
 
-```{r, echo=FALSE, fig.cap="Die große Schalttafel im Eingangsbereich des Wasserwerks."}
+```{r, echo=FALSE, fig.align='center', fig.align='center', fig.cap="Die große Schalttafel im Eingangsbereich des Wasserwerks."}
 knitr::include_graphics("images/Julia/IMG_20210914_121727.jpg")
 ```
 
 Das Wasserwerk Getelo bezieht Wasser aus 12 Förderbrunnen des WAZ in der Region. Aufgabe des Werks ist es, das aus den Brunnen gewonnene Rohwasser zu Trinkwasser zu verarbeiten. Hierfür gibt es von der Trinkwasserverordnung vorgeschriebene Grenz- und Richtwerte, die im wasserwerkseigenen Labor und in Zusammenarbeit mit dem Gesundheitsamt überwacht werden. Um ihre Einhaltung zu gewährleisten, wird die Wasserqualität der verschiedenen Brunnen analysiert und das Wasser dann in aufwändigen Verfahren so aufbereitet, dass ein sicheres und wohlschmeckendes Lebensmittel entsteht. So wird das ursprünglich sehr weiche Wasser zunächst aufgehärtet, dabei werden pro Tag 200 – 500 kg Muschelkalk aufgelöst. Außerdem wird der pH-Wert des Wassers durch Verfahren der mechanischen Entsäuerung unter Druck und Entgasung von 7,4 auf 7,7 erhöht (Mündl. Kommunikation Hr. Schnieders 2021). 
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Bemalter Filter im Wasserwerk Getelo 1."}
+```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Bemalter Filter im Wasserwerk Getelo 1."}
 knitr::include_graphics("images/Jana/20210914_123811.jpg")
 ```
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Bemalter Filter im Wasserwerk Getelo 2."}
+```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Bemalter Filter im Wasserwerk Getelo 2."}
 knitr::include_graphics("images/Julia/1.jpg")
 ```
 
-Neben solch allgemeinen Veränderungen der Wasserbeschaffenheit geht es im Wasserwerk aber auch darum, ungewünschte oder gesundheitsgefährdende Stoffe aus dem Wasser zu entfernen. Neben Verunreinigungen mit Pflanzenschutzmitteln, z.B. Metolachlor, treten an diesem Standort durch die unmittelbare Nähe zur intensiven Landwirtschaft Nitrat (NO3-) und Nickel (Ni)[28] als besonders relevante Schadstoffe hervor. Viele der Brunnen zeigen eine starke Nitratbelastung des Grundwassers mit Werten jenseits des durch die Nitratrichtlinie festgelegten absoluten Grenzwerts von 50 mg/L. Andere Brunnen, die weniger mit Nitrat belastet sind, zeigen dagegen Verunreinigungen jenseits des Grenzwerts 20 µg/L durch das Schwermetall Nickel (Mandt 2015, Mündl. Kommunikation Hr. Schnieders 2021). 
+Neben solch allgemeinen Veränderungen der Wasserbeschaffenheit geht es im Wasserwerk aber auch darum, ungewünschte oder gesundheitsgefährdende Stoffe aus dem Wasser zu entfernen. Neben Verunreinigungen mit Pflanzenschutzmitteln, z.B. Metolachlor, treten an diesem Standort durch die unmittelbare Nähe zur intensiven Landwirtschaft Nitrat (NO~3~^-^) und Nickel (Ni)[28] als besonders relevante Schadstoffe hervor. Viele der Brunnen zeigen eine starke Nitratbelastung des Grundwassers mit Werten jenseits des durch die Nitratrichtlinie festgelegten absoluten Grenzwerts von 50 mg/L. Andere Brunnen, die weniger mit Nitrat belastet sind, zeigen dagegen Verunreinigungen jenseits des Grenzwerts 20 µg/L durch das Schwermetall Nickel (Mandt 2015, Mündl. Kommunikation Hr. Schnieders 2021). 
 
 Beide Phänomene sind in direktem Zusammenhang mit der Landwirtschaft in der Region zu erklären, denn durch den hohen Viehbestand wird ebenfalls sehr viel Gülle produziert, die dann als Wirtschaftsdünger weiterverwertet wird. Da die Gülleproduktion die Flächenkapazitäten der Region weit übersteigt – laut dem Nährstoffbericht fehlten im Weser-Ems-Raum allein 2014 65.000 ha Fläche, um Gülle und Gärrereste fachgerecht auszubringen – wird ein großer Teil der Gülle in andere Bundesländer weiterexportiert (Heinrich-Böll-Stiftung 2016). Dennoch wurden und werden Flächen häufig übermäßig oder unsachgemäß gedüngt, sodass der in Gülle enthaltene Stickstoff nicht mehr durch Pflanzen aufgenommen werden kann und durch Niederschläge als Nitrat in den Boden ausgewaschen wird. Dies sammelt sich dann im Oberflächen- und Grundwasser an, was auch die Nitratbelastung der Brunnen erklärt. Alternativ und abhängig von der Bodenbeschaffenheit – in der Region sind es vor allem saale- bis elsterzeitliche glazifluviatile Sande (Gäth et al. 1999) – kann das Nitrat aber auch durch den chemischen Prozess der Denitrifikation im Boden abgebaut werden. In diesen Böden liegt Nickel gebunden an Pyrit im Sediment vor; bewirkt der Nitrateintrag ins Grundwasser eine Redoxreaktion, durch die Nitrat reduziert und Pyrit oxidiert wird, wird auch das Nickel freigesetzt. Das Nitratproblem wird im Zuge der Denitrifikation somit zu einem Schwermetallproblem verlagert (Mandt 2015, Wisotzky 2011). 
 
-Im Wasserwerk Getelo reagiert man auf diese Belastungen, indem etwa das mit Nitrat belastete Wasser im Anschluss an die Filterung durch *Reinstwassereinleitung* verdünnt wird. Die Verdünnung führt zwar zu einer Absenkung des Nitratgehalts, nicht aber zu einer Entfernung. So kommt Wasser, das ursprünglich Konzentrationen jenseits der 50 mg/L vorwies auch nach der Aufbereitung noch mit einer Nitratkonzentration von über 30 mg/L aus dem Wasserwerk hinaus, was laut der EU-Nitratrichtlinie mit gelber Ampelfarbe versehen wird und noch immer als "deutliche anthropogene Überprägung der natürlichen Nitratgehalte im Grundwassers" (BMEL & BMU 2020) klassifiziert wird. Mit steigenden Nitratwerten wird es dahingehend immer schwerer, die Werte im zugelassenen Bereich zu behalten. Auf die Nickelbelastung wird wiederum mit dem Einsatz von Manganchlorid reagiert, das das Nickel im Wasser bindet und somit aus dem Trinkwasser entfernt. Dabei entstehen Schlämme, die zwar sehr spurenelementhaltig sind, aber durch ihren hohen Nickelgehalt nicht mehr als Nährstoff weiterverwendet werden können, sondern nach ihrer Lagerung im Absetzbecken abgeholt und deponiert werden müssen. Nachdem wir uns dieses Absetzbecken gemeinsam anschauten, besuchten wir letztendlich den Wasserspeicher, in den das fertige Trinkwasser nach seiner Desinfektion mit Chlor übergeleitet wird. Da dieser ein für ein Wasserwerk vergleichsweise geringes Fassungsvermögen von nur 3000 qm hat, ist für die Gewährleistung einer konstanten Trinkwasserversorgung der Region ein dauerhafter Betrieb des Wasserwerks notwendig (Mündl. Kommunikation Hr. Schnieders 2021).
+Im Wasserwerk Getelo reagiert man auf diese Belastungen, indem etwa das mit Nitrat belastete Wasser im Anschluss an die Filterung durch *Reinstwassereinleitung* verdünnt wird. Die Verdünnung führt zwar zu einer Absenkung des Nitratgehalts, nicht aber zu einer Entfernung. So kommt Wasser, das ursprünglich Konzentrationen jenseits der 50 mg/L vorwies auch nach der Aufbereitung noch mit einer Nitratkonzentration von über 30 mg/L aus dem Wasserwerk hinaus, was laut der EU-Nitratrichtlinie mit gelber Ampelfarbe versehen wird und noch immer als "deutliche anthropogene Überprägung der natürlichen Nitratgehalte im Grundwassers" (BMEL & BMU 2020) klassifiziert wird. Mit steigenden Nitratwerten wird es dahingehend immer schwerer, die Werte im zugelassenen Bereich zu behalten. Auf die Nickelbelastung wird wiederum mit dem Einsatz von Manganchlorid reagiert, das das Nickel im Wasser bindet und somit aus dem Trinkwasser entfernt. Dabei entstehen Schlämme, die zwar sehr spurenelementhaltig sind, aber durch ihren hohen Nickelgehalt nicht mehr als Nährstoff weiterverwendet werden können, sondern nach ihrer Lagerung im Absetzbecken abgeholt und deponiert werden müssen. Nachdem wir uns dieses Absetzbecken gemeinsam anschauten, besuchten wir letztendlich den Wasserspeicher, in den das fertige Trinkwasser nach seiner Desinfektion mit Chlor übergeleitet wird. Da dieser ein für ein Wasserwerk vergleichsweise geringes Fassungsvermögen von nur 3.000 qm hat, ist für die Gewährleistung einer konstanten Trinkwasserversorgung der Region ein dauerhafter Betrieb des Wasserwerks notwendig (Mündl. Kommunikation Hr. Schnieders 2021).
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Absetzbecken für die Schlämme aus der Nickelentfernung."}
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Absetzbecken für die Schlämme aus der Nickelentfernung."}
 knitr::include_graphics("images/Jana/20210914_125152.jpg")
 ```
-
 
 Im Anschluss an unsere Führung wurden wir mit Suppe und Getränken versorgt und durften währenddessen Fragen stellen und diskutieren. Im Fokus war dabei vor allem der weitere Einsatz des WAZ für den Grundwasserschutz und sein Verhältnis zur Landwirtschaft der Region. Da die Folgen der intensiven Landwirtschaft einen direkten Einfluss auf die Wasserqualität und die Arbeit der Wasserwerke haben, setzt der WAZ auf Kooperation mit den LandwirtInnen. Dementsprechend gibt es zur Vorbeugung weiterer Belastungen ein gemeinsam getragenes Schutzkonzept. Es beinhaltet freiwillige Maßnahmen, die vertraglich festgesetzt sind, z.B. eine reduzierte Düngung der landwirtschaftlich genutzten Flächen, den Anbau von Zwischenfrüchten oder den Verzicht darauf, Kulturen anzubauen, die das Grundwasser überdurchschnittlich belasten können. Die LandwirtInnen werden bei dabei entstehenden Mehrkosten durch Zuschüsse des Landes Niedersachsen entschädigt. Außerdem gibt es Beratungsangebote, z.B. die Wasserschutzberatung, die Betriebe bei der Düngeplanung unterstützt. Sie wird von der Europäischen Union kofinanziert und ebenfalls vom Land Niedersachsen bezuschusst. Die Maßnahmen werden letztendlich auch kontrolliert und auf ihren Erfolg hin geprüft. Neben dieser Kooperation hat der WAZ in den Gewinnungsgebieten der Niedergrafschaft außerdem landwirtschaftliche Flächen erworben und gepachtet, um die Flächen zu entlasten. Sie werden zwar an regionale Landwirte weitergepachtet, aber streng kontrolliert, sodass der Grundwasserschutz hier tatsächlich gewährleistet und gehalten werden kann (Mündl. Kommunikation Hr. Schnieders 2021, WAZ Niedergrafschaft 2021). 
 
@@ -109,25 +112,28 @@ In den reaktiven wie präventiven Maßnahmen des WAZ zeigt sich, dass die Trinkw
 
 *Ein Teil der Informationen stammt aus dem persönlichen Gespräch mit Herrn Schnieders im Zuge der Wasserwerksführung und abschließenden Diskussionsrunde.*
 
-Bundesministerium für Ernährung und Landwirtschaft (BMEL), Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (BMU), 2016. Nitratbericht 2016 - Gemeinsamer Bericht der Bundesministerien für Umwelt, Naturschutz,  Bau und Reaktorsicherheit sowie für Ernährung und Landwirtschaft. 
+- Bundesministerium für Ernährung und Landwirtschaft (BMEL), Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (BMU), 2016. Nitratbericht 2016 - Gemeinsamer Bericht der Bundesministerien für Umwelt, Naturschutz,  Bau und Reaktorsicherheit sowie für Ernährung und Landwirtschaft. 
 
-Bundesministerium für Ernährung und Landwirtschaft (BMEL), Bundesministerium für Umwelt, Naturschutz und nukleare 	Sicherheit (BMU), 2020. Nitratbericht 2020 -Gemeinsamer Bericht der Bundesministerien für Umwelt, Naturschutz und nukleare Sicherheit sowie für Ernährung und Landwirtschaft.
+- Bundesministerium für Ernährung und Landwirtschaft (BMEL), Bundesministerium für Umwelt, Naturschutz und nukleare 	Sicherheit (BMU), 2020. Nitratbericht 2020 -Gemeinsamer Bericht der Bundesministerien für Umwelt, Naturschutz und nukleare Sicherheit sowie für Ernährung und Landwirtschaft.
 
-Gäth, S., Köhler, H.-J., Pommerening, J., 1999. Studie zur Konfliktlösung Trinkwasserschutz und Rohstoffgewinnung in der Region Itterbeck (Trinkwassereinzugsgebiet Getelo und angrenzendes Versorgegebiet). Boden und Landschaft, Schriftenreihe zur Bodenkunde, Landeskunde und Landschaftsökologie (26), 1999, Justus-Liebig-Universität Gießen.
+- Gäth, S., Köhler, H.-J., Pommerening, J., 1999. Studie zur Konfliktlösung Trinkwasserschutz und Rohstoffgewinnung in der Region Itterbeck (Trinkwassereinzugsgebiet Getelo und angrenzendes Versorgegebiet). Boden und Landschaft, Schriftenreihe zur Bodenkunde, Landeskunde und Landschaftsökologie (26), 1999, Justus-Liebig-Universität Gießen.
 
-Heinrich-Böll-Stiftung, Bund für Umwelt- und Naturschutz Deutschland, 2016. Fleischatlas - Daten und Fakten über Tiere als Nahrungsmittel. Phoenix Print GmbH, Würzburg.
+- Heinrich-Böll-Stiftung, Bund für Umwelt- und Naturschutz Deutschland, 2016. Fleischatlas - Daten und Fakten über Tiere als Nahrungsmittel. Phoenix Print GmbH, Würzburg.
 
-Mandt, H., 2015. Nickel im Boden, Sediment und Grundwasser des Wasser- und Abwasser-Zweckverbandes Neuenhaus, Niedergrafschaft, Emsland. Masterarbeit, Universität zu Köln, Deutschland.
+- Mandt, H., 2015. Nickel im Boden, Sediment und Grundwasser des Wasser- und Abwasser-Zweckverbandes Neuenhaus, Niedergrafschaft, Emsland. Masterarbeit, Universität zu Köln, Deutschland.
 
-WAZ Niedergrafschaft, 2021. Wasseranalysen. https://www.waz-sw-neuenhaus.de/waz-niedergrafschaft/wasser/wasseranalysen/, 2021-12-17. 
+- WAZ Niedergrafschaft, 2021. Wasseranalysen. https://www.waz-sw-neuenhaus.de/waz-niedergrafschaft/wasser/wasseranalysen/, 2021-12-17. 
 
-Wisotzky, F., 2011. Angewandte Grundwasserchemie, Hydrogeologie und hydrochemische Modellierung. Springer, Berlin Heidelberg. 
+- Wisotzky, F., 2011. Angewandte Grundwasserchemie, Hydrogeologie und hydrochemische Modellierung. Springer, Berlin Heidelberg. 
 
 </div>
 
-## Tagesabschluss (Julia)
+## Tagesabschluss
 
 <div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7674.780258381478!2d8.301988016862964!3d52.70684988768905!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b748fd8b95be85%3A0x2daad778010b0b03!2sBDKJ-Jugendhof%20Vechta!5e0!3m2!1sde!2sde!4v1644837262310!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 Nach dem Besuch des Wasserwerks fuhren wir mit dem Bus weiter zu unserer nächsten Unterkunft, dem Jugendhof Vechta. Hier wurden wir in einem Gruppenhaus abseits der restlichen Jugendherbergs-Gäste untergebracht und bekamen aus Pandemie-Vorkehrungsgründen jeweils ein eigenes Zimmer zugeteilt. Nach mehreren vergeblichen Versuchen uns ins Wlan einzuloggen, um gemeinsam an der Aneignung des Programms R-Studio zu arbeiten, ließen wir den Tag gemeinsam bei mildem Wetter und Kaltgetränk im Freien ausklingen. Dabei setzten wir das Knack-Kartenspiel des vergangenen Abends fort und starteten mit der Punkte-Dokumentation aller Mitglieder ein Kartenspiel-Turnier, das sich über die nächsten zwei Wochen erstrecken würde. 
 
 

@@ -10,7 +10,7 @@ Ankunft: Truppenübungsplatz Todendorf
 
 </div>
 
-## Gutsanlage Panker (Florian)
+## Gutsanlage Panker
 
 <div style="text-align: justify">
 Am neunten Tag unserer Reise besuchten wir zuerst die [Gutsanlage Panker](https://www.gutpanker.de). Dort angekommen, erzählte uns Herr Mansfeldt ein paar Dinge über diese Anlage. 
@@ -18,7 +18,7 @@ Die Gutsanlage Panker liegt im Kreis Plön bei Lütjenburg in Ostholstein. Sie w
 
 Diese Güter waren sogenannte Gutsbezirke bzw. Verwaltungsbezirke. Es gab keine Gemeinden, sondern der Gutsherr (Baron, von, Graf) stand einem Gutsbezirk vor. Die Gutsbezirke wurden erst 1937 abgeschafft und in Gemeinden überführt, und der Gutsbezirksvorsteher, der Adlige, war mit vielen Rechten ausgestattet. Mit dem Ersten Weltkrieg wurde die Macht der Adeligen jedoch gebrochen.
 
-```{r, echo=FALSE, out.width="60%", fig.cap="Gutsanlage Panker."}
+```{r, echo=FALSE, fig.align='center', out.width="60%", fig.cap="Gutsanlage Panker."}
 knitr::include_graphics("images/Flow/IMG_7004.jpg")
 ```
 
@@ -32,10 +32,10 @@ Die landwirtschaftlichen Betriebe waren ca. 35 bis 40 Hektar groß, was im Vergl
 
 *Die Informationen entstammen aus dem persönlichen Gespräch mit Herrn Mansfeldt, der uns über das Gelände führte.*
 
-Gutsanlage Panker, 2021. Abrufbar unter: https://www.gutpanker.de. Letzter Zugriff am 05.01.2022.
+- Gutsanlage Panker, 2021. Abrufbar unter: https://www.gutpanker.de. Letzter Zugriff am 05.01.2022.
 
 
-## Windpark (Maren)
+## Windpark
 
 <div style="text-align: justify">
 
@@ -45,19 +45,21 @@ Um gegen diese Problematik vorzugehen, werden seit vielen Jahren Forschungen bet
 
 **Quellen**
 
-Hüppop,O., Dierschke, J., Wendeln, H., 2005. Zugvögel und Offshore-Windkraftanlagen: Konflikte und Lösungen. Ber. Vogelschutz 41, 127-218.
+- Hüppop,O., Dierschke, J., Wendeln, H., 2005. Zugvögel und Offshore-Windkraftanlagen: Konflikte und Lösungen. Ber. Vogelschutz 41, 127-218.
 
-Lindeiner, A. V., 2014. Windkraft und Vogelschutz. ANL Natur 36 (1), 39-46.
+- Lindeiner, A. V., 2014. Windkraft und Vogelschutz. ANL Natur 36 (1), 39-46.
 
-Umweltverträglichkeitsprüfung der Länder, 2020. Errichtung und Betrieb von 7 Windkraftanlagen in 23758 Wangels (Kreis Ostholstein) - Az. G20/2013/121-127. https://www.uvp-verbund.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=5363F6A3-0BCE-4498-A727-2FADBD2AA12F&plugid=/ingrid-group:ige-iplug-sh, 2022-01-29. 
+- Umweltverträglichkeitsprüfung der Länder, 2020. Errichtung und Betrieb von 7 Windkraftanlagen in 23758 Wangels (Kreis Ostholstein) - Az. G20/2013/121-127. https://www.uvp-verbund.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=5363F6A3-0BCE-4498-A727-2FADBD2AA12F&plugid=/ingrid-group:ige-iplug-sh, 2022-01-29. 
 
-WWF, 2021. Der Seeadler - Größter Greifvogel Europas. https://www.wwf.de/themen-projekte/bedrohte-tier-und-pflanzenarten/adler/seeadler, 2022-01-25.
+- WWF, 2021. Der Seeadler - Größter Greifvogel Europas. https://www.wwf.de/themen-projekte/bedrohte-tier-und-pflanzenarten/adler/seeadler, 2022-01-25.
 
 </div>
 
-## Wangels Steilküste (Jana)
+## Wangels Steilküste
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Blick auf die Wangels Steilküste: Parabraunerde."}
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d9311.021495509136!2d10.7400784!3d54.3082762!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1644837823297!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="Blick auf die Wangels Steilküste: Parabraunerde."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210921_130647.jpg")
 ```
 
@@ -71,40 +73,44 @@ Da wir auf dem Rückweg zu unserer Unterkunft hungrig wurden, folgten wir der Em
 
 **Quellen**
 
-Ad-hoc-Arbeitsgruppe Boden: Bundesanstalt für Geowissenschaften und Rohstoffe in Zusammenarbeit mit den Staatlichen Geologischen Diensten, 2005. Bodenkundliche Kartieranleitung, Hannover. 
+- Ad-hoc-Arbeitsgruppe Boden: Bundesanstalt für Geowissenschaften und Rohstoffe in Zusammenarbeit mit den Staatlichen Geologischen Diensten, 2005. Bodenkundliche Kartieranleitung, Hannover. 
 
-Amelung, W., Blume, H.-P., Fleige, H., Horn, R., Kandeler, E., Kögel-Knaber, I., Kretzschmar, R., Stahr, K., Wilke, B.-M., 2018. Scheffer/Schachtschabel Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin.
+- Amelung, W., Blume, H.-P., Fleige, H., Horn, R., Kandeler, E., Kögel-Knaber, I., Kretzschmar, R., Stahr, K., Wilke, B.-M., 2018. Scheffer/Schachtschabel Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin.
 
-Exkursionsleitung, 2021. Diskussion über die Entstehung der Wangels Steilküste sowie die Bodenbildung vor Ort.
+- Exkursionsleitung, 2021. Diskussion über die Entstehung der Wangels Steilküste sowie die Bodenbildung vor Ort.
 
-## Leuchtturm Neuland (Maren)
+## Leuchtturm Neuland
 <div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2324.7866777863924!2d10.598861315750257!3d54.36075050594471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b28a2d7fd2213d%3A0xffbed3cf91973e7!2sLeuchtturm%20Neuland!5e0!3m2!1sde!2sde!4v1644833417930!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Am Ende des Tages erhielten wir durch Horst die einmalige Gelegenheit den Leuchtturm Neuland im Ort Behrensdorf zu besuchen. Der Ziegelturm ist 40 m hoch und liegt Südöstlich des Truppenübungsplatzes Todendorf. Er wurde in den Jahren 1915-1916 aus militärisch-strategischen Zwecken errichtet und füllt eine bis dahin bestehende Seezeichenlücke zwischen Fehmarnsund und der Kieler Förde. Für 80 Jahre diente der Turm als Seezeichen und wird heute ausschließlich von der Bundeswehr genutzt. Das Feuer des Turms zeigt die Sperrzeiten an, in denen die Schießplätze Todendorf und Putlos aktiv sind (mündl. Kommunikation Peters 2021). Während wir oben auf dem Leuchtturm standen konnten wir eine Schießübung des Platzes Putlos beobachten bzw. erahnen. Wir hörten, wie ein Schuss fiel und sahen in weiter Entfernung auf dem Meer, wie eine Wasserfontäne empor ging. Dies geschah zeitlich versetzt zu dem dumpfen Geräusch des Schusses.
 
 Wer den Turm selbst einmal besteigen möchte, kann dies zwei Mal im Jahr am Tag der offenen Tür machen. Zudem haben verlobte Paare die Möglichkeit sich in 40 m Höhe das Ja-Wort zu geben (mündl. Kommunikation Peters 2021).
 
-```{r, echo=FALSE, fig.cap="Der Leuchtturm Neuland"}
+```{r, echo=FALSE, fig.align='center', fig.cap="Der Leuchtturm Neuland"}
 knitr::include_graphics("images/kristof/IMG_9487.jpg")
 ```
 
-```{r, echo=FALSE, fig.cap="Aussicht vom Leutturm in Richtung Südosten auf Salzwiesen und Binnensee"}
+```{r, echo=FALSE, fig.align='center', fig.cap="Aussicht vom Leutturm in Richtung Südosten auf Salzwiesen und Binnensee"}
 knitr::include_graphics("images/kristof/IMG_9451.jpg")
 ```
 
-Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinnere wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung hatten wir einen Blick auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) (vlg. Abb. 10.2). Dabei handelt es sich um ein in sich geschlossenes Niederungsgebiet, das direkt an der Ostsee gelegen ist. Es ist wie die Esterweger Dose Teil der europäischen Naturschutzgebiete NATURA 2000. Besonders für Vögel ist das Gebiet von hoher Wichtigkeit und bietet durch die Vielfältigkeit der Biotop mehr als 120 Vogelarten einen Lebensraum (Nabu 2021). 
+Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinnere wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung hatten wir einen Blick auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) (vlg. Abb. 10.4). Dabei handelt es sich um ein in sich geschlossenes Niederungsgebiet, das direkt an der Ostsee gelegen ist. Es ist wie die Esterweger Dose Teil der europäischen Naturschutzgebiete NATURA 2000. Besonders für Vögel ist das Gebiet von hoher Wichtigkeit und bietet durch die Vielfältigkeit der Biotop mehr als 120 Vogelarten einen Lebensraum (Nabu 2021). 
 
 **Quellen**
 
-Nabu, 2021. NABU-Naturschutzgebiet "Kleiner Binnensee und angrenzende Salzwiesen". https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html, 2022-01-29.
+- Nabu, 2021. NABU-Naturschutzgebiet "Kleiner Binnensee und angrenzende Salzwiesen". https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html, 2022-01-29.
 
-Peters, H., 2021. Vortrag auf dem Leuchtturm Neuland.
+- Peters, H., 2021. Vortrag auf dem Leuchtturm Neuland.
 
 </div>
 
-## Der zweite Abend in Todendorf (Julia)
+## Der zweite Abend in Todendorf
 <div style="text-align: justify">
 
-Zurück in Todendorf lernten wir beim Abendessen in der Bundeswehrkantine Jamie kennen, einen dort arbeitenden Soldaten, der uns bei Pizza und Burgern von seinem Leben und Berufsalltag erzählte und uns im Gegenzug über unser Leben an der Uni Köln befragte. Er gesellte sich für den restlichen Abend zum Karten spielen und Feierabendbier zu uns in den Gemeinschaftsraum und es entstand ein heiterer und informativer Austausch, von dem wir neben weiteren Punkten für unser fortlaufendes Knack-Tournier eine Menge Eindrücke über andere Lebenswelten und den Alltag eines Berufssoldaten mitnahmen.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4648.803590208298!2d10.55657690020499!3d54.36755112088373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b28b9aca168b05%3A0xded772a993a5fdfe!2sKaserne%20Todendorf!5e0!3m2!1sde!2sde!4v1644837310448!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+Zurück in Todendorf lernten wir beim Abendessen in der Bundeswehrkantine Jamie kennen, einen dort arbeitenden Soldaten, der uns bei Pizza und Burgern von seinem Leben und Berufsalltag erzählte und uns im Gegenzug über unser Leben an der Uni Köln befragte. Er gesellte sich für den restlichen Abend zum Karten spielen und Feierabendbier zu uns in den Gemeinschaftsraum und es entstand ein heiterer und informativer Austausch, von dem wir neben weiteren Punkten für unser fortlaufendes Knack-Turnier eine Menge Eindrücke über andere Lebenswelten und den Alltag eines Berufssoldaten mitnahmen.
 
 </div>

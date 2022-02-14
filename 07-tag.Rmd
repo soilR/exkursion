@@ -7,7 +7,7 @@ Standorte: Kleve, Eidersperrwerk, Friedrichstadt, Wattwanderung
 Ankunft: Jugendherberge Heide
 
 
-## Waschsalon und Südfriedhof Heide (Jana)
+## Waschsalon und Südfriedhof Heide
 
 <div style="text-align: justify">
 
@@ -15,7 +15,7 @@ Dieser Sonntagvormittag stand den ExkursionsteilnehmerInnen zur freien Verfügun
 
 </div>
 
-## Besuch von Kleve und dem Eidersperrwerk (Florian)
+## Besuch von Kleve und dem Eidersperrwerk
 
 <div style="text-align: justify">
 Am siebten Tag unserer Exkursion ging es zuerst nach Kleve wo wir an einem Reiterhof haltmachten. Hier nannte uns Herr Mansfeldt ein paar Informationen. 
@@ -26,23 +26,23 @@ Von Kleve geht es weiter zum [Eidersperrwerk](https://www.spo-eiderstedt.de/poi/
 
 **Quellen**
 
-Stadt Eiderstedt, 2021. Abrufbar unter: https://www.spo-eiderstedt.de/poi/eidersperrwerk. Letzter Zugriff am 05.01.2022
+- Stadt Eiderstedt, 2021. Abrufbar unter: https://www.spo-eiderstedt.de/poi/eidersperrwerk. Letzter Zugriff am 05.01.2022
 
 
-## Friedrichstadt (Florian)
+## Friedrichstadt
 
 <div style="text-align: justify">
 
 In Friedrichstadt machten wir halt um uns den kleinen Ort anzuschauen. Im 17. Jahrhundert sollte hier eine neue [Handelsmetropole](https://www.nordseetourismus.de/friedrichstadt)
 entstehen. Stadtgründer Herzog Friedrich III von Schleswig-Gottorf holte dafür viele niederländische Bürger in die Stadt, was man auch unweigerlich am Stadtbild erkennen kann, sieht die die Stadt doch aus wie „Klein-Amsterdam“.
 
-```{r, echo=FALSE, out.width="80%", fig.cap="Friedrichstadt – oder auch Klein-Amsterdam."}
+```{r, echo=FALSE, fig.align='center', out.width="80%", fig.cap="Friedrichstadt – oder auch Klein-Amsterdam."}
 knitr::include_graphics("images/Flow/Friedrichstadt1.jpeg")
 ```
 
 Statt Tulpen gibt es hier jedoch viele Rosen zu begutachten. Zudem verlaufen holländische Grachten durch die Stadt. Bei unserer kleinen Tour sehen wir viele Kanufahrer und kleine Boote. Bei schönem Wetter und einer Fülle an Menschen genossen wir beispielsweise unsere Poffertjes, echt holländisch halt.
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Grachten in Friedrichstadt."}
+```{r, echo=FALSE, fig.align='center', out.width="70%", fig.cap="Grachten in Friedrichstadt."}
 knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 ```
 
@@ -50,21 +50,21 @@ knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 
 **Quellen**
 
-Nordseetourismus Friedrichstadt, 2021. Abrufbar unter: https://www.nordseetourismus.de/friedrichstadt. Letzter Zugriff am 05.01.2022.
+- Nordseetourismus Friedrichstadt, 2021. Abrufbar unter: https://www.nordseetourismus.de/friedrichstadt. Letzter Zugriff am 05.01.2022.
 
 
-## Wattwanderung (Florian)
+## Wattwanderung
 
 <div style="text-align: justify">
 Der Sonntag wurde am späten Nachmittag durch eine Wattwanderung abgerundet. Die Fahrt dorthin dauerte knapp zwei Stunden. Nach einer kurzen Stärkung durch Fischbrötchen trafen wir uns mit einer alten Bekannten von Herrn Mansfeldt, die uns durch das Wattenmeer begleitete. Das Wattenmeer setzt sich aus dem südlichen, mittleren und nördlichen Meer zusammen und erstreckt sich von den Niederlanden, über Deutschland bis nach Dänemark. 
 
-Die Lebensräume des Wattenmeers bilden ein komplexes System, das sich aus verschiedenen Gradienten zusammensetzt, wie Wassertiefe und Salzgehalt, Höhenlage und Trockenheit, Einwirkung durch hydrodynamische Prozesse und Wind sowie durch Organismen veränderte Substrate (Common Wadden Sea Secreteriat, 2021). Es gibt ein reichhaltiges Nahrungsangebot für Fische, Vögel und Schalentiere. Die wichtigsten Lebensräume des Wattenmeers sind auf einer Linie ausgehend vom offenen Meer bis hin zur Küste angeordnet. Sie reichen von tiefen tidengeprägten Rinnen und Prielen bis zu den höchsten Dünen.
+Die Lebensräume des Wattenmeeres bilden ein komplexes System, das sich aus verschiedenen Gradienten zusammensetzt, wie Wassertiefe und Salzgehalt, Höhenlage und Trockenheit, Einwirkung durch hydrodynamische Prozesse und Wind sowie durch Organismen veränderte Substrate (Common Wadden Sea Secreteriat, 2021). Es gibt ein reichhaltiges Nahrungsangebot für Fische, Vögel und Schalentiere. Die wichtigsten Lebensräume des Wattenmeers sind auf einer Linie ausgehend vom offenen Meer bis hin zur Küste angeordnet. Sie reichen von tiefen tidengeprägten Rinnen und Prielen bis zu den höchsten Dünen.
 Das dem Wattenmeer vorgelagerte Meer ist frei von Wattflächen. Im Gezeitengebiet findet ein ständiger Austausch von Wasser und Sedimenten statt. Häufig kommt es zu massivem Wachstum an Phytoplankton, da die Trübheit gering genug ist, um ausreichend Licht durchzulassen (Common Wadden Sea Secreteriat, 2021).
 
 In der Gezeitenzone liegen mit den Wattflächen die markantesten Lebensräume.
 Bei Ebbe trifft das Meer auf den Horizont und lädt den Besucher zu einer Wattwanderung ein, wenn mehr als die Hälfte der Wattflächen frei liegen. Zahlreiche Rinnsale, einige Priele und tiefe Fahrrinnen durchtrennen jedoch das Watt und können einem den Weg abschneiden.
 
-```{r, echo=FALSE, out.width="60%", fig.cap="Wattenmeer."}
+```{r, echo=FALSE, fig.align='center', out.width="60%", fig.cap="Wattenmeer."}
 knitr::include_graphics("images/Flow/IMG_6983.jpg")
 ```
 
@@ -73,25 +73,25 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms."}
+```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="J-Röhre des Wattwurms."}
 knitr::include_graphics("images/Flow/J-Roehre.jpg")
 ```
 
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land (lebensraum-wattenmeer, 2021). Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
-```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese."}
+```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="Salzwiese."}
 knitr::include_graphics("images/Flow/Salzwiese.png")
 ```
 
 Die Lebensräume des Wattenmeers bieten eine große Vielfalt an Arten (Common Wadden Sea Secreteriat, 2021). Von den 10.000 im Wattenmeer vorkommenden Pflanzen- und Tierarten leben etwa 2.700 im Meer und mindestens 5.100 sowohl im Meer als auch an Land oder ausschließlich an Land. Dazu gibt es verschiedene Gruppen an Einzellern und kleinen Metazoen. Phototrophe Pflanzen sind mit etwa 2.300 Arten vertreten, Großpilze mit 1.300 und Tiere mit 4.200 Arten. 
 
-Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto, wo wir gemeinsam ein erholsames Bier tranken. Anschließend fuhren wir zurück zu unserer Unterkunft. Dort angekommen, spielten wir zu fünft eine spannende Partie Straßenschach bis in die frühen Morgenstunden. 
+Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto. Anschließend fuhren wir zurück zu unserer Unterkunft. Dort angekommen, spielten wir zu fünft eine spannende Partie Straßenschach bis in die frühen Morgenstunden. 
 
 **Quellen**
 
-Common Wadden Sea Secreteriat,2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
+- Common Wadden Sea Secreteriat,2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
 
-Lebensraum Wattenmeer, 2021. Abrufbar unter: https://www.lebensraum-wattenmeer.de. Letzter Zugriff am 30.11.2021.
+- Lebensraum Wattenmeer, 2021. Abrufbar unter: https://www.lebensraum-wattenmeer.de. Letzter Zugriff am 30.11.2021.
 
 </div>
 

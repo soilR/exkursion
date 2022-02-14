@@ -4,26 +4,28 @@
 
 Abfahrt: [Rundbau des geographischen Instituts]( https://geographie.uni-koeln.de/institut/gebaeude/rundbau)
 
-Standorte: Porta Westfalica, Wasserstraßenkreuz Minden, Biohof Kinkelbur, Oberlübber Bergsee, Acker, am Nordrand des Wiehengebirges
+Standorte: Porta Westfalica, Wasserstraßenkreuz Minden, Biohof Kinkelbur, Oberlübber Bergsee, Acker am Nordrand des Wiehengebirges
 
 Ankunft: Wiehen-Therme
 
 </div>
 
-## Porta Westfalica (Jana)
+## Porta Westfalica
 
 <div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d19543.18938125817!2d8.8951862!3d52.2452241!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1644837537937!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Unsere Exkursion startete am Montag den 13. September 2021 gegen 08:00 am [Rundbau des Geographischen Instituts]( https://geographie.uni-koeln.de/institut/gebaeude/rundbau) der Universität zu Köln. Nachdem wir den gemieteten Van mit unseren zahlreichen Taschen, Rucksäcken und allerlei technischem Equipment beladen hatten, ging die Reise in Richtung Norddeutschland los.
 Unser erster Zwischenstopp unserer zweiwöchigen Reise lag bei Minden: die Porta Westfalica. Auf dem Weg durchquerten wir das nördliche Sauerland sowie den Teutoburger Wald und kamen vormittags am [Kaiser-Wilhelm-Denkmal](https://kaiser-wilhelm-porta.de/) an. Das Denkmal wurde 1896 nach vier jähriger Bauzeit fertig gestellt und zeigt Wilhelm Friedrich Ludwig von Preußen (1797 – 1988), König von Preußen sowie Deutscher Kaiser. Mit einer Gesamthöhe von knapp 90 m und der erhöhten Lage auf dem Wittekindsberg überwacht das Denkmal den Weserdurchbruch zwischen dem westlich gelegenen Wiehengebirge und dem östlichen Wesergebirge an der Mittelgebirgsschwelle in die Norddeutsche Tiefebene. Das 7 m hohe bronzene Standbild steht auf einem aus Porta-Sandstein errichteten Sockel und wird durch einen steinernen Baldachin überdacht (LWL 2022). 
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Kaiser-Wilhelm Denkmal an der Porta Westfalica."}
+```{r, echo=FALSE, out.width="50%", fig.align='center', fig.cap="Kaiser-Wilhelm Denkmal an der Porta Westfalica."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_115204.jpg")
 ```
 
 Die geographische Lage des Ehrendenkmals erlaubte kurze Transportwege für den benötigten Baustoff, den Porta-Sandstein. Dieses Gestein entstand durch die Diagenese von sandigem Material, welches im Oberen Dogger (Jura) vor rund 168 Mio. Jahren in Randmeerlage sedimentiert wurde. Während der vor etwa 100 Mio. Jahren einsetzenden alpidischen Orogenese kam es zu der Hebung und Aufwölbung eines Höhenzuges. Die Weser teilt dieses Gebirge in Form eines Durchbruchtals wie beschrieben in das Wesergebirge im Osten und das Wiehengebirge im Westen. Das Gestein der Gebirgszüge ist durch seine braune Färbung und reiche Textur gekennzeichnet. Je nach Fundort kann es unterschiedlich stark gebändert und carbonathaltig sein. Die graue bis deutlich rotbraune Färbung entsteht durch verschieden hohe Eisengehalte, die neben carbonatischen und tonigen Bindemitteln für die verhältnismäßig hohe Verwitterungsresistenz des Gesteins sorgt und es damit zu einem beliebten Baumaterial macht (Ebel & Ehling 2012, mündl. Kommunikation Exkursionsleitung 2021). Heute wird das Gestein in Sand- und Kiesgruben sowie in Steinbrüchen abgebaut. 
 
-In Tieflagen und den Überflutungsgebieten der Weser überwiegen heute Grundwasser beeinflusste Böden wie beispielsweise Gleye sowie verschiedene Auenböden. Da die Ausgangsgesteine der Bodenbildung häufig kalkhaltig sind und somit Säureeinträge puffern, herrschen neutrale Boden pH-Werte vor. Im Weserbergland sowie im Wiehengebirge dominieren Buchenwälder in unterschiedlichen Vergesellschaftungen wie beispielsweise dem Waldmeister. Auch Mischwälder mit Erlen oder Eichen können hier angetroffen werden (Wald und Holz NRW 2022).
+In Tieflagen und den Überflutungsgebieten der Weser überwiegen heute grundwasserbeeinflusste Böden wie beispielsweise Gleye sowie verschiedene Auenböden. Da die Ausgangsgesteine der Bodenbildung häufig kalkhaltig sind und somit Säureeinträge puffern, herrschen neutrale Boden pH-Werte vor. Im Weserbergland sowie im Wiehengebirge dominieren Buchenwälder in unterschiedlichen Vergesellschaftungen wie beispielsweise dem Waldmeister. Auch Mischwälder mit Erlen oder Eichen können hier angetroffen werden (Wald und Holz NRW 2022).
 
 Die Aussichtsplattform zu Füßen der Statue ermöglichte uns einen ersten Blick in Richtung der Norddeutschen Tiefebene, die wir in den nächsten Tagen weiter bereisten. 
 
@@ -31,27 +33,29 @@ Die Aussichtsplattform zu Füßen der Statue ermöglichte uns einen ersten Blick
 
 **Quellen**
 
-Ebel, R., Ehling, A., 2012. Der Porta-Sandstein Geologie, Vorkommen, historischer Abbau und Verwendung. Geologie und Paläontologie in Westfalen 82, S. 5 – 146, Münster.
+- Ebel, R., Ehling, A., 2012. Der Porta-Sandstein Geologie, Vorkommen, historischer Abbau und Verwendung. Geologie und Paläontologie in Westfalen 82, S. 5 – 146, Münster.
 
-Exkursionsleitung, 2021. Vortrag über die Geologie des Raumes Minden, der Porta Westfalica und die Entstehung des Porta-Sandsteins.
+- Exkursionsleitung, 2021. Vortrag über die Geologie des Raumes Minden, der Porta Westfalica und die Entstehung des Porta-Sandsteins.
 
-LWL - Landschaftsverband Westfalen-Lippe, 2022. Baugeschichte. https://www.kaiser-wilhelm-denkmal.lwl.org/de/denkmal/baugeschichte/)**, 2022-01-30. 
+- LWL - Landschaftsverband Westfalen-Lippe, 2022. Baugeschichte. https://www.kaiser-wilhelm-denkmal.lwl.org/de/denkmal/baugeschichte/)**, 2022-01-30. 
 
-Wald und Holz NRW, 2022. Wuchsgebiet 17: Weserbergland Zahlen und Fakten. https://www.wald-und-holz.nrw.de/wald-in-nrw/wuchsgebiete/weserbergland, 2022-01-30.
+- Wald und Holz NRW, 2022. Wuchsgebiet 17: Weserbergland Zahlen und Fakten. https://www.wald-und-holz.nrw.de/wald-in-nrw/wuchsgebiete/weserbergland, 2022-01-30.
 
-## Wasserstraßenkreuz Minden (Jana)
+## Wasserstraßenkreuz Minden
 
 <div style="text-align: justify">
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d4879.3817329621925!2d8.9314611!3d52.3034651!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1644837637613!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 Nach einer kleinen Stärkung beim City-Döner stoppten wir am Wasserstraßenkreuz Minden, etwa 2,5 km außerhalb des Stadtzentrums. Dabei handelt es sich um eine Kreuzung zwischen der von Süden nach Norden fließenden Weser und dem von West nach Ost verlaufenden Mittellandkanal. Der Mittellandkanal wird hier in zwei 370 m langen Trogbrücken über die Weser geleitet. Dabei liegt der mittlere Kanalspiegel etwa 13 m oberhalb dem der Weser. Der alte Kanaltrog hat eine Breite von 24 m und eine Wassertiefe von 3 m. Neben der 1914 fertig gestellten alten Kanalbrücke wurde 1993 eine zweite Kanalbrücke errichtet, deren Abmessungen mit 42 m Breite und 4 m Wassertiefe die Überfahrt für größere Schiffe erlaubt (WSV 2022). Das beeindruckende Bauwerk ermöglicht es dem Schiffsverkehr kollisionsfrei zu kreuzen. Eine Verbindung zwischen den beiden Wasserstraßen ist durch mehrere Schleusen und Pumpwerke gegeben.
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Blick auf die alte Kanalbrücke aus südwestlicher Richtung."}
+```{r, echo=FALSE, out.width="50%", fig.align='center', fig.cap="Blick auf die alte Kanalbrücke aus südwestlicher Richtung."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_131349.jpg")
 ```
 
 Wir gingen ein kleines Stück die Brücke entlang und genossen den Blick hinunter auf die Aue der Weser sowie das Weserbergland und das Wiehengebirge, die sich in südlicher Richtung am Horizont zeigten. Auch der Weserdurchbruch war zu erkennen. Mit diesem Blick zurück setzten wir unsere Fahrt in den Norden fort.
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Blick von der alten Kanalbrücke nach Süden. Links: Weserbergland, Mitte: Porta Westfalica und Weserdurchbruch, Rechts: Wiehengebirge."}
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Blick von der alten Kanalbrücke nach Süden. Links: Weserbergland, Mitte: Porta Westfalica und Weserdurchbruch, Rechts: Wiehengebirge."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_131624.jpg")
 ```
 
@@ -59,29 +63,31 @@ knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_131624.jpg")
 
 **Quellen**
 
-WSV – Wasserstraßen- und Schifffahrtsverwaltung des Bundes, 2022. Kanalbrücken. https://www.wsa-mittellandkanal-elbe-seitenkanal.wsv.de/Webs/WSA/Mittellandkanal-ESK/DE/Wasserstrassen/BauwerkeAnlagen/Kanalbruecken/kanalbruecken_node.html#doc1716756bodyText2, 2022-01-30.
+- WSV – Wasserstraßen- und Schifffahrtsverwaltung des Bundes, 2022. Kanalbrücken. https://www.wsa-mittellandkanal-elbe-seitenkanal.wsv.de/Webs/WSA/Mittellandkanal-ESK/DE/Wasserstrassen/BauwerkeAnlagen/Kanalbruecken/kanalbruecken_node.html#doc1716756bodyText2, 2022-01-30.
 
-## Biohof Kinkelbur (Julia)
+## Biohof Kinkelbur
 
 <div style="text-align: justify">
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d78114.8275310943!2d8.763658!3d52.2780978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba7367b7758f5b%3A0xcf9bbe3bfef8111c!2sFriedrich%20Kinkelbur%20Biohof!5e0!3m2!1sde!2sde!4v1644837193247!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 Unser nächster Stopp war der [Biohof Kinkelbur](https://www.biohof-kinkelbur.de/). Er liegt im Südwesten von Minden, im Stadtteil Haddenhausen. Der Hof besteht bereits seit 1648 als Familienbetrieb und wird heute vom Ehepaar Friedrich und Ulrike Kinkelbur, ihren beiden Söhnen und einem Team aus ca. 7 MitarbeiterInnen betrieben, darunter Festangestellte, MinijobberInnen und Azubis (Biohof Kinkelbur 2022). Für unseren Besuch trafen wir Friedrich Kinkelbur, der uns bei Tee und Kaffee aus dem eigenen Hofladen den Betrieb vorstellte und uns dann auf dem Gelände herumführte. Das Katzenjunge, das uns dabei stets begleitete, begeisterte einige von uns so sehr, dass es zum zwischenzeitlichen Exkursionsmaskottchen gekürt wurde. 
 
-Auf dem Bauernhof Kinkelbur wird seit 1981 organisch-biologischer Landbau nach den Richtlinien des Bioland-Verbandes betrieben. Vom Hof ausgehend werden sowohl Milch als auch Zucht- und Schlachtvieh, Weizen, Roggen und Kartoffeln sowie Eier und Suppenhühner erwirtschaftet und regional – etwa in lokalen Molkereien und Supermärkten – bzw.  innerhalb der Bio-Schiene vertrieben. Allerdings liegt der klare Schwerpunkt des Hofes auf der Milcherzeugung. 1969 spezialisierte der Hof sich mit dem Ausbau des Stalles zum Boxenlaufstall auf Milchvieh. In den darauffolgenden Jahrzehnten wurde die dafür notwendige Infrastruktur konstant ausgebaut, etwa durch den Bau eines Jungviehstalles und Güllebehälters, den Neubau des Kuhstalles und des Melkhauses, sowie durch die Verlängerung und den Ausbau der Fahrsilos. Im Laufe der Jahre wurden auf dem Hof außerdem eine eigene Maschinenhalle, eine Getreideaufbereitungsanlag und eine Photovoltaikanlage errichtet (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
+Auf dem Bauernhof Kinkelbur wird seit 1981 organisch-biologischer Landbau nach den Richtlinien des Bioland-Verbandes betrieben. Vom Hof ausgehend werden sowohl Milch als auch Zucht- und Schlachtvieh, Weizen, Roggen und Kartoffeln sowie Eier und Suppenhühner erwirtschaftet und regional – etwa in lokalen Molkereien und Supermärkten – bzw.  innerhalb der Bio-Schiene vertrieben. Allerdings liegt der klare Schwerpunkt des Hofes auf der Milcherzeugung. 1969 spezialisierte der Hof sich mit dem Ausbau des Stalles zum Boxenlaufstall auf Milchvieh. In den darauffolgenden Jahrzehnten wurde die dafür notwendige Infrastruktur konstant ausgebaut, etwa durch den Bau eines Jungviehstalles und Güllebehälters, den Neubau des Kuhstalles und des Melkhauses, sowie durch die Verlängerung und den Ausbau der Fahrsilos. Im Laufe der Jahre wurden auf dem Hof außerdem eine eigene Maschinenhalle, eine Getreideaufbereitungsanlage und eine Photovoltaikanlage errichtet (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
 
 Durch wiederholte Aufstockung des Viehbestands und die Zupacht eines weiteren Betriebs im Nachbarort 2014 konnte die Milchviehherde des Hofs Kinkelbur von 50 Milchkühen 1996 auf heute 110 Milchkühe anwachsen. Als bemerkenswert hervorzuheben ist dabei die sehr hohe Milchleistung der einzelnen Kühe, die mit jährlich ca. 10.300 kg Milch deutlich über dem aktuellen deutschen Durchschnitt von 8.457 kg liegt (Bundesinformationszentrum Landwirtschaft 2021). Was für einen Biohof zunächst einmal sehr überraschend erscheint, ist in der Züchtung der Kühe begründet. Die für ihre hohe Milchleistung bekannte Rasse Holstein-Friesian wird zwar *bio* gehalten, ist aber auf Leistungsstärke gezüchtet und daher auch in der konventionellen Landwirtschaft sehr populär (Brade & Brade 2010). Gemäß den Richtlinien der biologischen Landwirtschaft werden die Kühe auf dem Hof Kinkelbur mit überwiegend eigens angebautem Bio-Futter ernährt. So erhalten sie Grundmischungen über einen Futtermischwagen und zusätzlich Heu, Mineralfutter und Viehsalz. Hinzu kommen von einem technischen Mitarbeiter individuell zusammengestellte Kraftfuttereigenmischungen, bestehend aus Getreideweizen und Eiweiß-Ergänzer. Wenn der Boden es zulässt, wird die Fütterung durch Kurztagsweide ergänzt (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
 
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall."}
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Drei Milchkühe der Rasse Holstein-Friesian im Boxenlaufstall."}
 knitr::include_graphics("images/Jana/20210913_134559.jpg")
 ```
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Führung über den Bauernhof durch Herrn Kinkelbur."}
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Führung über den Bauernhof durch Herrn Kinkelbur."}
 knitr::include_graphics("images/kristof/IMG_9129.jpg")
 ```
 
 
-Der Biohof verfügt über eine landwirtschaftliche Nutzfläche von insgesamt 165 ha, von der 3,5 ha bewaldet sind, 60 ha als Grünland und 105 ha als Ackerland genutzt werden. An der Bodenbeschaffenheit der landwirtschaftlichen Flächen zeigt sich bereits die moorige Lage des Standorts, die wir durch den Besuch der nahe gelegenen Bastauwiesen am folgenden Tag noch besser kennenlernten. Während das Ackerland teilweise anmoorige Böden aufweist, umfasst das Grünland teildrainiertes Niederungsmoor. Die Unterteilung in Ackerland oder Grünland unterliegt dabei der EU-Direktzahlungen-Durchführungsverordnung (Art. 4 VO (EU) 2013/1307 Abs. 1 h) und ist an strenge Regelungen gebunden. So muss als Grünland genutztes Land mindestens alle fünf Jahre durchgepflügt werden, um nicht als Dauergrünland festgeschrieben zu werden. Da Dauergrünland einem generellen Umwandlungs- und Pflugverbot unterliegt, bietet es für die weitere Nutzung weniger Möglichkeiten der Bearbeitung, sodass eine solche Umstellung an einen Wertverlust der Fläche gekoppelt ist. Herr Kinkelbur erzählte uns dahingehend die Anekdote, dass das Zeitfenster auf einer seiner angepachteten Flächen durch eine Fehlrechnung überschritten wurde und eine als Grünland genutzte Fläche nun unbeabsichtigt als Dauergrünland an den Verpächter zurückgegeben wird, sodass mit einer Schadensersatzforderung gerechnet werden kann. Während sich die wirtschaftlich negativen Folgen dieser Regelung in dieser Anekdote bereits offenbaren, wird auf ihre ökologischen Folgen im Beitrag zu den Mooren und Baustauwiesen noch einmal eingegangen (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021). 
+Der Biohof verfügt über eine landwirtschaftliche Nutzfläche von insgesamt 165 ha, von der 3,5 ha bewaldet sind, 60 ha als Grünland und 105 ha als Ackerland genutzt werden. An der Bodenbeschaffenheit der landwirtschaftlichen Flächen zeigt sich bereits die moorige Lage des Standorts, die wir durch den Besuch der nahe gelegenen Bastauwiesen am folgenden Tag noch besser kennenlernten. Während das Ackerland teilweise anmoorige Böden aufweist, umfasst das Grünland teildrainiertes Niederungsmoor. Die Unterteilung in Ackerland oder Grünland unterliegt dabei der EU-Direktzahlungen-Durchführungsverordnung (Art. 4 VO (EU) 2013/1307 Abs. 1 h) und ist an strenge Regelungen gebunden. So muss als Grünland genutztes Land mindestens alle fünf Jahre durchgepflügt werden, um nicht als Dauergrünland festgeschrieben zu werden. Da Dauergrünland einem generellen Umwandlungs- und Pflugverbot unterliegt, bietet es für die weitere Nutzung weniger Möglichkeiten der Bearbeitung, sodass eine solche Umstellung an einen Wertverlust der Fläche gekoppelt ist.
 
 Wie von den Richtlinien des Bioland-Verbands vorgeschrieben, wird auf den genutzten Flächen grundsätzlich auf chemischen Pflanzenschutz verzichtet. Manche regional verfügbaren Pflanzen, die den Boden sehr fruchtbar hinterlassen würden, wie etwa Raps, können also nicht angebaut werden, weil sie in der Regel nur durch diesen bestehen können. Für eine Minimierung von Unkraut sowie die Erhaltung und Förderung der Bodenfruchtbarkeit werden die Ackerflächen stattdessen mit einer spezifischen Fruchtfolge bestellt, die je nach Bodenbeschaffenheit unterschiedlich ausfällt. Auf Lehmstandorten werden in zwei aufeinanderfolgenden Jahren Kleegras, dann Mais, Winterweizen, Kartoffeln und wiederum Winterweizen angebaut. Auf den anmoorigen Standorten werden Kleegras, dann Winterweizen und danach Winterroggen angebaut. Im Sommer wird auf allen Standorten eine Blanksaat von Rotklee, Schwingel, Lieschgras und deutsches Weidelgras ausgebracht. Die Saat und Pflege erfolgt maschinell, durch Anbausämaschine, Hackstriegel, Rollhacke, diverse Hackmaschinen, Kartoffelhäufelgerät und Nachsaatstriegel für Grünland. Die Ernte erfolgt ebenfalls maschinell, durch Mähwerke, Wender und Schwader, Kartoffelroder vollzogen, der Transport durch diverse Kipper und Anhänger (ebd.). 
 
@@ -89,10 +95,11 @@ Insgesamt wird auf dem Hof Kinkelbur versucht, einen möglichst lebendigen Organ
 
 Die jüngsten Veränderungen auf dem Hof Kinkelbur gehen auf die Pandemie 2020 zurück. Während die landwirtschaftliche Tätigkeit selbst davon weitestgehend unbeeinflusst blieb, erschienen im Zuge des Lockdowns immer mehr BesucherInnen, insbesondere junge Familien, auf dem Hof, die ihn als Tagesausflugsziel nutzten. Wohl in der Intention, einen Streichelzoo-Ersatz zu finden, kamen manche dabei auch den Tieren zu nahe. Durch das Aufstellen von Schildern, die die BesucherInnen zur Vorsicht und Rücksichtnahme sensibilisieren sollten, reagierte Familie Kinkelbur auf diese Entwicklungen. Die Veränderungen boten aber auch die Chance für neue Projekte, wie etwa für den Aufbau zweier neuer Hühnermobile mit je 345 Hennen, die eine Reaktion auf die steigende Nachfrage nach Bio-Eiern darstellten. Auch der von uns vorgefundene Selbstbedienungs-Hofladen wurde zur Direktvermarktung einiger Waren auf dem Hof in dieser Zeit errichtet (Handout & Mündl. Kommunikation Hr. Kinkelbur 2021).
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Beschilderung für die BesucherInnen des Hofes."}
+```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Beschilderung für die BesucherInnen des Hofes."}
 knitr::include_graphics("images/Julia/IMG_20210913_150255.jpg")
 ```
-```{r, echo=FALSE, out.width="100%", fig.cap="Der neue Hofladen."}
+
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Der neue Hofladen."}
 knitr::include_graphics("images/Julia/IMG_20210913_150120.jpg")
 ```
 
@@ -102,15 +109,17 @@ knitr::include_graphics("images/Julia/IMG_20210913_150120.jpg")
 
 *Ein Großteil der Informationen stammt aus dem persönlichen Gespräch mit Herrn Kinkelbur unter Beigabe eines Handouts.*
 
-Biohof Kinkelbur, 2022. Ackerbau – Vielfalt statt Einfalt. https://www.biohof-kinkelbur.de/ackerbau/, 2022-01-14.
+- Biohof Kinkelbur, 2022. Ackerbau – Vielfalt statt Einfalt. https://www.biohof-kinkelbur.de/ackerbau/, 2022-01-14.
 
-Brade, E., Brade, W., 2010. Zuchtgeschichte der Deutschen Holsteinrinder. https://www.buel.bmel.de/index.php/buel/article/view/25/brade2-html, 2022-01-06.
+- Brade, E., Brade, W., 2010. Zuchtgeschichte der Deutschen Holsteinrinder. https://www.buel.bmel.de/index.php/buel/article/view/25/brade2-html, 2022-01-06.
 
-Bundesinformationszentrum Landwirtschaft, 2021. Milch. https://www.landwirtschaft.de/landwirtschaftliche-produkte/wie-werden-unsere-lebensmittel-erzeugt/tierische-produkte/milch/, 2022-01-11.
+- Bundesinformationszentrum Landwirtschaft, 2021. Milch. https://www.landwirtschaft.de/landwirtschaftliche-produkte/wie-werden-unsere-lebensmittel-erzeugt/tierische-produkte/milch/, 2022-01-11.
 
-## Oberlübber Bergsee (Jana)
+## Oberlübber Bergsee
 
 <div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2440.694810105093!2d8.7277731!3d52.2852424!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1644837658458!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Am nördlichen Rand des Wiehengebirges machten wir Halt und gingen zu Fuß zu unserem nächsten Standort. Nach einem etwa 10-minütigen Aufstieg erreichten wir den Oberlübber Bergsee. Der ehemalige Steinbruch, in dem das vorrangig kalkhaltige Sandgestein des Wiehengebirges abgebaut wurde, ist heute ein See mit steilen Uferflanken. Aufgrund der Unfallgefahr ist der See heute durch einen Zaun der Öffentlichkeit unzugänglich gemacht.
 
@@ -118,7 +127,7 @@ Wir gingen den Weg ein Stück weiter bergauf und bekamen an einem erodierten Han
 
 Über dem stark verstellten Untergrundgestein war ein geringmächtiger humoser Oberboden zu erkennen. Da es sich bei dem Ausgangsgestein um ein Carbonatgestein handelte, wird der Boden nach der deutschen Bodenklassifikation als Rendzina bezeichnet (Ad-hoc-Arbeitsgruppe Boden 2005, mündl. Kommunikation Exkursionsleitung 2021). 
 
-```{r, echo=FALSE, out.width="100%", fig.cap="Gesteinsaufschluss am Oberlübber Bergsee."}
+```{r, echo=FALSE, fig.align='center', out.width="100%", fig.cap="Gesteinsaufschluss am Oberlübber Bergsee."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_160232.jpg")
 ```
 
@@ -128,25 +137,23 @@ Wir verließen das Wiehengebirge in nördliche Richtung und begaben uns auf den 
 
 **Quellen**
 
-Bundesverband Geothermie, 2021. Streichen und Fallen. https://www.geothermie.de/bibliothek/lexikon-der-geothermie/s/streichen-und-fallen.html, 2022-01-30.
+- Bundesverband Geothermie, 2021. Streichen und Fallen. https://www.geothermie.de/bibliothek/lexikon-der-geothermie/s/streichen-und-fallen.html, 2022-01-30.
 
-Exkursionsleitung, 2021. Gespräch über die Geologie des Wiehengebirges.
+- Exkursionsleitung, 2021. Gespräch über die Geologie des Wiehengebirges.
 
-## Kolluvisol (Jana)
+## Kolluvisol
 
 <div style="text-align: justify">
 
 Im nördlichen Vorland des Wiehengebirges hielten wir am Rande eines Rapsfeldes. Hier wollten wir uns mit Hilfe eines Pürckhauer Bohrstockes den Ackerboden anschauen. Wir achteten dabei sehr darauf, eine Schädigung der jungen Rapspflanzen zu vermeiden. An einigen Pflanzen waren jedoch bereits kleine Löcher in den Blättern zu erkennen. Dabei handelte es sich um den typischen Lochfraß des Rapserdflohs (Psylliodes chrysocephala) (BLE 2018).
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Durch den Rapserdfloh beschädigter Rapskeimling."}
+```{r, echo=FALSE, fig.align='center', out.width="50%", fig.cap="Durch den Rapserdfloh beschädigter Rapskeimling."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164126.jpg")
 ```
 
 Dieser Schädling verursacht im Herbst an jungen Rapspflanzen die in Abbildung 2.9 ersichtliche Durchlöcherung der Keimblätter. Der Befall kann zu Ertragsminderungen führen. Außerdem kann es zu einer Verbreitung des Schädlings in angrenzende Rapsbestände kommen. Im ökologischen Landbau ist eine direkte Bekämpfung des Rapserdflohs nicht möglich. Die Fruchtfolge sollte entsprechend angepasst werden, da andere Ackerpflanzen für den Schädling nicht anfällig sind. Die Eiablage kann durch eine Mulchsaat gehemmt werden. Außerdem können räuberische Arten den Bestand vor einem übermäßigen Befall schützen (BLE 2018). Neben den beschriebenen Schädigungen der Pflanze erkannten wir kleine grünblaue Körner in regelmäßiger Verteilung auf dem Acker. Wir vermuteten, dass es sich dabei um Schneckenkorn handelt, das im Randbereich des Feldes ausgebracht wurde, um ein Einwandern von Schnecken zu verhindern. 
 
-**Abbildung an den rechten Rand des Dokuments und den Text daneben. Wie macht man das? Hilfe!**
-
-```{r, echo=FALSE, out.width="30%", fig.cap="Mittels Pürckhauer entnommene Bodenprobe: Kolluvisol."}
+```{r, echo=FALSE, fig.align='center', out.width="30%", fig.cap="Mittels Pürckhauer entnommene Bodenprobe: Kolluvisol."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164114.jpg")
 ```
 
@@ -158,10 +165,10 @@ Wir fuhren noch ein Stück weiter in nördliche Richtung und ließen den Tag bei
 
 **Quellen**
 
-Ad-hoc-Arbeitsgruppe Boden: Bundesanstalt für Geowissenschaften und Rohstoffe in Zusammenarbeit mit den Staatlichen Geologischen Diensten, 2005. Bodenkundliche Kartieranleitung, Hannover. 
+- Ad-hoc-Arbeitsgruppe Boden: Bundesanstalt für Geowissenschaften und Rohstoffe in Zusammenarbeit mit den Staatlichen Geologischen Diensten, 2005. Bodenkundliche Kartieranleitung, Hannover. 
 
-BLE – Bundesanstalt für Landwirtschaft und Ernährung (BLE), 2018. Rapserdfloh. https://www.oekolandbau.de/landwirtschaft/pflanze/grundlagen-pflanzenbau/pflanzenschutz/schaderreger/schadorganismen-im-ackerbau/rapserdfloh-psylliodes-chrysocephala/, 2022-01-30.
+- BLE – Bundesanstalt für Landwirtschaft und Ernährung (BLE), 2018. Rapserdfloh. https://www.oekolandbau.de/landwirtschaft/pflanze/grundlagen-pflanzenbau/pflanzenschutz/schaderreger/schadorganismen-im-ackerbau/rapserdfloh-psylliodes-chrysocephala/, 2022-01-30.
 
-Bundesministerium für Ernährung und Landwirtschaft, 2020. Grundlage der Bodenfruchtbarkeit – die Kalkung. https://www.bmel.de/DE/themen/landwirtschaft/pflanzenbau/bodenschutz/bodenfruchtbarkeit-kalkung-grundlagen.html, 2022-01-30.
+- Bundesministerium für Ernährung und Landwirtschaft, 2020. Grundlage der Bodenfruchtbarkeit – die Kalkung. https://www.bmel.de/DE/themen/landwirtschaft/pflanzenbau/bodenschutz/bodenfruchtbarkeit-kalkung-grundlagen.html, 2022-01-30.
 
-Exkursionsleitung, 2021. Diskussion und Gespräch über den Standort.
+- Exkursionsleitung, 2021. Diskussion und Gespräch über den Standort.

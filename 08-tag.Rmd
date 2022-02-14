@@ -6,7 +6,11 @@ Standorte: Plön, Todendorf, Laboe
 
 Ankunft: Truppenübungsplatz Todendorf
 
-## Plön und Plöner See (Jana)
+## Plön und Plöner See
+
+<div style="text-align: justify">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d9345.389854784942!2d10.4146309!3d54.1562084!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1644837794233!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Dieser Montag startete an der Jugendherberge Heide. Wir verabschiedeten uns von der Nordseeküste und durchfuhren Schleswig-Holstein in östliche Richtung auf dem Weg zu unserer nächsten Unterkunft an der Ostseeküste. Gegen Mittag legten wir einen Halt beim [Käsehof Biss]( https://kaesehofbiss.de/) ein. Dort konnten neben diversen regionalen Käsespezialitäten weitere Köstlichkeiten, wie Brotaufstriche, Wurst und andere Andenken erworben werden. Gestärkt fuhren wir weiter bis Plön.
 
@@ -16,9 +20,9 @@ Wir spazierten von der Innenstadt Plöns bis zum eindrucksvollen Plöner Schloss
 
 **Quellen**
 
-Landesamt für Natur und Umwelt des Landes Schleswig-Holstein, 2004. Kleiner Plöner See Zustand und Belastungsquellen. LANU SH – Gewässer – B 54.
+- Landesamt für Natur und Umwelt des Landes Schleswig-Holstein, 2004. Kleiner Plöner See Zustand und Belastungsquellen. LANU SH – Gewässer – B 54.
 
-## Todendorf (Julia)
+## Todendorf
 <div style="text-align: justify">
 
 Unser Ziel für die nächsten zwei Nächte war ein auf dem ersten Blick wohl ungewöhnliches Ziel für eine geographische Exkursionsgruppe: der Truppenübungsplatz Todendorf. Er liegt im Kreis Plön an der schleswig-holsteinischen Ostseeküste und ist eigentlich keine eigenständige Anlage, sondern eine Außenstelle der übergeordneten Truppenübungsplatzes Putlos, dessen Übungsgelände sich insgesamt von der Wagrien-Kaserne westlich von Oldenburg bis an die Hohwachter Bucht erstreckt. Es umfasst insgesamt rund 12 km² Land und etwa 480 km² Schießgebiet auf See (Bundeswehr 2022).
@@ -39,35 +43,34 @@ Auch Tiere finden auf dem Gelände sehr günstige und geschützte Lebensbedingun
 
 *Ein Teil der Informationen entstammt aus dem persönlichen Gespräch mit Horst Peters, der uns über das Gelände führte.*
 
-Bundeswehr, 2021. Truppenübungsplatz Putlos. https://www.bundeswehr.de/resource/blob/312358/a6382e62e3375325ab2d2857533cab20/datenblatt-putlos-zum-download-data.pdf, 2021-12-03. 
+- Bundeswehr, 2021. Truppenübungsplatz Putlos. https://www.bundeswehr.de/resource/blob/312358/a6382e62e3375325ab2d2857533cab20/datenblatt-putlos-zum-download-data.pdf, 2021-12-03. 
 
-Bundeswehr, 2022. Truppenübungsplätze – Putlos mit Außenstelle Todendorf. https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/truppenuebungsplaetze/bereich-truppenuebungsplatzkommandantur-nord, 2021-12-15.
+- Bundeswehr, 2022. Truppenübungsplätze – Putlos mit Außenstelle Todendorf. https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/truppenuebungsplaetze/bereich-truppenuebungsplatzkommandantur-nord, 2021-12-15.
 
-NABU, 2022a. Kormoran – Phalacrocorax carbo. https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kormoran/, 2022-01-20. 
+- NABU, 2022a. Kormoran – Phalacrocorax carbo. https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kormoran/, 2022-01-20. 
 
-NABU, 2022b. Altlasten und Schmuckstücke. https://www.nabu.de/natur-und-landschaft/naturschutz/deutschland/11646.html, 2021-12-21. 
+- NABU, 2022b. Altlasten und Schmuckstücke. https://www.nabu.de/natur-und-landschaft/naturschutz/deutschland/11646.html, 2021-12-21. 
 
-Willinger, G., 2019. Arche Truppenübungsplatz. https://www.spektrum.de/news/truppenuebungsplaetze-sind-eine-oase-fuer-die-natur/1638618, 2021-12-21.
+- Willinger, G., 2019. Arche Truppenübungsplatz. https://www.spektrum.de/news/truppenuebungsplaetze-sind-eine-oase-fuer-die-natur/1638618, 2021-12-21.
 
 
 
-## Laboe (Florian)
+## Laboe
 
 <div style="text-align: justify">
 Nach der Todendorf Führung ging es für uns abends nach Laboe, wo wir ein Picknick im Sand veranstalteten. Mit fabelhaftem Blick auf das Meer. Trotz des kühlen Windes wagte sich Christian ins Wasser, wenn auch nicht für lange. 
 
-```{r, echo=FALSE, out.width="70%", fig.cap="Laboe."}
+```{r, echo=FALSE, fig.align='center', out.width="70%", fig.cap="Laboe."}
 knitr::include_graphics("images/Flow/IMG_6996.jpg")
 ```
 
-Wir hatten Brot, allerlei Snacks und natürlich ein kühles Blondes. Anschließend machten wir einen Strandspaziergang, bei dem wir auch kurz am Marine-Ehrenmal vorbeikamen.  
+Wir hatten Brot, allerlei Snacks und ein kühles Blondes. Anschließend machten wir einen Strandspaziergang, bei dem wir auch kurz am Marine-Ehrenmal vorbeikamen.  
 
 Das 1936 fertig gestellte 85 Meter hohe [Marine-Ehrenmal]( https://deutscher-marinebund.de/marine-ehrenmal-u-995/marine-ehrenmal/) ist eine internationale Gedenkstätte für die auf See Gebliebenen aller Nationen und ein Mahnmal für eine friedliche Schifffahrt auf freien Meeren. Heute stellt das Ehrenmal eine internationale Mahn- und Gedenkstätte dar, die jedes Jahr während der Kieler Woche mit einer internationalen Kranzniederlegung gewürdigt wird.
 
 Der Rückweg folgte auf der Promenade, begleitet von einem traumhaften Sonnenuntergang.
 
-
-```{r, echo=FALSE, fig.cap="Am Strand in Laboe bei Sonnenuntergang."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Am Strand in Laboe bei Sonnenuntergang."}
 knitr::include_graphics("images/Jana/20210920_182809.jpg")
 ```
 
@@ -75,4 +78,4 @@ knitr::include_graphics("images/Jana/20210920_182809.jpg")
 
 **Quellen**
 
-Deutscher Marinebund, 2021. Abrufbar unter: https://deutscher-marinebund.de/marine-ehrenmal-u-995/marine-ehrenmal. Leter Zugriff am 05.01.2022.
+- Deutscher Marinebund, 2021. Abrufbar unter: https://deutscher-marinebund.de/marine-ehrenmal-u-995/marine-ehrenmal. Leter Zugriff am 05.01.2022.
