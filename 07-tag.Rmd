@@ -56,6 +56,7 @@ knitr::include_graphics("images/Flow/Friedrichstadt2.jpeg")
 ## Wattwanderung
 
 <div style="text-align: justify">
+
 Der Sonntag wurde am späten Nachmittag durch eine Wattwanderung abgerundet. Die Fahrt dorthin dauerte knapp zwei Stunden. Nach einer kurzen Stärkung durch Fischbrötchen trafen wir uns mit einer alten Bekannten von Herrn Mansfeldt, die uns durch das Wattenmeer begleitete. Das Wattenmeer setzt sich aus dem südlichen, mittleren und nördlichen Meer zusammen und erstreckt sich von den Niederlanden, über Deutschland bis nach Dänemark. 
 
 Die Lebensräume des Wattenmeeres bilden ein komplexes System, das sich aus verschiedenen Gradienten zusammensetzt, wie Wassertiefe und Salzgehalt, Höhenlage und Trockenheit, Einwirkung durch hydrodynamische Prozesse und Wind sowie durch Organismen veränderte Substrate (Common Wadden Sea Secreteriat, 2021). Es gibt ein reichhaltiges Nahrungsangebot für Fische, Vögel und Schalentiere. Die wichtigsten Lebensräume des Wattenmeers sind auf einer Linie ausgehend vom offenen Meer bis hin zur Küste angeordnet. Sie reichen von tiefen tidengeprägten Rinnen und Prielen bis zu den höchsten Dünen.
@@ -73,13 +74,14 @@ Die durch den Wattwurm kontinuierliche Aufarbeitung der Sedimente sorgt dafür, 
 
 Der Wattwurm lebt in einer J-förmigen Röhre, in der er einen ständigen Wasserstrom erzeugt, der für frischen Sauerstoff und Nährstoffzufuhr sorgt. Mit seinem Rüssel nimmt er Sediment mit den darin enthaltenden Bakterien, Algen und organischem Material auf.
 
-```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="J-Röhre des Wattwurms."}
+
+```{r, echo=FALSE, out.width="40%", fig.cap="J-Röhre des Wattwurms (Quelle: Kock, K., 1998)."}
 knitr::include_graphics("images/Flow/J-Roehre.jpg")
 ```
 
 Die Salzwiesen bilden die Übergangszone zwischen Meer und Land (lebensraum-wattenmeer, 2021). Sie bestehen aus natürlichen Weideflächen mit einer großen Vielfalt an wunderschönen, lebensraumspezifischen Pflanzen. Salzwiesen weisen einen großen Reichtum an Blumen auf. Sie bieten eine vielfältige Mischung an spezialisierten Pflanzen ebenso wie Generalisten, die an die Lebensbedingungen angepasst sind. Bei jeder Überflutung der Salzwiese bleibt etwas Sediment zurück, wodurch der Lebensraum mit der Zeit größer wird. Aus diesem Grund können Salzwiesen dem Anstieg des Meeresspiegels weitgehend widerstehen, da in beiden Fällen das Anwachsen etwa gleich schnell erfolgt.
 
-```{r, echo=FALSE, fig.align='center', out.width="40%", fig.cap="Salzwiese."}
+```{r, echo=FALSE, out.width="40%", fig.cap="Salzwiese (Quelle: Common Wadden Sea Secreteriat)."}
 knitr::include_graphics("images/Flow/Salzwiese.png")
 ```
 
@@ -91,7 +93,12 @@ Nach der rund neunzig minütigen Wanderung ging es zurück zum Auto. Anschließe
 
 - Common Wadden Sea Secreteriat,2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
 
+- Common Wadden Sea Secreteriat, 2021. Abrufbar unter: https://www.waddensea-worldheritage.org/de/unser-welterbe. Letzter Zugriff am 30.11.2021.
+
+- Kock, K., 1998. Das Watt – Lebensraum auf den zweiten Blick. 7. Auflage. Verlagsdruckerei Boyen & Co. Heide.
+
 - Lebensraum Wattenmeer, 2021. Abrufbar unter: https://www.lebensraum-wattenmeer.de. Letzter Zugriff am 30.11.2021.
+
 
 </div>
 
