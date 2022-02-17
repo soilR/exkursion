@@ -16,7 +16,7 @@ Ankunft: [Jugendhof Vechta](https://www.bdkj-jugendhof.de/)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39021.60402956489!2d8.699339870588199!3d52.31871975158548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba0974c7ce5b4f%3A0x2fe676c07f1cc5cf!2sGro%C3%9Fes%20Torfmoor!5e0!3m2!1sde!2sde!4v1644833048556!5m2!1sde!2sde" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-Nach einem entspannten Abend in der [Wiehen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht (vgl. Abb. 3.1). Manche durften leider nur die gegenüberliegende Hauswand bewundern. 
+Nach einem entspannten Abend in der [Wiehen-Therme](https://www.wiehen-therme.com/) sind wir alle gestärkt und motiviert aufgebrochen. Das Hotel bot am Morgen für fast alle in der Runde eine schöne Aussicht (vgl. Abb. 2.1). Manche durften leider nur die gegenüberliegende Hauswand bewundern. 
 
 ```{r, echo=FALSE, fig.align='center', fig.cap="Aussicht Wiehnen Therme."}
 knitr::include_graphics("images/kristof/IMG_9142.jpg")
