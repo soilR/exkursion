@@ -37,7 +37,7 @@ Die Aussichtsplattform zu Füßen der Statue ermöglichte uns einen ersten Blick
 
 - Exkursionsleitung, 2021. Vortrag über die Geologie des Raumes Minden, der Porta Westfalica und die Entstehung des Porta-Sandsteins.
 
-- LWL - Landschaftsverband Westfalen-Lippe, 2022. Baugeschichte. https://www.kaiser-wilhelm-denkmal.lwl.org/de/denkmal/baugeschichte/)**, 2022-01-30. 
+- LWL - Landschaftsverband Westfalen-Lippe, 2022. Baugeschichte. https://www.kaiser-wilhelm-denkmal.lwl.org/de/denkmal/baugeschichte/, 2022-01-30. 
 
 - Wald und Holz NRW, 2022. Wuchsgebiet 17: Weserbergland Zahlen und Fakten. https://www.wald-und-holz.nrw.de/wald-in-nrw/wuchsgebiete/weserbergland, 2022-01-30.
 
@@ -147,11 +147,11 @@ Wir verließen das Wiehengebirge in nördliche Richtung und begaben uns auf den 
 
 Im nördlichen Vorland des Wiehengebirges hielten wir am Rande eines Rapsfeldes. Hier wollten wir uns mit Hilfe eines Pürckhauer Bohrstockes den Ackerboden anschauen. Wir achteten dabei sehr darauf, eine Schädigung der jungen Rapspflanzen zu vermeiden. An einigen Pflanzen waren jedoch bereits kleine Löcher in den Blättern zu erkennen. Dabei handelte es sich um den typischen Lochfraß des Rapserdflohs (Psylliodes chrysocephala) (BLE 2018).
 
-```{r, echo=FALSE, fig.align='center', fig.cap="Durch den Rapserdfloh beschädigter Rapskeimling."}
+```{r, echo=FALSE, fig.align='center', fig.cap="Ein durch den Rapserdfloh beschädigter Rapskeimling."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164126.jpg")
 ```
 
-Dieser Schädling verursacht im Herbst an jungen Rapspflanzen die in Abbildung 2.9 ersichtliche Durchlöcherung der Keimblätter. Der Befall kann zu Ertragsminderungen führen. Außerdem kann es zu einer Verbreitung des Schädlings in angrenzende Rapsbestände kommen. Im ökologischen Landbau ist eine direkte Bekämpfung des Rapserdflohs nicht möglich. Die Fruchtfolge sollte entsprechend angepasst werden, da andere Ackerpflanzen für den Schädling nicht anfällig sind. Die Eiablage kann durch eine Mulchsaat gehemmt werden. Außerdem können räuberische Arten den Bestand vor einem übermäßigen Befall schützen (BLE 2018). Neben den beschriebenen Schädigungen der Pflanze erkannten wir kleine grünblaue Körner in regelmäßiger Verteilung auf dem Acker. Wir vermuteten, dass es sich dabei um Schneckenkorn handelt, das im Randbereich des Feldes ausgebracht wurde, um ein Einwandern von Schnecken zu verhindern. 
+Dieser Schädling verursacht im Herbst an jungen Rapspflanzen die in Abbildung 1.9 ersichtliche Durchlöcherung der Keimblätter. Der Befall kann zu Ertragsminderungen führen. Außerdem kann es zu einer Verbreitung des Schädlings in angrenzende Rapsbestände kommen. Im ökologischen Landbau ist eine direkte Bekämpfung des Rapserdflohs nicht möglich. Die Fruchtfolge sollte entsprechend angepasst werden, da andere Ackerpflanzen für den Schädling nicht anfällig sind. Die Eiablage kann durch eine Mulchsaat gehemmt werden. Außerdem können räuberische Arten den Bestand vor einem übermäßigen Befall schützen (BLE 2018). Neben den beschriebenen Schädigungen der Pflanze erkannten wir kleine grünblaue Körner in regelmäßiger Verteilung auf dem Acker. Wir vermuteten, dass es sich dabei um Schneckenkorn handelt, das im Randbereich des Feldes ausgebracht wurde, um ein Einwandern von Schnecken zu verhindern. 
 
 ```{r, echo=FALSE, fig.align='center', fig.cap="Mittels Pürckhauer entnommene Bodenprobe: Kolluvisol."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210913_164114.jpg")

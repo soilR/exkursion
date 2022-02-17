@@ -99,7 +99,7 @@ knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_113943.jpg")
 
 <div style="text-align: justify">
 
-Nach einer kleinen mittäglichen Stärkung an der St. Johannis-Kirche in Meldorf (siehe Abbildung 7.5) – je nach Vorliebe in Form von Pommes, Burger oder Backwaren – ging unsere Reise weiter. 
+Nach einer kleinen mittäglichen Stärkung an der St. Johannis-Kirche in Meldorf (siehe Abbildung 6.5) – je nach Vorliebe in Form von Pommes, Burger oder Backwaren – ging unsere Reise weiter. 
 
 ```{r, echo=FALSE, fig.align='center', fig.cap="St. Johannis-Kirche in Meldorf und Meldorfer Marktplatz."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_122458.jpg")
@@ -133,7 +133,7 @@ Während ein Teil der Gruppe sich die Wetter- und Bodenstation genauer ansah, be
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/IMG_20210918_145533.jpg")
 ```
 
-Nach knapp eineinhalb Stunden fleißigen Buddelns und Präparierens hatte unser Bodenprofil eine Tiefe von 1,40 m erreicht. Das fertige Bodenprofil ist in Abbildung 7.7 zu sehen. Es handelt sich um eine Norm-Kalkmarsch (nach der deutschen Bodenklassifikation) bzw. einen Calcaric Fluvisol (nach WRB), die bereits in unterschiedlichen Publikationen von Herrn Mansfeldt (u.a.: Mansfeldt 2003, Mansfeldt 2004) beschrieben und als Beispielprofil für den [Boden des Jahres 2009](https://boden-des-jahres.de/archiv/2009-stadtboden/) verwendet wurde. Deutlich zu erkennen, sind die charakteristischen Bodenhorizonte.
+Nach knapp eineinhalb Stunden fleißigen Buddelns und Präparierens hatte unser Bodenprofil eine Tiefe von 1,40 m erreicht. Das fertige Bodenprofil ist in Abbildung 6.7 zu sehen. Es handelt sich um eine Norm-Kalkmarsch (nach der deutschen Bodenklassifikation) bzw. einen Calcaric Fluvisol (nach WRB), die bereits in unterschiedlichen Publikationen von Herrn Mansfeldt (u.a.: Mansfeldt 2003, Mansfeldt 2004) beschrieben und als Beispielprofil für den [Boden des Jahres 2009](https://boden-des-jahres.de/archiv/2009-stadtboden/) verwendet wurde. Deutlich zu erkennen, sind die charakteristischen Bodenhorizonte.
 
 ```{r, echo=FALSE, fig.align='center', fig.cap="Aufgegrabenes Bodenprofil: Norm-Kalkmarsch."}
 knitr::include_graphics("images/Jana/Bilder_bearbeitet/20210918_153527.jpg")
