@@ -1,6 +1,8 @@
 --- 
 title: "Reise-Blog zur großen Norddeutschlandexkursion"
-author: "Christian Gerardy, Florian Rinke, Jana Glombitza, Julia Edelmann, Maren Hövels"
+author: 
+  - "Christian Gerardy, Florian Rinke, Jana Glombitza, Julia Edelmann, Maren Hövels"
+  - "Exkursionsleitung: Tim Mansfeldt, Kristof Dorau"
 date: "Aktualisiert am: `r Sys.time()`"
 site: bookdown::bookdown_site
 bibliography: [book.bib, packages.bib]
