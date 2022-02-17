@@ -96,7 +96,7 @@ knitr::include_graphics("images/kristof/IMG_9487.jpg")
 knitr::include_graphics("images/kristof/IMG_9451.jpg")
 ```
 
-Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinnere wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung hatten wir einen Blick auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) (vlg. Abb. 10.4). Dabei handelt es sich um ein in sich geschlossenes Niederungsgebiet, das direkt an der Ostsee gelegen ist. Es ist wie die Esterweger Dose Teil der europäischen Naturschutzgebiete NATURA 2000. Besonders für Vögel ist das Gebiet von hoher Wichtigkeit und bietet durch die Vielfältigkeit der Biotop mehr als 120 Vogelarten einen Lebensraum (Nabu 2021). 
+Der Ausblick vom Leuchtturm Neuland war grandios. Wir konnten weit ins Landesinnere wie auch auf die Ostsee hinaus blicken. In südöstliche Richtung hatten wir einen Blick auf das Naturschutzgebiet ["Kleiner Binnensee und angrenzende Salzwiesen"](https://schleswig-holstein.nabu.de/natur-und-landschaft/nabu-schutzgebiete/kleiner-binnensee/03024.html) (vlg. Abb. 9.4). Dabei handelt es sich um ein in sich geschlossenes Niederungsgebiet, das direkt an der Ostsee gelegen ist. Es ist wie die Esterweger Dose Teil der europäischen Naturschutzgebiete NATURA 2000. Besonders für Vögel ist das Gebiet von hoher Wichtigkeit und bietet durch die Vielfältigkeit der Biotop mehr als 120 Vogelarten einen Lebensraum (Nabu 2021). 
 
 **Quellen**
 
