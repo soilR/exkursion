@@ -13,5 +13,5 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     toolbar: 
       position: fixed
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/soilR/exkursion/edit/master/%s
     download: ["pdf", "epub"]
