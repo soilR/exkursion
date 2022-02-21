@@ -1,4 +1,4 @@
-bookdown::pdf_document2:
+bookdown::pdf_book:
   latex_engine: xelatex
 bookdown::gitbook:
   lib_dir: assets
