@@ -5,12 +5,10 @@ author:
   - "Exkursionsleitung: Tim Mansfeldt, Kristof Dorau"
 date: "Aktualisiert am: `r Sys.time()`"
 site: bookdown::bookdown_site
-bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: "images/cover.png"
 description: |
   Dies ist ein Reise-Blog zur Großen Exkursion im Sommersemester 2021 des Geographischen Institutes der Universität zu Köln.
-link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
